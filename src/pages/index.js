@@ -8,23 +8,20 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <section className="section">
-
-        <section class="hero">
-          <div class="hero-body">
-            <div class="container">
-              <h1 class="title">
-                Hero title
-              </h1>
-              <h2 class="subtitle">
-                Hero subtitle
-              </h2>
-            </div>
+      <div>
+      <section class="hero is-medium is-primary is-bold">
+        <div class="hero-body">
+          <div class="container">
+            <h1 class="title">
+              Hero title
+            </h1>
+            <h2 class="subtitle">
+              Hero subtitle
+            </h2>
           </div>
-        </section>
-
-
-
+        </div>
+      </section>
+      <section className="section">
         <div className="container">
           <div className="content">
             <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
@@ -56,6 +53,7 @@ export default class IndexPage extends React.Component {
             ))}
         </div>
       </section>
+      </div>
     )
   }
 }
