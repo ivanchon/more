@@ -9,6 +9,22 @@ export default class IndexPage extends React.Component {
 
     return (
       <section className="section">
+
+        <section class="hero">
+          <div class="hero-body">
+            <div class="container">
+              <h1 class="title">
+                Hero title
+              </h1>
+              <h2 class="subtitle">
+                Hero subtitle
+              </h2>
+            </div>
+          </div>
+        </section>
+
+
+
         <div className="container">
           <div className="content">
             <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
