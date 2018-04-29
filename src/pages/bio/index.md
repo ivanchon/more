@@ -1,19 +1,11 @@
 ---
-templateKey: 'bio-page'
-path: /bio
-title: Biography
+templateKey: bio-page
+title: Biografia
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Britney Jean Spears (born December 2, 1981) is an American singer, dancer, and actress. Born in McComb, Mississippi, and raised in Kentwood, Louisiana, she performed acting roles in stage productions and television shows as a child before signing with Jive Records in 1997. Spears's first two studio albums, ...Baby One More Time (1999) and Oops!... I Did It Again (2000), were global successes and made her the best-selling teenage artist of all time. Referred to as the "Princess of Pop", Spears was credited with influencing the revival of teen pop during the late 1990s and the early 2000s.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Spears adopted more mature and provocative themes for her next studio albums, Britney (2001) and In the Zone (2003). She also ventured into acting with the starring role in the 2002 film Crossroads. However, her much-publicized personal issues sent her career into hiatus. Despite being released while her personal struggles were ongoing, Blackout (2007), is often critically referred to as her best work. Her erratic behavior and hospitalizations placed her under a still ongoing conservatorship.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Spears returned to the top of record charts with her sixth and seventh albums, Circus (2008) and Femme Fatale (2011). In 2012, Forbes reported that Spears was the highest paid female musician of the year, with earnings of $58 million, having last topped the list in 2002.[1] During the promotion of her eighth and ninth studio albums Britney Jean (2013) and Glory (2016), Spears embarked on the four-year concert residency, Britney: Piece of Me, at Planet Hollywood Resort & Casino in Las Vegas.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Ten of Spears' singles have reached number one in the United States or the United Kingdom: "...Baby One More Time", "Born to Make You Happy", "Oops!... I Did It Again", "Toxic", "Everytime", "Womanizer", "3", "Hold It Against Me", "S&M", and "Scream & Shout". Spears has earned numerous awards and accolades, including a Grammy Award, six MTV Video Music Awards including the Video Vanguard Award, seven Billboard Music Awards including the Millennium Award[2] and a star on the Hollywood Walk of Fame. Billboard ranked her as the eight biggest artist of the 2000s decade.[3] One of the world's best-selling music artists of all time, Spears has sold over 100 million records worldwide.[4] In the United States, Spears remains the fourth best-selling female album artist of the Nielsen SoundScan era,[5] as well as the best-selling female albums artist of the 2000s.[6]
