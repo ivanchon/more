@@ -1,5 +1,6 @@
 ---
-templateKey: bio-page
+templateKey: 'bio-page'
+path: /bio
 title: Biografia
 ---
 Britney Jean Spears (born December 2, 1981) is an American singer, dancer, and actress. Born in McComb, Mississippi, and raised in Kentwood, Louisiana, she performed acting roles in stage productions and television shows as a child before signing with Jive Records in 1997. Spears's first two studio albums, ...Baby One More Time (1999) and Oops!... I Did It Again (2000), were global successes and made her the best-selling teenage artist of all time. Referred to as the "Princess of Pop", Spears was credited with influencing the revival of teen pop during the late 1990s and the early 2000s.
