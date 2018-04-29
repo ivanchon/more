@@ -49,7 +49,7 @@ const Navbar = () => (
 export default Navbar
 
 
-
+/*
 document.addEventListener('DOMContentLoaded', function () {
 
   // Get all "navbar-burger" elements
@@ -75,3 +75,4 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
 });
+*/
