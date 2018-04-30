@@ -69,9 +69,9 @@ export default class IndexPage extends React.Component {
         </section>
 
         <section className="container" id="conciertos">
-          <div className="columns">
-            <div className="column">
-              <h2 className="title">
+          <div className="row">
+            <div className="col">
+              <h2 className="headings-h2">
                 Conciertos
               </h2>
               <h3 className="subtitle has-text-right">
@@ -85,86 +85,90 @@ export default class IndexPage extends React.Component {
 
         <section>
           <div className="container">
-              <div className="columns">
-                <div className="column">
+              <div className="row">
+                <div className="col">
                   <h2 className="title is-2">
                     Videos
                   </h2>
                 </div>
               </div>
-              <div className="columns">
-                <div className="column">
-                  <div className="video-container">
+              <div className="row">
+                <div className="col">
+                  <div class="embed-responsive embed-responsive-16by9">
                     <iframe width="100%" height="auto" src="//youtube.com/embed/C-u5WLJ9Yk4" allowFullScreen></iframe>
                   </div>
                 </div>
-                <div className="column">
-                  <div className="video-container">
+                <div className="col">
+                  <div class="embed-responsive embed-responsive-16by9">
                   <iframe width="640" height="360" src="//www.youtube.com/embed/CduA0TULnow" frameBorder="0" allowFullScreen></iframe>
                   </div>
                 </div>
               </div>
-              <div className="columns">
-                <div className="column">
-                  <div className="video-container">
+              <div className="row">
+                <div className="col">
+                  <div class="embed-responsive embed-responsive-16by9">
                   <iframe width="640" height="360" src="//www.youtube.com/embed/CduA0TULnow" frameBorder="0" allowFullScreen></iframe>
                   </div>
                 </div>
-                <div className="column">
-                  <div className="video-container">
+                <div className="col">
+                  <div class="embed-responsive embed-responsive-16by9">
                   <iframe width="640" height="360" src="//www.youtube.com/embed/CduA0TULnow" frameBorder="0" allowFullScreen></iframe>
                   </div>
                 </div>
               </div>
-              <h4 className="subtitle has-text-right">
-                <Link className="button is-text" to="/bio">
-                  See All →
-                </Link>
-              </h4>
+              <div className="row">
+                <div className="col">
+                  <h4 className="subtitle has-text-right">
+                    <Link className="button is-text" to="/bio">
+                      See All →
+                    </Link>
+                  </h4>
+                </div>
+              </div>
           </div>
         </section>
 
 
         <section id="albums">
-          <div className="container">
-            <div className="columns">
+          <div className="container py-5">
+            <div className="row">
               <div className="column">
                 <h2 className="title is-2">
-                  Videos
+                  Musica
                 </h2>
               </div>
             </div>
-            <div className="columns is-multiline is-mobile">
-              <div className="column has-text-centered is-half-mobile is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
-                <img src={amsd} alt="Women's Invitation" className="bomt-box"/>
+            <div className="row py-5">
+              <div className="col-6 col-sm-6 col-md-4">
+                <img className="img-fluid" src={amsd} alt="Amor Supremo"/>
               </div>
-              <div className="column has-text-centered is-half-mobile is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
-                <img src={amsu} alt="Women's Invitation" className="bomt-box"/>
+              <div className="col-6 col-sm-6 col-md-4">
+                <img className="img-fluid" src={amsu} alt="Amor Supremo"/>
               </div>
-              <div className="column has-text-centered is-half-mobile is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
-                <img src={dell} alt="Women's Invitation" className="bomt-box"/>
+              <div className="col-6 col-sm-6 col-md-4">
+                <img className="img-fluid" src={deld} alt="Amor Supremo"/>
               </div>
-              <div className="column has-text-centered is-half-mobile is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
-                <img src={deld} alt="Women's Invitation" className="bomt-box"/>
+              <div className="col-6 col-sm-6 col-md-4">
+                <img className="img-fluid" src={dell} alt="Amor Supremo"/>
               </div>
-              <div className="column has-text-centered is-half-mobile is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
-                <img src={juse} alt="Women's Invitation" className="bomt-box"/>
+              <div className="col-6 col-sm-6 col-md-4">
+                <img className="img-fluid" src={juse} alt="Amor Supremo"/>
               </div>
-              <div className="column has-text-centered is-half-mobile is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
-                <img src={mido} alt="Women's Invitation" className="bomt-box"/>
+              <div className="col-6 col-sm-6 col-md-4">
+                <img className="img-fluid" src={mido} alt="Amor Supremo"/>
               </div>
             </div>
-          <h4 className="subtitle has-text-right">
+          <h4 className="subtitle text-right">
             <Link className="button is-text" to="/bio">
               Ver mas →
             </Link>
           </h4>
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
+          <div className="row py-5">
+            <div className="col-10 mx-auto">
               <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/280133854&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
             </div>
           </div>
-            <h4 className="subtitle has-text-right">
+            <h4 className="subtitle text-right">
               <Link className="button is-text" to="/bio">
                 Ver mas →
               </Link>
@@ -175,18 +179,18 @@ export default class IndexPage extends React.Component {
 
         <section id="blog">
           <div className="container">
-            <div className="columns">
-              <div className="column">
+            <div className="row">
+              <div className="col">
                 <h2 className="has-text-weight-bold is-size-2">Blog</h2>
               </div>
             </div>
-            <div className="columns">
+            <div className="row">
               {posts
                 .filter(post => post.node.frontmatter.templateKey === 'blog-post')
                 .map(({ node: post }) => (
                   <div
-                    className="column"
-                    style={{ border: '1px solid #eaecee', padding: '1em 2em', margin: '1em' }}
+                    className="col"
+                    style={{ border: '1px solid #eaecee', padding: '1em 2em', margin: '0.5em' }}
                     key={post.id}
                   >
                     <p>
@@ -212,25 +216,25 @@ export default class IndexPage extends React.Component {
 
           <section id="tienda">
             <div className="container">
-              <div className="columns">
+              <div className="row">
                 <div className="column">
                   <h2 className="title is-2">
                     Tienda
                   </h2>
                 </div>
               </div>
-              <div className="columns is-multiline is-mobile">
-                <div className="column has-text-centered is-half-mobile ">
-                  <img src={tieTee1} alt="Women's Invitation" className="bomt-box"/>
+              <div className="row">
+                <div className="col-6 col-md-3">
+                  <img className="img-fluid" src={tieTee1} alt="Women's Invitation"  />
                 </div>
-                <div className="column has-text-centered is-half-mobile">
-                  <img src={tieTee2} alt="Women's Invitation" className="bomt-box"/>
+                <div className="col-6 col-md-3">
+                  <img className="img-fluid" src={tieTee2} alt="Women's Invitation"  />
                 </div>
-                <div className="column has-text-centered is-half-mobile">
-                  <img src={tieCup1} alt="Women's Invitation" className="bomt-box"/>
+                <div className="col-6 col-md-3">
+                  <img className="img-fluid" src={tieCup1} alt="Women's Invitation"  />
                 </div>
-                <div className="column has-text-centered is-half-mobile">
-                  <img src={tieSwea} alt="Women's Invitation" className="bomt-box"/>
+                <div className="col-6 col-md-3">
+                  <img className="img-fluid"  src={tieSwea} alt="Women's Invitation"  />
                 </div>
               </div>
             <h4 className="subtitle has-text-right">
