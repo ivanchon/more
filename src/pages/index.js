@@ -33,6 +33,15 @@ export default class IndexPage extends React.Component {
     return (
       <section id="contenido">
 
+        <section className="hero-carousel">
+          <div className="cf4a">
+            <img src={hero1}/>
+            <img src={hero2}/>
+            <img src={hero3}/>
+            <img src={hero2}/>
+          </div>
+        </section>
+
 
         <section className="hero is-medium has-carousel">
           <div className="hero-carousel carousel-animated carousel-animate-fade">
@@ -41,7 +50,7 @@ export default class IndexPage extends React.Component {
                 <img className="is-background" src={hero1} alt="" />
               </div>
               <div className='carousel-item has-background'>
-                <img className="is-background" src="https://wikiki.github.io/images/singer.jpg" alt="" />
+                <img className="is-background" src={hero1} alt="" />
               </div>
               <div className='carousel-item has-background'>
                 <img className="is-background" src="https://wikiki.github.io/images/sushi.jpg" alt="" />
@@ -54,40 +63,30 @@ export default class IndexPage extends React.Component {
         </section>
 
 
-
-        <section className="hero" >
-          <div className="hero-body">
-            <div className="container">
-              <h1 className="title">
-                Hero title
-              </h1>
-              <h2 className="subtitle">
-                Hero subtitle
-              </h2>
-            </div>
-          </div>
-        </section>
-
-        <section className="container" id="conciertos">
+        <section className="container py-5" id="conciertos">
           <div className="row">
             <div className="col">
-              <h2 className="headings-h2">
-                Conciertos
+              <h2 className="h2-headers">
+                Siguientes Conciertos
               </h2>
-              <h3 className="subtitle has-text-right">
-                <Link className="button is-text" to="/bio">
+            </div>
+          </div>
+          <div className="row">
+            <div className="col text-right">
+              <a className="subtitle">
+                <Link className="btn btn-ghost-primary" to="/bio">
                   Ver todos →
                 </Link>
-              </h3>
+              </a>
             </div>
           </div>
         </section>
 
-        <section>
-          <div className="container">
+        <section id="videos">
+          <div className="container py-5">
               <div className="row">
                 <div className="col">
-                  <h2 className="title is-2">
+                  <h2 className="headers-h2">
                     Videos
                   </h2>
                 </div>
@@ -95,31 +94,31 @@ export default class IndexPage extends React.Component {
               <div className="row">
                 <div className="col-12 col-md-6">
                   <div class="embed-responsive embed-responsive-16by9">
-                    <iframe width="100%" height="auto" src="//youtube.com/embed/C-u5WLJ9Yk4" allowFullScreen></iframe>
+                    <iframe width="100%" height="auto" src="//youtube.com/embed/ZKuUcErjS-A" allowFullScreen></iframe>
                   </div>
                 </div>
                 <div className="col-12 col-md-6">
                   <div class="embed-responsive embed-responsive-16by9">
-                  <iframe width="640" height="360" src="//www.youtube.com/embed/CduA0TULnow" frameBorder="0" allowFullScreen></iframe>
+                  <iframe width="640" height="360" src="//www.youtube.com/embed/uSkZKHtkEdc" frameBorder="0" allowFullScreen></iframe>
                   </div>
                 </div>
               </div>
               <div className="row pt-4">
                 <div className="col-12 col-md-6">
                   <div class="embed-responsive embed-responsive-16by9">
-                  <iframe width="640" height="360" src="//www.youtube.com/embed/CduA0TULnow" frameBorder="0" allowFullScreen></iframe>
+                  <iframe width="640" height="360" src="//www.youtube.com/embed/YxCNd7nknyQ" frameBorder="0" allowFullScreen></iframe>
                   </div>
                 </div>
                 <div className="col-12 col-md-6">
                   <div class="embed-responsive embed-responsive-16by9">
-                  <iframe width="640" height="360" src="//www.youtube.com/embed/CduA0TULnow" frameBorder="0" allowFullScreen></iframe>
+                  <iframe width="640" height="360" src="//www.youtube.com/embed/B9GiF26kAvo" frameBorder="0" allowFullScreen></iframe>
                   </div>
                 </div>
               </div>
               <div className="row py-5">
                 <div className="col text-right">
                   <a className="subtitle">
-                    <Link className="button is-text" to="/bio">
+                    <Link className="btn btn-ghost-primary" to="/bio">
                       Ver mas →
                     </Link>
                   </a>
@@ -128,51 +127,68 @@ export default class IndexPage extends React.Component {
           </div>
         </section>
 
-
-        <section id="albums">
-          <div className="container py-5">
+        <section id="musica" className="mt-5">
+          &nbsp;
+        </section>
+        <section id="" className="">
+          <div className="container">
             <div className="row">
               <div className="column">
-                <h2 className="title is-2">
+                <h2 className="headers-h2">
                   Musica
                 </h2>
+                <h3 className="h3-headers">Discos</h3>
               </div>
             </div>
-            <div className="row py-5">
-              <div className="col-6 col-sm-6 col-md-4">
+            <div className="row">
+              <div className="col-6 col-sm-6 col-md-4 py-4">
                 <img className="img-fluid" src={amsd} alt="Amor Supremo"/>
               </div>
-              <div className="col-6 col-sm-6 col-md-4">
+              <div className="col-6 col-sm-6 col-md-4 py-4">
                 <img className="img-fluid" src={amsu} alt="Amor Supremo"/>
               </div>
-              <div className="col-6 col-sm-6 col-md-4">
+              <div className="col-6 col-sm-6 col-md-4 py-4">
                 <img className="img-fluid" src={deld} alt="Amor Supremo"/>
               </div>
-              <div className="col-6 col-sm-6 col-md-4">
+              <div className="col-6 col-sm-6 col-md-4 py-4">
                 <img className="img-fluid" src={dell} alt="Amor Supremo"/>
               </div>
-              <div className="col-6 col-sm-6 col-md-4">
+              <div className="col-6 col-sm-6 col-md-4 py-4">
                 <img className="img-fluid" src={juse} alt="Amor Supremo"/>
               </div>
-              <div className="col-6 col-sm-6 col-md-4">
+              <div className="col-6 col-sm-6 col-md-4 py-4">
                 <img className="img-fluid" src={mido} alt="Amor Supremo"/>
               </div>
             </div>
-          <h4 className="subtitle text-right">
-            <Link className="button is-text" to="/bio">
-              Ver mas →
-            </Link>
-          </h4>
-          <div className="row py-5">
-            <div className="col-10 mx-auto">
-              <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/280133854&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+            <div className="row">
+              <div className="col text-right">
+                <a className="subtitle">
+                  <Link className="btn btn-ghost-primary" to="/bio">
+                    Ver mas →
+                  </Link>
+                </a>
+              </div>
             </div>
-          </div>
-            <h4 className="subtitle text-right">
-              <Link className="button is-text" to="/bio">
-                Ver mas →
-              </Link>
-            </h4>
+            <div className="row pt-5 pb-3">
+              <div className="col mx-auto">
+                <h3 className="h3-headers">Covers</h3>
+              </div>
+            </div>
+            <div className="row pb-5">
+
+              <div className="col-10 mx-auto">
+                <iframe width="100%" height="166" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/280133854&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col text-right">
+                <a className="btn btn-ghost-primary">
+                  <Link className="btn btn-ghost-primary" to="/bio">
+                    Ver mas →
+                  </Link>
+                </a>
+              </div>
+            </div>
           </div>
         </section>
 
@@ -181,7 +197,7 @@ export default class IndexPage extends React.Component {
           <div className="container">
             <div className="row">
               <div className="col">
-                <h2 className="has-text-weight-bold is-size-2">Blog</h2>
+                <h2 className="headers-h2">Blog</h2>
               </div>
             </div>
             <div className="row">
@@ -215,10 +231,10 @@ export default class IndexPage extends React.Component {
           </section>
 
           <section id="tienda">
-            <div className="container">
+            <div className="container py-5">
               <div className="row">
                 <div className="column">
-                  <h2 className="title is-2">
+                  <h2 className="headers-h2">
                     Tienda
                   </h2>
                 </div>
@@ -237,11 +253,13 @@ export default class IndexPage extends React.Component {
                   <img className="img-fluid"  src={tieSwea} alt="Women's Invitation"  />
                 </div>
               </div>
-            <h4 className="subtitle has-text-right">
-              <Link className="button is-text" to="/bio">
-                Ver mas →
-              </Link>
-            </h4>
+              <div className="row pt-5">
+                <div className="col text-right">
+                  <button className="btn btn-ghost-primary" href="https://www.kichink.com/stores/carla-morrison-oficial">
+                      Ver mas →
+                  </button>
+                </div>
+              </div>
             </div>
           </section>
 

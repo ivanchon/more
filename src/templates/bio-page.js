@@ -2,24 +2,30 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Content, { HTMLContent } from '../components/Content'
 
+
+
+
 export const BioPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
 
   return (
-    <section className="section section--gradient">
+    <section className="section section--gradient header-push-down">
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="section">
-              <h2 className="title is-size-2 h2-headers">
+              <h1 className="bio-h1">
                 {title}
-              </h2>
-              <h3 className="title is-size-4">Carla Morrison</h3>
-              <div className="bio-container">
-                <div className="">
-                <a class="button">Button</a>
-                <a class="button">Button</a>
+              </h1>
+              <h3 className="title is-size-4 bio-heading">Carla Morrison</h3>
+              <div className="bio-container mb-5">
+                <div className="row text-right pb-4">
+                  <div className="col">
+                    <button type="button" className="btn btn-light bio-btn">Español</button>
+
+                    <button type="button" className="btn btn-light bio-btn">English</button>
+                  </div>
               </div>
                 <PageContent className="content whitebg" content={content} style={{ backgroundColor: 'white' }}/>
               </div>

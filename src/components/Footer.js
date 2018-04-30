@@ -14,22 +14,24 @@ import info from '../img/icon-info.svg'
 import newspaper from '../img/icon-newspaper.svg'
 
 
+
+
 const Footer = () => (
 
 <div>
-  <footer className="footer">
+  <footer id="contacto" className="footer pt-5">
     <div class="container">
       <div className="row">
         <div className="col">
-          <h2 className="title is-2">Contacto</h2>
+          <h2 className="title is-2 h2-headers">Contacto</h2>
         </div>
       </div>
-      <div className="row">
+      <div className="row text-center">
         <div className="col-10 mx-auto">
-          <p className="has-text-centered">¡Aquí puedes encontrar diferentes maneras de contactarme! Asegúrate de suscribirte a mi newsletter, podrás encontrar las últimas noticias, promos especiales para mis fans, y ¡hasta regalos exclusivos!</p>
+          <p className="">¡Aquí puedes encontrar diferentes maneras de contactarme! Asegúrate de suscribirte a mi newsletter, podrás encontrar las últimas noticias, promos especiales para mis fans, y ¡hasta regalos exclusivos!</p>
         </div>
       </div>
-      <div className="row contact-block has-text-centered">
+      <div className="row contact-block text-center py-5">
         <div className="col">
           <span className="icon">
             <img src={calendar} alt="Youtube" />
@@ -39,7 +41,7 @@ const Footer = () => (
         </div>
         <div className="col">
           <span className="icon">
-            <img src={info} alt="Youtube" />
+            <img src={info} alt="Youtube"/>
           </span>
           <h4 className="title is-4">Fans</h4>
           <a href="mailto:hola@carlamorrisonmusica.com">info@carlamorrisonmusica.com</a>
@@ -52,8 +54,8 @@ const Footer = () => (
           <a href="mailto:info@carlamorrisonmusica.com">info@carlamorrisonmusica.com</a>
         </div>
       </div>
-      <div className="row text-centered">
-        <div className="col is-centered">
+      <div className="row text-center pt-5">
+        <div className="col">
           <div className="social-media-block">
             <ul className="list-inline social-media-list">
               <li>
@@ -124,7 +126,7 @@ const Footer = () => (
                   rel="noopener noreferrer"
                 >
                   <span className="icon">
-                    <img src={twitter} alt="Github" />
+                    <img src={twitter} alt="Twitter" />
                   </span>
                 </a>
               </li>
