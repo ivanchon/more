@@ -93,36 +93,36 @@ export default class IndexPage extends React.Component {
                 </div>
               </div>
               <div className="row">
-                <div className="col">
+                <div className="col-12 col-md-6">
                   <div class="embed-responsive embed-responsive-16by9">
                     <iframe width="100%" height="auto" src="//youtube.com/embed/C-u5WLJ9Yk4" allowFullScreen></iframe>
                   </div>
                 </div>
-                <div className="col">
+                <div className="col-12 col-md-6">
                   <div class="embed-responsive embed-responsive-16by9">
                   <iframe width="640" height="360" src="//www.youtube.com/embed/CduA0TULnow" frameBorder="0" allowFullScreen></iframe>
                   </div>
                 </div>
               </div>
-              <div className="row">
-                <div className="col">
+              <div className="row pt-4">
+                <div className="col-12 col-md-6">
                   <div class="embed-responsive embed-responsive-16by9">
                   <iframe width="640" height="360" src="//www.youtube.com/embed/CduA0TULnow" frameBorder="0" allowFullScreen></iframe>
                   </div>
                 </div>
-                <div className="col">
+                <div className="col-12 col-md-6">
                   <div class="embed-responsive embed-responsive-16by9">
                   <iframe width="640" height="360" src="//www.youtube.com/embed/CduA0TULnow" frameBorder="0" allowFullScreen></iframe>
                   </div>
                 </div>
               </div>
-              <div className="row">
-                <div className="col">
-                  <h4 className="subtitle has-text-right">
+              <div className="row py-5">
+                <div className="col text-right">
+                  <a className="subtitle">
                     <Link className="button is-text" to="/bio">
-                      See All →
+                      Ver mas →
                     </Link>
-                  </h4>
+                  </a>
                 </div>
               </div>
           </div>

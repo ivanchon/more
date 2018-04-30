@@ -134,9 +134,9 @@ const Footer = () => (
       </div>
     </div>
   </footer>
-  <div className="copyright container is-fullhd">
-    <div className="columns">
-      <div className="column has-text-centered">
+  <div className="container-fluid copyright">
+    <div className="row text-center">
+      <div className="col">
           <p className="copyright">MORRISON PRODUCTIONS® México, 2018.</p>
       </div>
     </div>
