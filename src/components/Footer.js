@@ -61,7 +61,7 @@ const Footer = () => (
               <li>
                 <a
                   className="navbar-item"
-                  href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
+                  href="https://www.youtube.com/user/CarlaMorrisonMusic"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -73,7 +73,7 @@ const Footer = () => (
               <li>
                 <a
                   className="navbar-item"
-                  href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
+                  href="https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -85,7 +85,7 @@ const Footer = () => (
               <li>
                 <a
                   className="navbar-item"
-                  href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
+                  href="https://itunes.apple.com/us/artist/carla-morrison/id292289334"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -97,7 +97,7 @@ const Footer = () => (
               <li>
                 <a
                   className="navbar-item"
-                  href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
+                  href="https://www.facebook.com/CARLAMORRISONOFICIALMX"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -109,7 +109,7 @@ const Footer = () => (
               <li>
                 <a
                   className="navbar-item"
-                  href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
+                  href="https://www.instagram.com/carlitamorrison/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -121,7 +121,7 @@ const Footer = () => (
               <li>
                 <a
                   className="navbar-item"
-                  href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
+                  href="https://twitter.com/CarlaMorrisonMx"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

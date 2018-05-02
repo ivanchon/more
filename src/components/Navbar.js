@@ -13,7 +13,7 @@ const Navbar = () => (
           <a className="navbar-brand" href="#">
             <Link to="/" className="navbar-item">
               <figure className="image">
-                <img src={logo} alt="Carla" style={{ width: '120px' }} />
+                <img src={logo} alt="Carla" style={{ width: '120px', marginTop:'5px' }} />
               </figure>
             </Link>
           </a>
@@ -26,14 +26,14 @@ const Navbar = () => (
                 <a className="nav-link" href="/">Home <span className="sr-only">(current)</span></a>
               </li>
               <li className="nav-item"><a className="scrollto nav-link" href="/#gigs">Conciertos</a></li>
-              <li className="nav-item"><a className="scrollto nav-link" href="/#videos">Videos</a></li>
+              <li className="nav-item"><a className="scrollto nav-link" href="/videos">Videos</a></li>
               <li className="nav-item"><a className="scrollto nav-link" href="/#musica">Música</a></li>
               <li className="nav-item"><a className="scrollto nav-link" href="/bio">Bio</a></li>
               <li className="nav-item"><a className="scrollto nav-link" href="/#tienda">Tienda</a></li>
-              <li className="nav-item"><a className="scrollto nav-link" href="/#contacto">Contacto</a></li>
-              <li className="nav-item"><a className="scrollto nav-link" href="/blog/">Blog</a></li>
-              <li className="nav-item"><a className="scrollto nav-link" href="/galeria">Galería</a></li>
-              <li className="nav-item"><a className="scrollto nav-link" href="/qa">Q&#38;A</a></li>
+              <li className="nav-item"><a className="scrollto nav-link" href="#contacto">Contacto</a></li>
+              <li className="nav-item"><a className="scrollto nav-link" href="/blog">Blog</a></li>
+              <li className="nav-item"><a className="scrollto nav-link" href="/">Galería</a></li>
+              <li className="nav-item"><a className="scrollto nav-link" href="/">Q&#38;A</a></li>
             </ul>
 
             <div className="center-block-social">
@@ -55,21 +55,6 @@ const Navbar = () => (
                 </li>
                 <li className="nav-item nav-social">
                     <a href="https://twitter.com/CarlaMorrisonMx"><i className="fa fa-twitter"></i></a>
-                </li>
-                <li className="nav-item nav-social">
-                    <a id="toggleMusic" href="#">
-                      <i className="music-icon fa fa-volume-up"></i>
-                    </a>
-                    <div style={{display:'none'}}>
-                      <audio id="audio-player" autoplay>
-                        <source className="ogg-type" src="../../static/landing/backgroundMusic1.ogg" type="audio/ogg"/>
-                        <source className="mp3-type" src="../../static/landing/backgroundMusic1.mp3" type="audio/mpeg"/>
-                          Your browser does not support the audio element.
-                      </audio>
-                    </div>
-                </li>
-                <li className="nav-item nav-social">
-                    <a id="switch-music" href="#"><i className="music icon fa fa-angle-double-right"></i></a>
                 </li>
               </ul>
             </div>

@@ -5,11 +5,11 @@ import github from '../img/github-icon.svg'
 import logo from '../img/logo.png'
 
 const Navbar = () => (
-  <nav className="navbar is-fixed-top is-dark" style={{backgroundColor: 'rgba(165, 165, 165, 0.9)', borderBottom: '1px solid #eed0d2'}}>
+  <nav className="navbar is-fixed-top is-dark" style={{backgroundColor: 'rgba(165, 165, 165, 0.3)', borderBottom: '1px solid #eed0d2'}}>
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
-          <figure className="image">
+          <figure className="image" >
             <img src={logo} alt="Carla" />
           </figure>
         </Link>

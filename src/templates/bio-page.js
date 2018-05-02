@@ -22,9 +22,11 @@ export const BioPageTemplate = ({ title, content, contentComponent }) => {
               <div className="bio-container mb-5">
                 <div className="row text-right pb-4">
                   <div className="col">
-                    <button type="button" className="btn btn-light bio-btn">Español</button>
+                    <button type="button" className="btn btn-light bio-btn">
+                      <i class="fa fa-cloud-download"></i> Español</button>
 
-                    <button type="button" className="btn btn-light bio-btn">English</button>
+                    <button type="button" className="btn btn-light bio-btn">
+                      <i class="fa fa-cloud-download"></i> English</button>
                   </div>
               </div>
                 <PageContent className="content whitebg" content={content} style={{ backgroundColor: 'white' }}/>

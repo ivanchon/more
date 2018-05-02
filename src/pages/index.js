@@ -42,27 +42,6 @@ export default class IndexPage extends React.Component {
           </div>
         </section>
 
-
-        <section className="hero is-medium has-carousel">
-          <div className="hero-carousel carousel-animated carousel-animate-fade">
-            <div className='carousel-container'>
-              <div className='carousel-item has-background is-active'>
-                <img className="is-background" src={hero1} alt="" />
-              </div>
-              <div className='carousel-item has-background'>
-                <img className="is-background" src={hero1} alt="" />
-              </div>
-              <div className='carousel-item has-background'>
-                <img className="is-background" src="https://wikiki.github.io/images/sushi.jpg" alt="" />
-              </div>
-              <div className='carousel-item has-background'>
-                <img className="is-background" src="https://wikiki.github.io/images/life.jpg" alt="" />
-              </div>
-            </div>
-          </div>
-        </section>
-
-
         <section className="container py-5" id="conciertos">
           <div className="row">
             <div className="col">
@@ -83,7 +62,7 @@ export default class IndexPage extends React.Component {
         </section>
 
         <section id="videos">
-          <div className="container py-5">
+          <div className="container pt-5">
               <div className="row">
                 <div className="col">
                   <h2 className="headers-h2">
@@ -115,7 +94,7 @@ export default class IndexPage extends React.Component {
                   </div>
                 </div>
               </div>
-              <div className="row py-5">
+              <div className="row pt-5">
                 <div className="col text-right">
                   <a className="subtitle">
                     <Link className="btn btn-ghost-primary" to="/bio">
@@ -192,9 +171,8 @@ export default class IndexPage extends React.Component {
           </div>
         </section>
 
-
         <section id="blog">
-          <div className="container">
+          <div className="container pt-5">
             <div className="row">
               <div className="col">
                 <h2 className="headers-h2">Blog</h2>
@@ -220,8 +198,8 @@ export default class IndexPage extends React.Component {
                       {post.excerpt}
                       <br />
                       <br />
-                      <Link className="button is-small" to={post.fields.slug}>
-                        Keep Reading →
+                      <Link className="btn btn-outline-light btn-sm" to={post.fields.slug}>
+                        Leer mas →
                       </Link>
                     </p>
                   </div>

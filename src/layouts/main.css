@@ -1,4 +1,6 @@
 @import url("bootstrap.min.css");
+@import url("//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
+
 
 body{
   background: gray url("../img/bgpattern.png");
@@ -21,14 +23,6 @@ body{
 
 
 /*HOME*/
-
-.hero-home{
-  background: url('../img/a.jpg') center;
-  background-size: cover;
-  height: 100vh;
-
-}
-
 
 
 a.btn-ghost-primary, .btn-ghost-primary {
@@ -187,8 +181,18 @@ a.btn-ghost-primary, .btn-ghost-primary {
 
 }
 
+/*BLOG links*/
 
+.has-text-primary, .blog-excerpt-title {
+    color: #eed0d2!important;
+    color: #fff !important;
 
+}
+
+.has-text-primary:hover, .blog-excerpt-title:hover {
+    text-decoration: none;
+
+}
 
 
 
@@ -246,6 +250,22 @@ footer .contact-block a {
 hero-carousel{
 }
 
+
+.cf4a {
+  position: relative;
+  height:100vh;
+  width: 100%;
+  margin:0 auto;
+  overflow: hidden;
+}
+.cf4a img {
+  position:absolute;
+  left:0;
+  width: 100%;
+  height: auto;
+}
+
+
 @keyframes cf4FadeInOut {
    0% {
      opacity:1;
@@ -264,18 +284,6 @@ hero-carousel{
    }
 }
 
-.cf4a {
-  position: relative;
-  height:100vh;
-  width: 100%;
-  margin:0 auto;
-}
-.cf4a img {
-  position:absolute;
-  left:0;
-  width: 100%;
-  height: auto;
-}
 
 .cf4a img {
   /*
@@ -300,26 +308,21 @@ hero-carousel{
   animation-duration: 8s;
 }
 .cf4a img:nth-of-type(1) {
-  -webkit-animation-delay: 6s;
-  -moz-animation-delay: 6s;
-  -o-animation-delay: 6s;
   animation-delay: 6s;
 }
 .cf4a img:nth-of-type(2) {
-  -webkit-animation-delay: 4s;
-  -moz-animation-delay: 4s;
-  -o-animation-delay: 4s;
   animation-delay: 4s;
 }
 .cf4a img:nth-of-type(3) {
-  -webkit-animation-delay: 2s;
-  -moz-animation-delay: 2s;
-  -o-animation-delay: 2s;
   animation-delay: 2s;
 }
 .cf4a img:nth-of-type(4) {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay: 0;
   animation-delay: 0;
+}
+
+
+/*BLOG */
+
+.blog-content img{
+  max-width: 100%;
 }
