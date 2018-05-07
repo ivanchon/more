@@ -2,12 +2,8 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Content, { HTMLContent } from '../components/Content'
 
-
-
-
 export const BioPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
-
 
   return (
     <section className="section section--gradient header-push-down">
@@ -15,7 +11,7 @@ export const BioPageTemplate = ({ title, content, contentComponent }) => {
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="section">
-              <h1 className="bio-h1">
+              <h1 className="bio-h1 title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
               </h1>
               <h3 className="title is-size-4 bio-heading">Carla Morrison</h3>
