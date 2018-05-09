@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Britney One More Time',
+    title: 'Carla Morrizon',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

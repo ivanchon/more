@@ -2,7 +2,9 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 
-//img imports
+//component imports
+import Music from '../components/Music'
+
 
 //heros
 import hero1 from '../img/a.jpg'
@@ -61,8 +63,9 @@ export default class IndexPage extends React.Component {
           </div>
         </section>
 
-        <section id="videos">
+        <section id="videos" className="music-section">
           <div className="container pt-5">
+            <div className="albums-block">
               <div className="row">
                 <div className="col">
                   <h2 className="headers-h2">
@@ -104,6 +107,7 @@ export default class IndexPage extends React.Component {
                 </div>
               </div>
           </div>
+        </div>
         </section>
 
         <section id="musica" className="mt-5">
@@ -120,24 +124,7 @@ export default class IndexPage extends React.Component {
               </div>
             </div>
             <div className="row">
-              <div className="col-6 col-sm-6 col-md-4 py-4">
-                <img className="img-fluid" src={amsd} alt="Amor Supremo"/>
-              </div>
-              <div className="col-6 col-sm-6 col-md-4 py-4">
-                <img className="img-fluid" src={amsu} alt="Amor Supremo"/>
-              </div>
-              <div className="col-6 col-sm-6 col-md-4 py-4">
-                <img className="img-fluid" src={deld} alt="Amor Supremo"/>
-              </div>
-              <div className="col-6 col-sm-6 col-md-4 py-4">
-                <img className="img-fluid" src={dell} alt="Amor Supremo"/>
-              </div>
-              <div className="col-6 col-sm-6 col-md-4 py-4">
-                <img className="img-fluid" src={juse} alt="Amor Supremo"/>
-              </div>
-              <div className="col-6 col-sm-6 col-md-4 py-4">
-                <img className="img-fluid" src={mido} alt="Amor Supremo"/>
-              </div>
+              <Music/>
             </div>
             <div className="row">
               <div className="col text-right">

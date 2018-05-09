@@ -1,303 +1,227 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
-
-import github from '../img/github-icon.svg'
-import youtube from '../img/icon-youtube.svg'
-import spotify from '../img/icon-spotify.svg'
-import apple from '../img/icon-apple.svg'
-import facebook from '../img/icon-facebook.svg'
-import instagram from '../img/icon-instagram.svg'
-import twitter from '../img/icon-twitter.svg'
-
-/media/ASD_Portada.jpeg
+import styled from 'styled-components'
 
 
+//image imports
+import reco from '../img/record.png'
+import amsd from '../img/alco-amor-supremo-d.jpg'
+import amsu from '../img/alco-amor-supremo.jpg'
+import dell from '../img/alco-dejenme-llorar.jpg'
+import deld from '../img/alco-dejenme-llorar-d.jpg'
+import juse from '../img/alco-jugando.jpg'
+import mido from '../img/alco-mientras.jpg'
+import apre from '../img/alco-aprendiendo.jpg'
+import nino from '../img/alco-nino.jpg'
+import coll from '../img/alco-colab.jpg'
+
+
+const Album = styled.div`
+  /*background-color: rgba(255,105,180, 0.3);*/
+  position: relative;
+
+  text-align: center;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+
+  &:hover .vinyl{
+    right: -95px;
+  }
+
+  @media (min-width: 768px) {
+    /*padding-right: 60px;*/
+  }
+
+`;
+
+const Title = styled.h3`
+  background-color: green;
+  display: none;
+`;
+
+const Arrow = styled.div`
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-top: 20px solid #808080;
+  position: absolute;
+  left: -10px;
+  top: 37px;
+  bottom: -20px;
+  z-index: -1;
+`;
+
+const CoverHolder = styled.div`
+  max-width: 280px;
+  max-height: 280px;
+  position: relative;
+  display: inline-block;
+  margin-bottom: 15px;
+  background: #101113;
+  box-shadow: 0 0 4px rgba(0, 0, 0, .5);
+
+  @media (min-width: 992px) and (max-width: 1200px) {
+    max-width: 250px;
+    max-height: 250px;
+  }
+
+
+`;
+
+const Record = styled.img`
+  /*background-color: purple;*/
+  max-width: 100%;
+  height: auto;
+
+  max-width: 280px;
+  max-height: 280px;
+  display: inline-block;
+  position: absolute;
+  right: -65px;
+  bottom: 0;
+  -webkit-transition: all 0.6s ease-in-out;
+  -moz-transition: all 0.6s ease-in-out;
+  -ms-transition: all 0.6s ease-in-out;
+  -o-transition: all 0.6s ease-in-out;
+  z-index: -1;
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+
+  @media (min-width: 992px) and (max-width: 1200px) {
+    max-width: 250px;
+    max-height: 250px;
+  }
+
+`;
+
+const Cover = styled.img`
+  max-width: 100%;
+  height: auto;
+  opacity: 0.95;
+
+  &:hover{
+    opacity: 1;
+  }
+`;
+
+const Label = styled.div`
+    position: absolute;
+    left: -10px;
+    top: 0;
+    background: #302d38;
+    color: #fff;
+    /* font-family: 'Raleway', sans-serif; */
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 12px;
+    padding: 10px;
+    z-index: 1;
+`;
+
+const Button = styled.div`
+  background-color: transparent;
+  border: 2px solid #FFF;
+  color: #FFF;
+  display: inline-block;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 400;
+  letter-spacing: 2px;
+  padding: 5px;
+  white-space: nowrap;
+  vertical-align: middle;
+  transition: background-color .15s;
+
+  &:hover{
+    background-color: #eed0d2;
+  }
+`;
+
+const AlbumCont = props => (
+  <Album className="col-6 col-lg-4">
+    <Link to={props.link}>
+      <Title>{props.title}</Title>
+      <CoverHolder className="">
+          <Arrow></Arrow>
+          <Record src={reco} className="vinyl" alt="reco"/>
+          <Cover src={props.cover} alt="" />
+          <Label>{props.label}</Label>
+      </CoverHolder>
+      <Button>Canciones y Letras</Button>
+    </Link>
+  </Album>
+);
 
 
 const Music = () => (
 
-  <div class="item col-xs-6 col-md-4">
-    <div class="item-inner">
-      <h3 class="album-title">
-      </h3>
-      <div class="cover-holder">
-        <a class="cover-figure" href="/musica/album/amor-supremo-desnudo">
-          <div class="arrow-holder"></div>
-          <div class="record-holder">
-              <img class="img-responsive" src="/static/landing/images/record.png" alt=""/>
-          </div>
-          <img class="cover-image img-responsive" src="/media/ASD_Portada.jpeg" alt=""/>
-          <div class="cover-label">Nuevo</div>
-        </a>{/*cover-figure*/}
-          <a href="/musica/album/amor-supremo-desnudo" class="btn btn-sm btn-ghost-secondary">Canciones y Letras</a>
-      </div>{/*cover-holder*/}
-    </div>{/*item-inner*/}
-  </div>{/*item-*/}
-
-
-
-<div>
-  <section id="music" class="music-section symphony-section section text-center">
-    <div class="container">
-        <h2 class="section-title" style="margin-bottom:30px;">Música</h2>
-        <h2 class="section-subtitle">Discos</h2>
-        <div class="albums-block">
-            <div class="row">
-
-                <div class="item col-xs-6 col-md-4">
-                    <div class="item-inner">
-                         <h3 class="album-title">
-
-                        </h3>
-                        <div class="cover-holder">
-
-                            <a class="cover-figure" href="/musica/album/amor-supremo-desnudo">
-                                <div class="arrow-holder"></div>
-                                <div class="record-holder">
-                                    <img class="img-responsive" src="/static/landing/images/record.png" alt=""/>
-                                </div>
-                                <img class="cover-image img-responsive" src="/media/ASD_Portada.jpeg" alt=""/>
-
-                                <div class="cover-label">Nuevo</div>
-
-                            </a>{/*cover-figure*/}
-
-                            <a href="/musica/album/amor-supremo-desnudo" class="btn btn-sm btn-ghost-secondary">Canciones y Letras</a>
-
-                        </div><!--//cover-holder-->
-
-
-                    </div><!--//item-inner-->
-                </div><!--//item-->
-
-                <div class="item col-xs-6 col-md-4">
-                    <div class="item-inner">
-                         <h3 class="album-title">
-
-                        </h3>
-                        <div class="cover-holder">
-
-                            <a class="cover-figure" href="/musica/album/amor-supremo">
-                                <div class="arrow-holder"></div>
-                                <div class="record-holder">
-                                    <img class="img-responsive" src="/static/landing/images/record.png" alt=""/>
-                                </div>
-                                <img class="cover-image img-responsive" src="/media/Amor-Supremo-500x500px_S9vgiwj.jpg" alt=""/>
-
-                                <div class="cover-label">2015</div>
-
-                            </a><!--//cover-figure-->
-
-                            <a href="/musica/album/amor-supremo" class="btn btn-sm btn-ghost-secondary">Canciones y Letras</a>
-
-                        </div><!--//cover-holder-->
-
-
-                    </div><!--//item-inner-->
-                </div><!--//item-->
-
-                <div class="item col-xs-6 col-md-4">
-                    <div class="item-inner">
-                         <h3 class="album-title">
-
-                        </h3>
-                        <div class="cover-holder">
-
-                            <a class="cover-figure" href="/musica/album/dejenme-llorar-deluxe">
-                                <div class="arrow-holder"></div>
-                                <div class="record-holder">
-                                    <img class="img-responsive" src="/static/landing/images/record.png" alt=""/>
-                                </div>
-                                <img class="cover-image img-responsive" src="/media/DejenmeLlorarDeluxe_Edition_Arte_FINAL_gbUCww9.JPG" alt=""/>
-
-                                <div class="cover-label">Deluxe</div>
-
-                            </a><!--//cover-figure-->
-
-                            <a href="/musica/album/dejenme-llorar-deluxe" class="btn btn-sm btn-ghost-secondary">Canciones y Letras</a>
-
-                        </div><!--//cover-holder-->
-
-
-                    </div><!--//item-inner-->
-                </div><!--//item-->
-
-                <div class="item col-xs-6 col-md-4">
-                    <div class="item-inner">
-                         <h3 class="album-title">
-
-                        </h3>
-                        <div class="cover-holder">
-
-                            <a class="cover-figure" href="/musica/album/dejenme-llorar">
-                                <div class="arrow-holder"></div>
-                                <div class="record-holder">
-                                    <img class="img-responsive" src="/static/landing/images/record.png" alt=""/>
-                                </div>
-                                <img class="cover-image img-responsive" src="/media/Dejenme-Llorar-500x500px_0qI7GXC.jpg" alt=""/>
-
-                                <div class="cover-label">2012</div>
-
-                            </a><!--//cover-figure-->
-
-                            <a href="/musica/album/dejenme-llorar" class="btn btn-sm btn-ghost-secondary">Canciones y Letras</a>
-
-                        </div><!--//cover-holder-->
-
-
-                    </div><!--//item-inner-->
-                </div><!--//item-->
-
-                <div class="item col-xs-6 col-md-4">
-                    <div class="item-inner">
-                         <h3 class="album-title">
-
-                        </h3>
-                        <div class="cover-holder">
-
-                            <a class="cover-figure" href="/musica/album/jugando-en-serio">
-                                <div class="arrow-holder"></div>
-                                <div class="record-holder">
-                                    <img class="img-responsive" src="/static/landing/images/record.png" alt=""/>
-                                </div>
-                                <img class="cover-image img-responsive" src="/media/Jugando-En-Serio-500x500px.jpg" alt=""/>
-
-                                <div class="cover-label">2011</div>
-
-                            </a><!--//cover-figure-->
-
-                            <a href="/musica/album/jugando-en-serio" class="btn btn-sm btn-ghost-secondary">Canciones y Letras</a>
-
-                        </div><!--//cover-holder-->
-
-
-                    </div><!--//item-inner-->
-                </div><!--//item-->
-
-                <div class="item col-xs-6 col-md-4">
-                    <div class="item-inner">
-                         <h3 class="album-title">
-
-                        </h3>
-                        <div class="cover-holder">
-
-                            <a class="cover-figure" href="/musica/album/mientras-tu-dormias">
-                                <div class="arrow-holder"></div>
-                                <div class="record-holder">
-                                    <img class="img-responsive" src="/static/landing/images/record.png" alt=""/>
-                                </div>
-                                <img class="cover-image img-responsive" src="/media/Mientras-Tu-Dormias-500x500px.jpg" alt=""/>
-
-                                <div class="cover-label">2010</div>
-
-                            </a><!--//cover-figure-->
-
-                            <a href="/musica/album/mientras-tu-dormias" class="btn btn-sm btn-ghost-secondary">Canciones y Letras</a>
-
-                        </div><!--//cover-holder-->
-
-
-                    </div><!--//item-inner-->
-                </div><!--//item-->
-
-                <div class="item col-xs-6 col-md-4">
-                    <div class="item-inner">
-                         <h3 class="album-title">
-
-                        </h3>
-                        <div class="cover-holder">
-
-                            <a class="cover-figure" href="/musica/album/aprendiendo-aprender">
-                                <div class="arrow-holder"></div>
-                                <div class="record-holder">
-                                    <img class="img-responsive" src="/static/landing/images/record.png" alt=""/>
-                                </div>
-                                <img class="cover-image img-responsive" src="/media/aprendiendo-500x500px.jpg" alt=""/>
-
-                                <div class="cover-label">2009</div>
-
-                            </a><!--//cover-figure-->
-
-                            <a href="/musica/album/aprendiendo-aprender" class="btn btn-sm btn-ghost-secondary">Canciones y Letras</a>
-
-                        </div><!--//cover-holder-->
-
-
-                    </div><!--//item-inner-->
-                </div><!--//item-->
-
-                <div class="item col-xs-6 col-md-4">
-                    <div class="item-inner">
-                         <h3 class="album-title">
-
-                        </h3>
-                        <div class="cover-holder">
-
-                            <a class="cover-figure" href="/musica/album/la-nina-del-tambor">
-                                <div class="arrow-holder"></div>
-                                <div class="record-holder">
-                                    <img class="img-responsive" src="/static/landing/images/record.png" alt=""/>
-                                </div>
-                                <img class="cover-image img-responsive" src="/media/Carla_Morrison_La_Nina_del_Tambor_Digital_Cover_.jpg" alt=""/>
-
-                                <div class="cover-label">Navideño</div>
-
-                            </a><!--//cover-figure-->
-
-                            <a href="/musica/album/la-nina-del-tambor" class="btn btn-sm btn-ghost-secondary">Canciones y Letras</a>
-
-                        </div><!--//cover-holder-->
-
-
-                    </div><!--//item-inner-->
-                </div><!--//item-->
-
-                <div class="item col-xs-6 col-md-4">
-                    <div class="item-inner">
-                         <h3 class="album-title">
-
-                        </h3>
-                        <div class="cover-holder">
-
-                            <a class="cover-figure" href="/musica/album/colaboraciones">
-                                <div class="arrow-holder"></div>
-                                <div class="record-holder">
-                                    <img class="img-responsive" src="/static/landing/images/record.png" alt=""/>
-                                </div>
-                                <img class="cover-image img-responsive" src="/media/colaboracionestr.jpg" alt=""/>
-
-                                <div class="cover-label">CM</div>
-
-                            </a><!--//cover-figure-->
-
-                            <a href="/musica/album/colaboraciones" class="btn btn-sm btn-ghost-secondary">Canciones y Letras</a>
-
-                        </div><!--//cover-holder-->
-
-
-                    </div><!--//item-inner-->
-                </div><!--//item-->
-
-            </div><!--//row-->
-        </div><!--//albums-block-->
-        <h2 class="section-subtitle" style="margin-bottom:20px;">Covers</h2>
-        <div class="sc-block center-block">
-
-            <div class="item">
-                <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/280133854&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_"></iframe>
-            </div><!--//item-->
-
-        </div><!--//sc-block-->
-        <div class="music-action">
-            <a class="btn btn-ghost-primary" href="/musica">Ver más</a>
+        <div className="row album-compo">
+          <AlbumCont
+            link="/bio/"
+            title="Amor Supremo Desnudo"
+            cover={amsd}
+            label="Nuevo"
+          />
+          <AlbumCont
+            link="/bio/"
+            title="Amor Supremo"
+            cover={amsu}
+            label="2015"
+          />
+          <AlbumCont
+            link="/bio/"
+            title="Déjenme Llorar Deluxe"
+            cover={deld}
+            label="deluxe"
+          />
+          <AlbumCont
+            link="/bio/"
+            title="Déjenme Llorar"
+            cover={dell}
+            label="2012"
+          />
+          <AlbumCont
+            link="/bio/"
+            title="Jugando en Serio"
+            cover={juse}
+            label="2011"
+          />
+
+          <AlbumCont
+            link="/bio/"
+            title="Mientras Dormías"
+            cover={mido}
+            label="2010"
+          />
+
+          <AlbumCont
+            link="/bio/"
+            title="Aprendiendo a Aprender"
+            cover={apre}
+            label="2009"
+          />
+          <AlbumCont
+            link="/bio/"
+            title="Niña del Tambor"
+            cover={nino}
+            label="Navideño"
+          />
+
+          <AlbumCont
+            link="/bio/"
+            title="Colaboraciones y Tributos"
+            cover={coll}
+            label="CM"
+          />
         </div>
-    </div>{/* //container */}
-</section>{/* ////music-section */}
-
-
-
-
-</div>
 
 )
 

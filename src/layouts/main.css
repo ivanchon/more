@@ -1,5 +1,9 @@
 @import url("bootstrap.min.css");
-@import url("//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
+@import url("//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css");
+@import url("image-gallery.css");
+/*@import url("alice-carousel.css");
+
+@import url("css-carousel.css");*/
 
 
 body{
@@ -15,12 +19,9 @@ body{
     width: 1.5rem;
 }
 
-
-
 .header-push-down {
     padding-top: 10rem;
 }
-
 
 /*HOME*/
 
@@ -79,13 +80,25 @@ a.btn-ghost-primary, .btn-ghost-primary {
     color: #fff;
     font-size: 3rem;
     font-family: Pathway Gothic One,sans-serif;
-    text-transform: uppercase;
     letter-spacing: 1px;
 }
 
+.h2-headers, .headers-h2 {
+    text-transform: uppercase;
+  }
+
 .h3-headers{
-  font-size: 2rem;
-  text-transform: none;
+  font-size: 2.5rem;
+  color: #f3f0f0;
+
+}
+
+.section-subtitle {
+    text-align: left;
+    font-size: 40px;
+    font-weight: 100 !important;
+
+    margin-top: 0 !important;
 }
 
 
@@ -196,9 +209,6 @@ a.btn-ghost-primary, .btn-ghost-primary {
 
 
 
-
-
-
 /*Footer*/
 
 .footer {
@@ -243,8 +253,6 @@ footer .contact-block a {
 
 
 /*HOME CAROUSEL*/
-
-
 hero-carousel{
 }
 
@@ -323,4 +331,131 @@ hero-carousel{
 
 .blog-content img{
   max-width: 100%;
+}
+
+
+/*MUSICA*/
+
+/* ======= Music Section ======= */
+.music-section {
+}
+.music-section .sc-block {
+  max-width: 860px;
+  margin-bottom: 90px;
+}
+.music-section .sc-block .item {
+  margin-bottom: 15px;
+}
+.music-section .item {
+  margin-bottom: 45px;
+}
+.music-section .item-inner {
+  position: relative;
+  padding-right: 60px;
+}
+.music-section .arrow-holder {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-top: 20px solid #808080;
+  position: absolute;
+  left: -10px;
+  top: 37px;
+  bottom: -20px;
+}
+.music-section .cover-figure {
+  max-width: 235px;
+  max-height: 235px;
+  position: relative;
+  display: inline-block;
+  margin-bottom: 15px;
+  background: #101113;
+  -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+}
+.music-section .cover-figure .cover-image {
+  position: relative;
+  -webkit-opacity: 0.95;
+  -moz-opacity: 0.95;
+  opacity: 0.95;
+}
+.music-section .cover-figure .record-holder {
+  max-width: 230px;
+  max-height: 230px;
+  display: inline-block;
+  position: absolute;
+  right: -80px;
+  bottom: 0;
+  -webkit-transition: all 0.6s ease-in-out;
+  -moz-transition: all 0.6s ease-in-out;
+  -ms-transition: all 0.6s ease-in-out;
+  -o-transition: all 0.6s ease-in-out;
+}
+.music-section .cover-figure:hover .cover-image {
+  opacity: 1;
+}
+.music-section .cover-figure:hover .record-holder {
+  right: -118px;
+}
+.music-section .cover-label {
+  position: absolute;
+  left: -10px;
+  top: 0;
+  background: #302d38;
+  color: #fff;
+  /*font-family: 'Raleway', sans-serif;*/
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 12px;
+  padding: 10px;
+}
+.music-section .album-title {
+  font-size: 14px;
+  margin-bottom: 15px;
+  margin-top: 0;
+  max-width: 235px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
+  display: inline-block;
+}
+.music-section .music-action {
+  margin-top: 30px;
+}
+
+a.btn-ghost-secondary,
+.btn-ghost-secondary {
+  background: transparent;
+  border: 2px solid #FFF;
+  color: #FFF;
+  text-transform: uppercase;
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: 14px;
+  letter-spacing: 2px;
+  padding: 5px;
+  /*-webkit-box-shadow: inset 0 0 0 0 #101113;
+  -moz-box-shadow: inset 0 0 0 0 #101113;
+  box-shadow: inset 0 0 0 0 #101113;*/
+}
+a.btn-ghost-secondary:active,
+.btn-ghost-secondary:active,
+a.btn-ghost-secondary:focus,
+.btn-ghost-secondary:focus {
+  border: 2px solid #FFF;
+  outline: none;
+  color: #FFF;
+}
+a.btn-ghost-secondary:hover,
+.btn-ghost-secondary:hover {
+  background: #eed0d2;
+  -webkit-box-shadow: inset 0 100px 0 0 #eed0d2;
+  -moz-box-shadow: inset 0 100px 0 0 #eed0d2;
+  box-shadow: inset 0 100px 0 0 #eed0d2;
+  color: #FFF;
+  border: 2px solid #FFF;
 }

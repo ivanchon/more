@@ -20,7 +20,7 @@ const Footer = () => (
 
 <div>
   <footer id="contacto" className="footer pt-5">
-    <div class="container">
+    <div className="container">
       <div className="row">
         <div className="col">
           <h2 className="title is-2 h2-headers">Contacto</h2>
