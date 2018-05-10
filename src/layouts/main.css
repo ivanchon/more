@@ -1,8 +1,7 @@
 @import url("bootstrap.min.css");
 @import url("//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css");
-@import url("image-gallery.css");
-/*@import url("alice-carousel.css");
-
+/*@import url("image-gallery.css");
+@import url("alice-carousel.css");
 @import url("css-carousel.css");*/
 
 
@@ -23,9 +22,8 @@ body{
     padding-top: 10rem;
 }
 
+
 /*HOME*/
-
-
 a.btn-ghost-primary, .btn-ghost-primary {
     color: #FFF;
     border: none;

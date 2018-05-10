@@ -4,6 +4,7 @@ import Link from 'gatsby-link'
 import styled from 'styled-components'
 
 
+
 //image imports
 import reco from '../img/record.png'
 import amsd from '../img/alco-amor-supremo-d.jpg'
@@ -16,21 +17,36 @@ import apre from '../img/alco-aprendiendo.jpg'
 import nino from '../img/alco-nino.jpg'
 import coll from '../img/alco-colab.jpg'
 
+const Record = styled.img`
+  max-width: 100%;
+  height: auto;
+  max-width: 280px;
+  max-height: 280px;
+  display: inline-block;
+  position: absolute;
+  right: -65px;
+  bottom: 0;
+  transition: all 0.6s ease-in-out;
+  z-index: -1;
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+
+  @media (min-width: 992px) and (max-width: 1200px) {
+    max-width: 250px;
+    max-height: 250px;
+  }
+`;
 
 const Album = styled.div`
-  /*background-color: rgba(255,105,180, 0.3);*/
   position: relative;
-
   text-align: center;
   margin-bottom: 2rem;
   margin-top: 2rem;
 
-  &:hover .vinyl{
+  &:hover ${Record} {
     right: -95px;
-  }
-
-  @media (min-width: 768px) {
-    /*padding-right: 60px;*/
   }
 
 `;
@@ -69,36 +85,8 @@ const CoverHolder = styled.div`
     max-height: 250px;
   }
 
-
 `;
 
-const Record = styled.img`
-  /*background-color: purple;*/
-  max-width: 100%;
-  height: auto;
-
-  max-width: 280px;
-  max-height: 280px;
-  display: inline-block;
-  position: absolute;
-  right: -65px;
-  bottom: 0;
-  -webkit-transition: all 0.6s ease-in-out;
-  -moz-transition: all 0.6s ease-in-out;
-  -ms-transition: all 0.6s ease-in-out;
-  -o-transition: all 0.6s ease-in-out;
-  z-index: -1;
-
-  @media (max-width: 768px) {
-    display: none;
-  }
-
-  @media (min-width: 992px) and (max-width: 1200px) {
-    max-width: 250px;
-    max-height: 250px;
-  }
-
-`;
 
 const Cover = styled.img`
   max-width: 100%;
@@ -108,6 +96,7 @@ const Cover = styled.img`
   &:hover{
     opacity: 1;
   }
+
 `;
 
 const Label = styled.div`
@@ -116,7 +105,6 @@ const Label = styled.div`
     top: 0;
     background: #302d38;
     color: #fff;
-    /* font-family: 'Raleway', sans-serif; */
     text-transform: uppercase;
     font-weight: 700;
     font-size: 12px;
@@ -149,10 +137,10 @@ const AlbumCont = props => (
   <Album className="col-6 col-lg-4">
     <Link to={props.link}>
       <Title>{props.title}</Title>
-      <CoverHolder className="">
+      <CoverHolder>
           <Arrow></Arrow>
-          <Record src={reco} className="vinyl" alt="reco"/>
-          <Cover src={props.cover} alt="" />
+          <Record src={reco} className="vinyl" alt="record"/>
+          <Cover src={props.cover} alt={props.title} />
           <Label>{props.label}</Label>
       </CoverHolder>
       <Button>Canciones y Letras</Button>

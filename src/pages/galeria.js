@@ -4,8 +4,7 @@ import Link from 'gatsby-link'
 import styled from 'styled-components'
 import {injectGlobal} from 'styled-components'
 
-import AliceCarousel from 'react-alice-carousel';
-//import "react-alice-carousel/lib/alice-carousel.css";
+import AliceCarousel from 'react-alice-carousel'
 
 //image imports
 import cm01 from '../img/gallery/CM1.jpg'
@@ -31,71 +30,69 @@ import wpa4 from '../img/wallpapers/1920x1080-A.jpg'
 
 injectGlobal`
 
-.alice-carousel__wrapper{
-  max-height: 730px;
-  /*background-color: pink;*/
-  border: none;
+  .alice-carousel__wrapper{
+    max-height: 730px;
+    border: none;
 
-  @media (min-width: 992px) and (max-width: 1200px) {
-    max-height: 618px;
+    @media (min-width: 992px) and (max-width: 1200px) {
+      max-height: 618px;
+    }
+
+    @media (min-width: 768px) and (max-width: 991px) {
+      max-height: 458px;
+      object-fit: contain;
+    }
+
+    @media (min-width: 576px) and (max-width: 767px) {
+      max-height: 338px;
+      object-fit: contain;
+    }
   }
 
-  @media (min-width: 768px) and (max-width: 991px) {
-    max-height: 458px;
-    object-fit: contain;
+  .alice-carousel{
+    padding: 0px;
+      border: 0px;
   }
 
-  @media (min-width: 576px) and (max-width: 767px) {
-    max-height: 338px;
-    object-fit: contain;
-  }
-}
-
-.alice-carousel{
-  padding: 0px;
-    border: 0px;
-  /*background-color: pink;*/
-}
-
-.img-holder{
-  text-align: center;
-}
-
-.img-holder img{
-  @media (min-width: 576px) and (max-width: 767px) {
-    object-fit: contain;
-  }
-}
-
-.carousel__thumbs {
-  list-style-type: none;
-  text-align: center;
-}
-
-.carousel__thumbs li{
-  display: inline-block;
-  max-height: 100px;
-  padding: 0 5px;
-  margin-bottom: 10px;
-}
-
-.carousel__thumbs li img{
-  max-height: 100px;
-}
-
-.wallres{
-  text-transform: uppercase;
-  color: #fff;
-  font-size: 1rem;
-  letter-spacing: 2px;
-  font-family: 'Pathway Gothic One', sans-serif;
-
-  @media (max-width: 576px) {
-    margin-top: 0.5rem;
-    margin-bottom: 0.25rem;
+  .img-holder{
+    text-align: center;
   }
 
-}
+  .img-holder img{
+    @media (min-width: 576px) and (max-width: 767px) {
+      object-fit: contain;
+    }
+  }
+
+  .carousel__thumbs {
+    list-style-type: none;
+    text-align: center;
+  }
+
+  .carousel__thumbs li{
+    display: inline-block;
+    max-height: 100px;
+    padding: 0 5px;
+    margin-bottom: 10px;
+  }
+
+  .carousel__thumbs li img{
+    max-height: 100px;
+  }
+
+  .wallres{
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 1rem;
+    letter-spacing: 2px;
+    font-family: 'Pathway Gothic One', sans-serif;
+
+    @media (max-width: 576px) {
+      margin-top: 0.5rem;
+      margin-bottom: 0.25rem;
+    }
+
+  }
 
 `;
 

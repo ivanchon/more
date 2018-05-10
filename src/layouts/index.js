@@ -9,7 +9,7 @@ import './main.css'
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Home | Britney Spears" />
+    <Helmet title="Home | Carla Morrison" />
     <Navbar />
     <div>{children()}</div>
     <Footer />
