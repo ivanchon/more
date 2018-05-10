@@ -3,8 +3,6 @@ import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
 
-
-
 //image imports
 import reco from '../img/record.png'
 import amsd from '../img/alco-amor-supremo-d.jpg'
