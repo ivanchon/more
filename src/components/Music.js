@@ -151,13 +151,13 @@ const Music = () => (
 
         <div className="row album-compo">
           <AlbumCont
-            link="/bio/"
+            link="/albums/amor-supremo/"
             title="Amor Supremo Desnudo"
             cover={amsd}
             label="Nuevo"
           />
           <AlbumCont
-            link="/bio/"
+            link="/albums/amor-supremo"
             title="Amor Supremo"
             cover={amsu}
             label="2015"

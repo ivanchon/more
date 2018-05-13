@@ -6,7 +6,7 @@ export const BioPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
-    <section className="section section--gradient header-push-down">
+    <section className="section header-push-down">
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">

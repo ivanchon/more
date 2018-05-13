@@ -9,7 +9,6 @@ injectGlobal`
     @media (max-width: 575.98px) {
       margin: 10px;
     }
-
   }
 
   .speech-bubble {
@@ -73,7 +72,7 @@ injectGlobal`
 const Testimonials = ({ testimonials }) => (
   <div>
     {testimonials.map(testimonial => (
-      <div className="row mb-5 mt-5 testimonialswrapper">
+      <div className="row mb-5 mt-5 testimonialswrapper" style={{ marginLeft:'10px', marginRight:'10px'}}>
         <div className="col-12 col-sm-6 speech-bubble align-self-center">
           {testimonial.quote}
           <br />

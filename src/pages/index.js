@@ -111,9 +111,7 @@ export default class IndexPage extends React.Component {
                 <h3 className="h3-headers">Discos</h3>
               </div>
             </div>
-            <div className="row">
-              <Music/>
-            </div>
+            <Music/>
             <div className="row">
               <div className="col text-right">
                 <a className="subtitle">
