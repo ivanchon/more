@@ -6,7 +6,7 @@ import {injectGlobal} from 'styled-components'
 
 import AliceCarousel from 'react-alice-carousel'
 
-//image imports
+//image gallery  imports
 import cm01 from '../img/gallery/CM1.jpg'
 import cm02 from '../img/gallery/CM2.jpg'
 import cm03 from '../img/gallery/CM3.jpg'
@@ -26,6 +26,35 @@ import wpa1 from '../img/wallpapers/2560x1440-A.jpg'
 import wpa2 from '../img/wallpapers/1920x1440-A.jpg'
 import wpa3 from '../img/wallpapers/1920x1200-A.jpg'
 import wpa4 from '../img/wallpapers/1920x1080-A.jpg'
+
+import wpb1 from '../img/wallpapers/2560x1440-B.jpg'
+import wpb2 from '../img/wallpapers/1920x1440-B.jpg'
+import wpb3 from '../img/wallpapers/1920x1200-B.jpg'
+import wpb4 from '../img/wallpapers/1920x1080-B.jpg'
+
+import wpc1 from '../img/wallpapers/2560x1440-C.jpg'
+import wpc2 from '../img/wallpapers/1920x1440-C.jpg'
+import wpc3 from '../img/wallpapers/1920x1200-C.jpg'
+import wpc4 from '../img/wallpapers/1920x1080-C.jpg'
+
+//wallpapers-mobile
+import wpma1 from '../img/wallpapers/A-IpadPro.jpg'
+import wpma2 from '../img/wallpapers/A-Galaxy-IphonePlus.jpg'
+import wpma3 from '../img/wallpapers/A-Galaxy-IphonePlus.jpg'
+import wpma4 from '../img/wallpapers/A-Iphone5-5s.jpg'
+
+//wallpapers-mobile
+import wpmb1 from '../img/wallpapers/A-IpadPro.jpg'
+import wpmb2 from '../img/wallpapers/A-Galaxy-IphonePlus.jpg'
+import wpmb3 from '../img/wallpapers/A-Galaxy-IphonePlus.jpg'
+import wpmb4 from '../img/wallpapers/A-Iphone5-5s.jpg'
+
+//wallpapers-mobile
+import wpmc1 from '../img/wallpapers/A-IpadPro.jpg'
+import wpmc2 from '../img/wallpapers/A-Galaxy-IphonePlus.jpg'
+import wpmc3 from '../img/wallpapers/A-Galaxy-IphonePlus.jpg'
+import wpmc4 from '../img/wallpapers/A-Iphone5-5s.jpg'
+
 
 
 injectGlobal`
@@ -103,7 +132,6 @@ const WallBlock = styled.div`
 const BtnWall = styled.a`
   background: transparent;
   border: 2px solid #FFF;
-  border-radius: 0px;
   color: #FFF;
   display: block;
   text-align: center;
@@ -132,21 +160,41 @@ const BtnWall = styled.a`
 
 
 const WallpaperBlock = props => (
-  <WallBlock className={props.class}>
+  <WallBlock className="col-12 col-lg-6 py-4">
     <div className="row">
-      <div className="col-12 col-md-7">
+      <div className="col-12 col-sm-7">
         <img src={props.thumb} className="img-fluid" alt=""/>
       </div>
-      <div className="col-12 col-md-5">
-        <p>Resolucion</p>
-        <a href={props.image1} target="_blank">{props.sizeDesc1}</a>
-        <a href={props.image2} target="_blank">{props.sizeDesc2}</a>
-        <a href={props.image3} target="_blank">{props.sizeDesc3}</a>
-        <a href={props.image4} target="_blank">{props.sizeDesc4}</a>
+      <div className="col-12 col-sm-5">
+        <p className="wallres">Resolucion</p>
+        <BtnWall href={props.image1} target="_blank">{props.sizeDesc1}</BtnWall>
+        <BtnWall href={props.image2} target="_blank">{props.sizeDesc2}</BtnWall>
+        <BtnWall href={props.image3} target="_blank">{props.sizeDesc3}</BtnWall>
+        <BtnWall href={props.image4} target="_blank">{props.sizeDesc4}</BtnWall>
       </div>
     </div>
   </WallBlock>
 );
+
+
+const WallpaperMBlock = props => (
+  <WallBlock className="col-12 col-lg-6 py-4">
+    <div className="row">
+      <div className="col-12 col-sm-7">
+        <img src={props.thumb} className="img-fluid" alt=""/>
+      </div>
+      <div className="col-12 col-sm-5">
+        <p className="wallres">Resolucion</p>
+        <BtnWall href={props.image1} target="_blank">{props.sizeDesc1}</BtnWall>
+        <BtnWall href={props.image2} target="_blank">{props.sizeDesc2}</BtnWall>
+        <BtnWall href={props.image3} target="_blank">{props.sizeDesc3}</BtnWall>
+        <BtnWall href={props.image4} target="_blank">{props.sizeDesc4}</BtnWall>
+        <BtnWall href={props.image5} target="_blank">{props.sizeDesc5}</BtnWall>
+      </div>
+    </div>
+  </WallBlock>
+);
+
 
 
 
@@ -191,18 +239,6 @@ export default class GalleryPage2 extends React.Component {
           </div>
         </div>
         <div className="row pt-5">
-          <WallBlock
-            class="col-12 col-lg-6"
-            thumb={thd1}
-            image1={wpa1}
-            image2={wpa2}
-            image3={wpa3}
-            image4={wpa4}
-            sizeDesc1="2560 x 1440"
-            sizeDesc2="1920 x 1440"
-            sizeDesc3="1920 x 1200"
-            sizeDesc4="1920 x 1080"
-          />
           <div className="col">
             <h2 className="h2-headers">Wallpapers</h2>
             <h2 className="h3-headers">Desktop</h2>
@@ -226,39 +262,77 @@ export default class GalleryPage2 extends React.Component {
           </div>
           <div className="col-12 col-lg-6 pb-5">
             <div class="row">
-              <div class="col-12 col-md-7">
+              <div class="col-12 col-sm-7">
                 {/*<!-- TWO -->*/}
                 <img src={thd2} className="img-fluid" alt=""/>
               </div>
-              <div class="col-12 col-md-5">
-                <p className="wallres">Resoluci&oacute;n</p>
-                <BtnWall href={wpa1} target="_blank">2560 x 1440</BtnWall>
-                <BtnWall href={wpa2} target="_blank">1920 x 1440</BtnWall>
-                <BtnWall href={wpa3} target="_blank">1920 x 1200</BtnWall>
-                <BtnWall href={wpa4} target="_blank">1920 x 1080</BtnWall>
+              <div class="col-12 col-sm-5">
+                <p className="wallres">Resolución</p>
+                <BtnWall href={wpb1} target="_blank">2560 x 1440</BtnWall>
+                <BtnWall href={wpb2} target="_blank">1920 x 1440</BtnWall>
+                <BtnWall href={wpb3} target="_blank">1920 x 1200</BtnWall>
+                <BtnWall href={wpb4} target="_blank">1920 x 1080</BtnWall>
               </div>
             </div>
           </div>
           <div className="col-12 col-lg-6">
             <div className="row">
-              <div className="col-12 col-md-7">
+              <div className="col-12 col-sm-7">
                 {/*<!-- THREE -->*/}
                 <img src={thd3} className="img-fluid" alt=""/>
               </div>
-              <div class="col-12 col-md-5">
-                <p className="wallres">Resoluci&oacute;n</p>
-                <BtnWall href={wpa1} target="_blank">2560 x 1440</BtnWall>
-                <BtnWall href={wpa2} target="_blank">1920 x 1440</BtnWall>
-                <BtnWall href={wpa3} target="_blank">1920 x 1200</BtnWall>
-                <BtnWall href={wpa4} target="_blank">1920 x 1080</BtnWall>
+              <div class="col-12 col-sm-5">
+                <p className="wallres">Resolución</p>
+                <BtnWall href={wpc1} target="_blank">2560 x 1440</BtnWall>
+                <BtnWall href={wpc2} target="_blank">1920 x 1440</BtnWall>
+                <BtnWall href={wpc3} target="_blank">1920 x 1200</BtnWall>
+                <BtnWall href={wpc4} target="_blank">1920 x 1080</BtnWall>
               </div>
             </div>
           </div>
-
         </div>
-      </div>
-
-
+        <div className="row pt-5">
+          <div className="col">
+            <h2 className="h2-headers">Wallpapers</h2>
+            <h2 className="h3-headers">Móvil</h2>
+          </div>
+        </div>
+        <div className="row pt-2 pb-5 text-center mx-auto">
+          <WallpaperBlock
+            thumb={thm1}
+            image1={wpma1}
+            image2={wpma2}
+            image3={wpma3}
+            image4={wpma4}
+            sizeDesc1="Galaxy • iPhone Plus"
+            sizeDesc2="iPad"
+            sizeDesc3="iPhone 6 • 7 • 8"
+            sizeDesc4="iPhone 5S"
+          />
+          <WallpaperBlock
+            thumb={thm2}
+            image1={wpmb1}
+            image2={wpmb2}
+            image3={wpmb3}
+            image4={wpmb4}
+            sizeDesc1="Galaxy • iPhone Plus"
+            sizeDesc2="iPad"
+            sizeDesc3="iPhone 6 • 7 • 8"
+            sizeDesc4="iPhone 5S"
+          />
+          <WallpaperBlock
+            thumb={thm3}
+            image1={wpmc1}
+            image2={wpmc2}
+            image3={wpmc3}
+            image4={wpmc4}
+            sizeDesc1="Galaxy • iPhone Plus"
+            sizeDesc2="iPad"
+            sizeDesc3="iPhone 6 • 7 • 8"
+            sizeDesc4="iPhone 5S"
+          />
+        </div>
+      </div>{/*<!-- whole container -->*/}
     </section>
   );
   }

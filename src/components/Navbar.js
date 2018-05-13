@@ -1,69 +1,253 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import {injectGlobal} from 'styled-components'
 
-import github from '../img/github-icon.svg'
 import logo from '../img/logo.png'
 
-const Navbar = () => (
+import {
+  Collapse,
+  Navbar,
+  NavbarToggler,
+  NavbarBrand,
+  Nav,
+  NavItem,
+  NavLink,
+  UncontrolledDropdown,
+  DropdownToggle,
+  DropdownMenu,
+  DropdownItem } from 'reactstrap';
 
-  <header id="header" className=" header">
 
-      <nav className="navbar navbar-expand-md navbar-dark fixed-top" style={{backgroundColor: 'rgba(165, 165, 165, 0.9)', borderBottom: '1px solid #eed0d2'}}>
+injectGlobal`
+
+  .navbar{
+    border-bottom: 1px solid #eed0d2;
+    font-family: 'Pathway Gothic One', sans-serif;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+
+    @media (max-width: 767.98px) {
+        background-color: rgba(165, 165, 165, 0.9);
+    }
+  }
+
+  .nav-scrolled{
+    background-color: rgba(165, 165, 165, 0.9);
+    transition: all 0.3s ease;
+
+  }
+
+  .navbar-toggler-icon::before{
+    content:'MENU';
+    margin-left: -65px;
+    margin-top: 5px;
+    position: absolute;
+    font-size: 1.25rem;
+    font-family: 'Pathway Gothic One', sans-serif;
+    letter-spacing: 1px;
+
+  }
+
+  .navbar-dark .navbar-toggler {
+    color: rgba(255, 255, 255, 1);
+    border: none;
+  }
+
+  .navbar .navbar-nav .nav-item .nav-link {
+      color: rgba(255, 255, 255, 1) !important;
+      transition: all 0.3s ease;
+
+    &:hover {
+        color: #eed0d2 !important;
+        transition: all 0.3s ease;
+      }
+  }
+
+  .navbar-collapse {
+    text-align: center;
+  }
+
+  .nav-social .nav-item li {
+    @media (max-width: 767.98px) {
+        background-color: green;
+        display: inline-block !important;
+
+    }
+  }
+
+`;
+
+
+export default class NavbarMain extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      isOpen: false,
+      isTop: true
+    };
+    this.onScroll = this.onScroll.bind(this);
+    this.toggle = this.toggle.bind(this);
+  }
+
+  componentDidMount() {
+    document.addEventListener('scroll', () => {
+      const isTop = window.scrollY < 80;
+      if (isTop !== this.state.isTop) {
+        this.onScroll(isTop);
+      }
+    });
+  }
+
+  onScroll(isTop) {
+  this.setState({ isTop });
+  }
+
+  toggle() {
+    this.setState({
+      isOpen: !this.state.isOpen
+    });
+
+  }
+  render() {
+    return (
+      <div>
+        <Navbar color="inverse" dark fixed="top" expand="md" className={this.state.isTop ? '' : 'nav-scrolled'}>
         <div className="container">
-          <a className="navbar-brand" href="/">
-              <figure className="image">
-                <img src={logo} alt="Carla" style={{ width: '120px', marginTop:'5px' }} />
-              </figure>
-          </a>
-          <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-            <span className="navbar-toggler-icon"></span>
-          </button>
-          <div className="collapse navbar-collapse" id="navbarCollapse">
-            <ul className="navbar-nav mx-auto">
-              <li className="nav-item active">
-                <a className="nav-link" href="/">Home <span className="sr-only">(current)</span></a>
-              </li>
-              <li className="nav-item"><a className="scrollto nav-link" href="/#gigs">Conciertos</a></li>
-              <li className="nav-item"><a className="scrollto nav-link" href="/videos">Videos</a></li>
-              <li className="nav-item"><a className="scrollto nav-link" href="/musica">Música</a></li>
-              <li className="nav-item"><a className="scrollto nav-link" href="/bio">Bio</a></li>
-              <li className="nav-item"><a className="scrollto nav-link" href="/#tienda">Tienda</a></li>
-              <li className="nav-item"><a className="scrollto nav-link" href="#contacto">Contacto</a></li>
-              <li className="nav-item"><a className="scrollto nav-link" href="/blog">Blog</a></li>
-              <li className="nav-item"><a className="scrollto nav-link" href="/galeria">Galería</a></li>
-              <li className="nav-item"><a className="scrollto nav-link" href="/">Q&#38;A</a></li>
-            </ul>
-
-            <div className="center-block-social d-none d-lg-block">
-              <ul className="nav navbar-nav navbar-nav-social navbar-right">
-                <li className="nav-item nav-social">
-                    <a href="https://www.youtube.com/user/CarlaMorrisonMusic"><i className="fa fa-youtube"></i></a>
-                </li>
-                <li className="nav-item nav-social">
-                    <a href="https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"><i className="fa fa-spotify"></i></a>
-                </li>
-                <li className="nav-item nav-social">
-                    <a href="https://itunes.apple.com/us/artist/carla-morrison/id292289334"><i className="fa fa-apple"></i></a>
-                </li>
-                <li className="nav-item nav-social">
-                    <a href="https://www.facebook.com/CARLAMORRISONOFICIALMX"><i className="fa fa-facebook"></i></a>
-                </li>
-                <li className="nav-item nav-social">
-                    <a href="https://www.instagram.com/carlitamorrison/"><i className="fa fa-instagram"></i></a>
-                </li>
-                <li className="nav-item nav-social">
-                    <a href="https://twitter.com/CarlaMorrisonMx"><i className="fa fa-twitter"></i></a>
-                </li>
-              </ul>
+          <NavbarBrand href="/">
+          <figure className="nav-logo">
+            <img src={logo} alt="Carla" className="img-fluid" style={{ width: '120px', marginTop:'5px' }} />
+          </figure>
+          </NavbarBrand>
+          <NavbarToggler onClick={this.toggle} />
+          <Collapse isOpen={this.state.isOpen} navbar>
+            <Nav className="mx-auto" navbar>
+              <NavItem>
+                <NavLink href="/#gigs">Conciertos</NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href="/videos">Videos</NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href="/musica">Música</NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href="/bio">Bio</NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href="/#tienda">Tienda</NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href="/#contacto">Contacto</NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href="/galeria">Galería</NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href="/qa">Q&A</NavLink>
+              </NavItem>
+            </Nav>
+            <Nav navbar className="nav-social">
+              <NavItem>
+                <NavLink href="https://www.youtube.com/user/CarlaMorrisonMusic">
+                  <i className="fa fa-youtube"></i>
+                </NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href="https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"><i className="fa fa-spotify"></i>
+                </NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href="https://itunes.apple.com/us/artist/carla-morrison/id292289334"><i className="fa fa-apple"></i>
+                </NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href="https://www.facebook.com/CARLAMORRISONOFICIALMX"><i className="fa fa-facebook"></i>
+                </NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href="https://www.instagram.com/carlitamorrison/"><i className="fa fa-instagram"></i>
+                </NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink href="https://twitter.com/CarlaMorrisonMx"><i className="fa fa-twitter"></i>
+                </NavLink>
+              </NavItem>
+            </Nav>
+          </Collapse>
+          {/*<Nav className="mr-auto nav-music" navbar>
+            <NavItem>
+              <NavLink href="/#" id="toggleMusic"><i class="music-icon fa fa-volume-up"></i></NavLink>
+            </NavItem>
+            <div style={{display: 'none'}}>
+              <audio id="audio-player" autoplay>
+                <source class="ogg-type" src="../../static/landing/backgroundMusic1.ogg" type="audio/ogg"/>
+                <source class="mp3-type" src="../../static/landing/backgroundMusic1.mp3" type="audio/mpeg"/>
+              </audio>
             </div>
-          </div>
-          </div>
-        </nav>
+            <NavItem>
+              <NavLink href="#" id="switch-music"><i class="music icon fa fa-angle-double-right"></i></NavLink>
+            </NavItem>
+          </Nav>*/}
+        </div>
+        </Navbar>
+      </div>
+    );
+  }
+}
 
-  </header>
+/*
+componentDidMount() {
+  var musicPlayer = document.getElementById('audio-player');
 
+  var soundAudioPlayer = false;
+  var musicCollection = [
+    {
+      'ogg': '../../static/landing/backgroundMusic1.ogg',
+      'mp3': '../../static/landing/backgroundMusic1.mp3'
+    },
+    {
+      'ogg': '../../static/landing/backgroundMusic2.ogg',
+      'mp3': '../../static/landing/backgroundMusic2.mp3'
+    },
+    {
+      'ogg': '../../static/landing/backgroundMusic3.ogg',
+      'mp3': '../../static/landing/backgroundMusic3.mp3'
+    }
+  ];
 
+  var currentIndex = 0;
+  var currentMusic = musicCollection[ currentIndex ];
+  function toggleAudioPlayerSound(){
+    soundAudioPlayer = !soundAudioPlayer;
+    var musicOn = 'fa-volume-up';
+    var musicOff = 'fa-volume-off';
 
-)
+    if(soundAudioPlayer){
+      $('#toggleMusic .music-icon')
+        .removeClass( musicOn )
+        .addClass( musicOff );
+    }else{
+      $('#toggleMusic .music-icon')
+        .removeClass( musicOff )
+        .addClass( musicOn );
+    }
 
-export default Navbar
+    musicPlayer.muted = soundAudioPlayer;
+  }
+
+  function switchMusic(){
+    currentIndex++;
+    currentMusic = musicCollection[ currentIndex % musicCollection.length ];
+
+    document.getElementsByClassName('ogg-type')[0].src = currentMusic['ogg'];
+    document.getElementsByClassName('mp3-type')[0].src = currentMusic['mp3'];
+
+    musicPlayer.load();
+    musicPlayer.play();
+  }
+
+  $('#toggleMusic').on('click', toggleAudioPlayerSound);
+  $('#switch-music').on('click', switchMusic);
+};
+*/

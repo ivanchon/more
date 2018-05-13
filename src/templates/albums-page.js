@@ -6,7 +6,7 @@ export const AlbumsPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
-    <section className="section section--gradient">
+    <section className="section section--gradient header-push-down">
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
@@ -53,6 +53,9 @@ export const aboutPageQuery = graphql`
       html
       frontmatter {
         title
+        image
+        heading
+        description
       }
     }
   }

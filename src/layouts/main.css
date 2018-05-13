@@ -1,4 +1,4 @@
-@import url("bootstrap.min.css");
+/*@import url("bootstrap.min.css");*/
 @import url("//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css");
 /*@import url("image-gallery.css");
 @import url("alice-carousel.css");
@@ -7,6 +7,8 @@
 
 body{
   background: gray url("../img/bgpattern.png");
+  -webkit-font-smoothing: antialiased;
+    font-family: "Roboto",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 }
 
 .icon>img {
@@ -121,7 +123,10 @@ a.btn-ghost-primary, .btn-ghost-primary {
 .navbar-nav > li > a:hover {
   color: #F3F0F0;
 }
+
+
 /* ====== Nav ======= */
+/*
 .navbar-toggle {
   margin-right: 0;
   margin-top: 0;
@@ -158,12 +163,12 @@ a.btn-ghost-primary, .btn-ghost-primary {
   -moz-opacity: 1;
   opacity: 1;
 }
-/*
+
 .navbar-nav {
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
-}*/
+}
 
 .navbar-nav > li > a {
   color: #fff;
@@ -183,14 +188,14 @@ a.btn-ghost-primary, .btn-ghost-primary {
 }
 .navbar-nav > li.active > a {
   color: #F3F0F0;
-}
+}*/
 
 
-.navbar-toggler-icon::before{
-  content:'MENUS';
-  margin-left: -150px;
 
-}
+
+
+
+
 
 /*BLOG links*/
 
@@ -203,6 +208,16 @@ a.btn-ghost-primary, .btn-ghost-primary {
 .has-text-primary:hover, .blog-excerpt-title:hover {
     text-decoration: none;
 
+}
+
+.taglist {
+  padding-left: 0px;
+}
+
+.taglist li{
+  list-style-type: none;
+  display: inline-block;
+  margin-right: 0.5rem;
 }
 
 
@@ -236,7 +251,7 @@ footer .list-inline>li {
 
 footer .contact-block h4  {
     font-family: 'Roboto', sans-serif;
-    font-weight: 100;
+    font-weight: 200;
     font-size: 1.5rem;
     letter-spacing: 1px;
     color: #808080;
@@ -250,7 +265,7 @@ footer .contact-block a {
 
 
 
-/*HOME CAROUSEL*/
+/*HOME CAROUSEL
 hero-carousel{
 }
 
@@ -261,7 +276,22 @@ hero-carousel{
   width: 100%;
   margin:0 auto;
   overflow: hidden;
+
 }
+
+@media (max-width: 575.98px) {
+  max-height: 50vh;
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+@media (min-width: 1200px) { ... }
+
+
 .cf4a img {
   position:absolute;
   left:0;
@@ -305,7 +335,7 @@ hero-carousel{
   -o-animation-timing-function: ease-in-out;
   -o-animation-iteration-count: infinite;
   -o-animation-duration: 8s;
-*/
+
   animation-name: cf4FadeInOut;
   animation-timing-function: ease-in-out;
   animation-iteration-count: infinite;
@@ -324,6 +354,7 @@ hero-carousel{
   animation-delay: 0;
 }
 
+*/
 
 /*BLOG */
 
