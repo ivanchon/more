@@ -126,51 +126,56 @@ export default class NavbarMain extends React.Component {
                 <NavLink href="/#gigs">Conciertos</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/videos">Videos</NavLink>
+                <Link to="/videos" className="nav-link">Videos</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/musica">Música</NavLink>
+                <Link to="/musica" className="nav-link">Música</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/bio">Bio</NavLink>
+                <Link to="/bio" className="nav-link">Bio</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/#tienda">Tienda</NavLink>
+                <Link to="/#tienda" className="nav-link">Tienda</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/#contacto">Contacto</NavLink>
+                <Link to="/#contacto" className="nav-link">Contacto</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/galeria">Galería</NavLink>
+                <Link to="/galeria" className="nav-link">Galería</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/qa">Q&A</NavLink>
+                <Link to="/qa" className="nav-link">Q&A</Link>
               </NavItem>
             </Nav>
             <Nav navbar className="nav-social">
               <NavItem>
-                <NavLink href="https://www.youtube.com/user/CarlaMorrisonMusic">
+                <NavLink href="https://www.youtube.com/user/CarlaMorrisonMusic" target="_blank" rel="noopener noreferrer">
                   <i className="fa fa-youtube"></i>
                 </NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"><i className="fa fa-spotify"></i>
+                <NavLink href="https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe" rel="noopener noreferrer">
+                  <i className="fa fa-spotify"></i>
                 </NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="https://itunes.apple.com/us/artist/carla-morrison/id292289334"><i className="fa fa-apple"></i>
+                <NavLink href="https://itunes.apple.com/us/artist/carla-morrison/id292289334" rel="noopener noreferrer">
+                  <i className="fa fa-apple"></i>
                 </NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="https://www.facebook.com/CARLAMORRISONOFICIALMX"><i className="fa fa-facebook"></i>
+                <NavLink href="https://www.facebook.com/CARLAMORRISONOFICIALMX" rel="noopener noreferrer">
+                  <i className="fa fa-facebook"></i>
                 </NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="https://www.instagram.com/carlitamorrison/"><i className="fa fa-instagram"></i>
+                <NavLink href="https://www.instagram.com/carlitamorrison/" rel="noopener noreferrer">
+                  <i className="fa fa-instagram"></i>
                 </NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="https://twitter.com/CarlaMorrisonMx"><i className="fa fa-twitter"></i>
+                <NavLink href="https://twitter.com/CarlaMorrisonMx" rel="noopener noreferrer">
+                  <i className="fa fa-twitter"></i>
                 </NavLink>
               </NavItem>
             </Nav>
