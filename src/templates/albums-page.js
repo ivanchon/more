@@ -92,7 +92,7 @@ export const albumsPageQuery = graphql`
         aboutEn
         songs {
           blurbs {
-            title
+            titulo
             text
             text2
           }

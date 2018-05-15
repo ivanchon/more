@@ -91,9 +91,9 @@ const FeatureGrid = ({ gridItems }) => (
   <div>
     {gridItems.map(item => (
       <div className="row text-center">
-        <div key={item.title} className='tab'>
+        <div key={item.titulo} className='tab'>
             <input id={'tab-'+numa++} type="checkbox" name="tabs"/>
-            <label for={'tab-'+numb++} style={{width:'100%'}}>{item.title}</label>
+            <label for={'tab-'+numb++} style={{width:'100%'}}>{item.titulo}</label>
             <div className="tab-content row" style={{borderTop:'1px solid #ddd'}}>
               <div className="col-6">
                 <p>{item.text}</p>
@@ -111,7 +111,7 @@ const FeatureGrid = ({ gridItems }) => (
 FeatureGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
-      title: PropTypes.string,
+      titulo: PropTypes.string,
       text: PropTypes.string,
       text2: PropTypes.string,
     })
