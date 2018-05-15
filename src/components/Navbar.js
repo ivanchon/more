@@ -126,25 +126,25 @@ export default class NavbarMain extends React.Component {
                 <NavLink href="/#gigs">Conciertos</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/videos">Videos</NavLink>
+                <Link to="/videos" className="nav-link">Videos</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/musica">Música</NavLink>
+                <Link to="/musica" className="nav-link">Música</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/bio">Bio</NavLink>
+                <Link to="/bio" className="nav-link">Bio</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/#tienda">Tienda</NavLink>
+                <Link to="/#tienda" className="nav-link">Tienda</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/#contacto">Contacto</NavLink>
+                <Link to="/#contacto" className="nav-link">Contacto</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/galeria">Galería</NavLink>
+                <Link to="/galeria" className="nav-link">Galería</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/qa">Q&A</NavLink>
+                <Link to="/qa" className="nav-link">Q&A</Link>
               </NavItem>
             </Nav>
             <Nav navbar className="nav-social">
