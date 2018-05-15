@@ -36,7 +36,7 @@ collections:
         name: "bio"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "bio-page"}
-          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Title", name: "title", widget: "text"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/products/index.md"
         label: "Products Page"
@@ -57,21 +57,20 @@ collections:
         name: "qa"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "qa-page"}
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}, {label: Answer, name: answer, widget: string}]}
+          - {label: Title, name: title, widget: text}
+          - {label: Description, name: description, widget: text}
+          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: text}, {label: Author, name: author, widget: text}, {label: Answer, name: answer, widget: text}]}
   - name: "albums"
     label: "Albums"
     files:
       - file: "src/pages/albums/amor-supremo.md"
-        label: "Amor Supremo Page"
+        label: "Amor Supremo"
         name: "amor-supremo"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "albums-page"}
           - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
           - {label: Year, name: year, widget: string}
-          - {label: aboutEs, name: aboutEs, widget: string}
-          - {label: aboutEn, name: aboutEn, widget: string}
-          - {label: Songs, name: songs, widget: object, fields: [{label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: markdown}, {label: Text2, name: text2, widget: markdown}, {label: Title, name: title, widget: text}]}]}
-        
+          - {label: Image, name: image, widget: image}
+          - {label: aboutEs, name: aboutEs, widget: text}
+          - {label: aboutEn, name: aboutEn, widget: text}
+          - {label: Songs, name: songs, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: Title, name: title, widget: text}, {label: Text, name: text, widget: markdown}, {label: Text2, name: text2, widget: markdown}]}]}

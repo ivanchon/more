@@ -146,6 +146,9 @@ export default class NavbarMain extends React.Component {
               <NavItem>
                 <Link to="/qa" className="nav-link">Q&A</Link>
               </NavItem>
+              <NavItem>
+                <Link to="/blog" className="nav-link">Blog</Link>
+              </NavItem>
             </Nav>
             <Nav navbar className="nav-social">
               <NavItem>

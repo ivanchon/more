@@ -10,7 +10,6 @@ const QAPagePreview = ({ entry, getAsset }) => {
   return (
     <QAPageTemplate
       title={entry.getIn(['data', 'title'])}
-      heading={entry.getIn(['data', 'heading'])}
       description={entry.getIn(['data', 'description'])}
       testimonials={testimonials}
     />

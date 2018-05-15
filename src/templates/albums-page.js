@@ -1,8 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Features from '../components/Features2'
-import Testimonials from '../components/Testimonials'
-import Pricing from '../components/Pricing'
 
 export const AlbumsPageTemplate = ({
   image,
@@ -10,9 +8,7 @@ export const AlbumsPageTemplate = ({
   year,
   aboutEs,
   aboutEn,
-  songs,
-  main,
-
+  songs
 }) => (
   <section className="section header-push-down">
     <div className="container pb-5">
@@ -42,9 +38,7 @@ export const AlbumsPageTemplate = ({
               <p>{aboutEn}</p>
             </div>
           </div>
-
           <Features gridItems={songs.blurbs} />
-
         </div>
       </div>
     </div>
@@ -52,9 +46,9 @@ export const AlbumsPageTemplate = ({
 )
 
 AlbumsPageTemplate.propTypes = {
-  image: PropTypes.string,
   title: PropTypes.string,
   year: PropTypes.string,
+  image: PropTypes.string,
   aboutEs: PropTypes.string,
   aboutEn: PropTypes.string,
   songs: PropTypes.shape({
@@ -67,13 +61,12 @@ const AlbumsPage = ({ data }) => {
 
   return (
     <AlbumsPageTemplate
-      image={frontmatter.image}
       title={frontmatter.title}
       year={frontmatter.year}
+      image={frontmatter.image}
       aboutEs={frontmatter.aboutEs}
       aboutEn={frontmatter.aboutEn}
       songs={frontmatter.songs}
-      main={frontmatter.main}
     />
   )
 }
@@ -93,16 +86,15 @@ export const albumsPageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
-        image
         year
+        image
         aboutEs
         aboutEn
         songs {
           blurbs {
-            image
+            title
             text
             text2
-            title
           }
         }
       }

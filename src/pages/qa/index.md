@@ -1,7 +1,7 @@
 ---
 templateKey: 'qa-page'
 path: /qa
-title: Q&A
+title: QA
 description: >-
   Aquí puedes encontrar desde las preguntas más interesantes hasta las más simples que me han hecho a lo largo de mi carrera y describen mucho el tipo de artista y persona que soy, espero pueda disfrutar y seguir llenando este espacio de contenido y entrevistas nuevas.
 testimonials:
