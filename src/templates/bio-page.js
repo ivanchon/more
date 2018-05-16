@@ -19,10 +19,9 @@ export const BioPageTemplate = ({ title, content, contentComponent }) => {
                 <div className="row text-right pb-4">
                   <div className="col">
                     <button type="button" className="btn btn-light bio-btn">
-                      <i class="fa fa-cloud-download"></i> Español</button>
-
+                      <i className="fa fa-cloud-download"></i> Español</button>
                     <button type="button" className="btn btn-light bio-btn">
-                      <i class="fa fa-cloud-download"></i> English</button>
+                      <i className="fa fa-cloud-download"></i> English</button>
                   </div>
               </div>
                 <PageContent className="content whitebg" content={content} style={{ backgroundColor: 'white' }}/>

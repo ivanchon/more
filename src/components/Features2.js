@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Collapse, Button, CardBody, Card } from 'reactstrap';
 import {injectGlobal} from 'styled-components'
+import { v4 } from 'uuid'
 
 injectGlobal`
 /* Acordeon styles */
@@ -90,18 +91,18 @@ var numb= 1;
 const FeatureGrid = ({ gridItems }) => (
   <div>
     {gridItems.map(item => (
-      <div className="row text-center">
-        <div key={item.titulo} className='tab'>
-            <input id={'tab-'+numa++} type="checkbox" name="tabs"/>
-            <label for={'tab-'+numb++} style={{width:'100%'}}>{item.titulo}</label>
-            <div className="tab-content row" style={{borderTop:'1px solid #ddd'}}>
-              <div className="col-6">
-                <p>{item.text}</p>
-              </div>
-              <div className="col-6">
-                <p>{item.text2}</p>
-              </div>
+      <div key={v4()} className="row text-center">
+        <div className='tab'>
+          <input id={'tab-'+numa++} type="checkbox" name="tabs"/>
+          <label htmlFor={'tab-'+numb++} style={{width:'100%'}}>{item.titulo}</label>
+          <div className="tab-content row" style={{borderTop:'1px solid #ddd'}}>
+            <div className="col-6">
+              <p>{item.text}</p>
             </div>
+            <div className="col-6">
+              <p>{item.text2}</p>
+            </div>
+          </div>
         </div>
       </div>
     ))}

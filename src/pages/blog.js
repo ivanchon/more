@@ -2,28 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 
-//img imports
-
-//heros
-import hero1 from '../img/a.jpg'
-import hero2 from '../img/b.jpg'
-import hero3 from '../img/c.jpg'
-
-import amsd from '../img/alco-amor-supremo-d.jpg'
-import amsu from '../img/alco-amor-supremo.jpg'
-import dell from '../img/alco-dejenme-llorar-d.jpg'
-import deld from '../img/alco-dejenme-llorar.jpg'
-import juse from '../img/alco-jugando.jpg'
-import mido from '../img/alco-mientras.jpg'
-
-
-
-import tieTee1 from '../img/tienda-tee1.gif'
-import tieTee2 from '../img/tienda-tee2.gif'
-import tieCup1 from '../img/tienda-cup.gif'
-import tieSwea from '../img/tienda-sweat.gif'
-
-
 
 export default class BlogPage extends React.Component {
   render() {

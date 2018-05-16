@@ -196,9 +196,6 @@ const WallpaperMBlock = props => (
 );
 
 
-
-
-
 export default class GalleryPage2 extends React.Component {
   renderThumbs = () =>
   <ul className="carousel__thumbs">
@@ -246,12 +243,12 @@ export default class GalleryPage2 extends React.Component {
         </div>
         <div className="row pt-2 pb-5 text-center mx-auto">
           <div className="col-12 col-lg-6 pb-5">
-            <div class="row">
-              <div class="col-12 col-sm-7">
+            <div className="row">
+              <div className="col-12 col-sm-7">
                 {/*<!-- ONE -->*/}
                 <img src={thd1} className="img-fluid" alt=""/>
               </div>
-              <div class="col-12 col-sm-5">
+              <div className="col-12 col-sm-5">
                 <p className="wallres">Resoluci&oacute;n</p>
                 <BtnWall href={wpa1} target="_blank">2560 x 1440</BtnWall>
                 <BtnWall href={wpa2} target="_blank">1920 x 1440</BtnWall>
@@ -261,12 +258,12 @@ export default class GalleryPage2 extends React.Component {
             </div>
           </div>
           <div className="col-12 col-lg-6 pb-5">
-            <div class="row">
-              <div class="col-12 col-sm-7">
+            <div className="row">
+              <div className="col-12 col-sm-7">
                 {/*<!-- TWO -->*/}
                 <img src={thd2} className="img-fluid" alt=""/>
               </div>
-              <div class="col-12 col-sm-5">
+              <div className="col-12 col-sm-5">
                 <p className="wallres">Resolución</p>
                 <BtnWall href={wpb1} target="_blank">2560 x 1440</BtnWall>
                 <BtnWall href={wpb2} target="_blank">1920 x 1440</BtnWall>
@@ -281,7 +278,7 @@ export default class GalleryPage2 extends React.Component {
                 {/*<!-- THREE -->*/}
                 <img src={thd3} className="img-fluid" alt=""/>
               </div>
-              <div class="col-12 col-sm-5">
+              <div className="col-12 col-sm-5">
                 <p className="wallres">Resolución</p>
                 <BtnWall href={wpc1} target="_blank">2560 x 1440</BtnWall>
                 <BtnWall href={wpc2} target="_blank">1920 x 1440</BtnWall>

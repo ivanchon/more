@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import {injectGlobal} from 'styled-components'
+import { v4 } from 'uuid'
 
 injectGlobal`
 
@@ -69,10 +70,11 @@ injectGlobal`
 
 
 
+
 const Testimonials = ({ testimonials }) => (
   <div>
     {testimonials.map(testimonial => (
-      <div className="row mb-5 mt-5 testimonialswrapper" style={{ marginLeft:'10px', marginRight:'10px'}}>
+      <div key={v4()} className="row mb-5 mt-5 testimonialswrapper" style={{ marginLeft:'10px', marginRight:'10px'}}>
         <div className="col-12 col-sm-6 speech-bubble align-self-center">
           {testimonial.quote}
           <br />

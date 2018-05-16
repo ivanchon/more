@@ -9,10 +9,7 @@ import hero2 from '../img/b.jpg'
 import hero3 from '../img/c.jpg'
 
 injectGlobal`
-hero-carousel{
-}
-
-
+  
 .cf4a {
   position: relative;
   height:100vh;

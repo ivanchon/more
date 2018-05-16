@@ -57,7 +57,7 @@ collections:
         name: "qa"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "qa-page"}
-          - {label: Title, name: title, widget: text}
+          - {label: Title, name: title, widget: string}
           - {label: Description, name: description, widget: text}
           - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: text}, {label: Author, name: author, widget: text}, {label: Answer, name: answer, widget: text}]}
   - name: "albums"
@@ -69,7 +69,7 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "albums-page"}
           - {label: Title, name: title, widget: string}
-          - {label: Year, name: year, widget: string}
+          - {label: Year, name: year, widget: number}
           - {label: Image, name: image, widget: image}
           - {label: aboutEs, name: aboutEs, widget: text}
           - {label: aboutEn, name: aboutEn, widget: text}

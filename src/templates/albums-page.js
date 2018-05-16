@@ -28,8 +28,7 @@ export const AlbumsPageTemplate = ({
             <div className="col-md-6">
               <img className="img-fluid"
                 style={{ borderRadius: '5px' }}
-                src={image}
-                //alt={main.image1.alt}
+                src={image} alt={title}
               />
             </div>
             <div className="col-md-6">

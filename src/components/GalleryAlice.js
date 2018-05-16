@@ -23,7 +23,7 @@ import cm05 from '../img/gallery/CM5.jpg'
 
 const GalleryAlice = () => (
 
-	<AliceCarousel  fadeOutAnimation={true} buttonsDisabled={true}>
+	<AliceCarousel fadeOutAnimation={true} buttonsDisabled={true}>
 	    <img src={cm01} className="yours-custom-class" />
 	    <img src={cm02} className="yours-custom-class" />
 	    <img src={cm03} className="yours-custom-class" />
