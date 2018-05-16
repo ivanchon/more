@@ -3,7 +3,7 @@ templateKey: 'albums-page'
 path: /albums/amor-supremo
 title: Amor Supremo
 image: /img/jumbotron.jpg
-heading: Amor supremo
+heading: What we offer today
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,

@@ -64,7 +64,7 @@ collections:
     label: "Albums"
     files:
       - file: "src/pages/albums/amor-supremo.md"
-        label: "Amor Supremo Page"
+        label: "Amor Supremo"
         name: "amor-supremo"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "albums-page"}
