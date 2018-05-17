@@ -1,6 +1,20 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Features from '../components/Features2'
+import {injectGlobal} from 'styled-components'
+
+injectGlobal`
+
+.h3-year {
+  text-align: left;
+  font-size: 40px;
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-weight: 100 !important;
+  color: #f3f0f0;
+  margin-top: 0 !important;
+}
+`;
+
 
 export const AlbumsPageTemplate = ({
   image,
@@ -19,7 +33,7 @@ export const AlbumsPageTemplate = ({
               <h2 className="h2-headers">
                 {title}
               </h2>
-              <h3 className="is-size-2">
+              <h3 className="h3-year">
                 {year}
               </h3>
             </div>

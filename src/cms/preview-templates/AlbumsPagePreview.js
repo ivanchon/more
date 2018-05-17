@@ -10,7 +10,7 @@ const AlbumsPagePreview = ({ entry, getAsset }) => {
     <AlbumsPageTemplate
       title={entry.getIn(['data', 'title'])}
       year={entry.getIn(['data', 'year'])}
-      //image={entry.getIn(['data', 'image'])}
+      image={entry.getIn(['data', 'image'])}
       aboutEs={entry.getIn(['data', 'aboutEs'])}
       aboutEn={entry.getIn(['data', 'aboutEn'])}
       songs={{ blurbs }}

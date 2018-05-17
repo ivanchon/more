@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Collapse, Button, CardBody, Card } from 'reactstrap';
+//import { Collapse, Button, CardBody, Card } from 'reactstrap';
 import {injectGlobal} from 'styled-components'
 import { v4 } from 'uuid'
 

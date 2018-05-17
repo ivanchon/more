@@ -8,8 +8,8 @@ import ProductPagePreview from './preview-templates/ProductPagePreview'
 import QAPagePreview from './preview-templates/QAPagePreview'
 
 CMS.registerPreviewStyle('/styles.css')
-//CMS.registerPreviewTemplate('albums', AlbumsPagePreview)
 CMS.registerPreviewTemplate('about', AboutPagePreview)
+//CMS.registerPreviewTemplate('albums', AlbumsPagePreview)
 CMS.registerPreviewTemplate('bio', BioPagePreview)
 CMS.registerPreviewTemplate('products', ProductPagePreview)
 CMS.registerPreviewTemplate('qa', QAPagePreview)
