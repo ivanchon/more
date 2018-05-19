@@ -12,6 +12,11 @@ import cm02 from '../img/gallery/CM2.jpg'
 import cm03 from '../img/gallery/CM3.jpg'
 import cm04 from '../img/gallery/CM4.jpg'
 import cm05 from '../img/gallery/CM5.jpg'
+import cm06 from '../img/gallery/CM6.jpg'
+import cm07 from '../img/gallery/CM7.jpg'
+import cm08 from '../img/gallery/CM8.jpg'
+import cm09 from '../img/gallery/CM9.jpg'
+import cm10 from '../img/gallery/CM10.jpg'
 
 //wallpapers-thumbs
 import thd1 from '../img/wallpapers/thumbD_01.png'
@@ -200,7 +205,7 @@ export default class GalleryPage2 extends React.Component {
   renderThumbs = () =>
   <ul className="carousel__thumbs">
     {
-      [cm02,cm01,cm03,cm04,cm05,cm01,cm02,cm03,cm04,cm05,cm01,cm02,cm03,cm04,cm05].map((item, i) =>
+      [cm02,cm01,cm03,cm04,cm05,cm01,cm02,cm03,cm04,cm05,cm06,cm07,cm08,cm09,cm10].map((item, i) =>
         <li key={i} onClick={() => this.Carousel._onDotClick(i)}><img src={item} className="" /></li>)
     }
   </ul>;
