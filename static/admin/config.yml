@@ -73,4 +73,4 @@ collections:
           - {label: Image, name: image, widget: image}
           - {label: aboutEs, name: aboutEs, widget: text}
           - {label: aboutEn, name: aboutEn, widget: text}
-          - {label: Songs, name: songs, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: Titulo, name: titulo, widget: text}, {label: Text, name: text, widget: markdown}, {label: Text2, name: text2, widget: markdown}]}]}
+          - {label: Songs, name: songs, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: Title, name: title, widget: text}, {label: Lyrics Espanol, name: lyricsEs, widget: markdown}, {label: Lyrics English, name: lyricsEn, widget: markdown}]}]}

@@ -5,13 +5,36 @@ import {injectGlobal} from 'styled-components'
 
 injectGlobal`
 
+.album-section{
+
+  color: #808080;
+
+  h2{
+
+  }
+
+  h3 {
+    text-align: left;
+    font-size: 40px;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-weight: 100 !important;
+    color: #f3f0f0;
+    margin-top: 0 !important;
+  }
+
+  h4{
+    color: #fff;
+    font-family: 'Courgette', cursive;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+}
+
 .h3-year {
-  text-align: left;
-  font-size: 40px;
-  font-family: 'Pathway Gothic One', sans-serif;
-  font-weight: 100 !important;
-  color: #f3f0f0;
-  margin-top: 0 !important;
+}
+
+.h2-headers{
+  margin-bottom: 0px !important;
 }
 `;
 
@@ -24,7 +47,7 @@ export const AlbumsPageTemplate = ({
   aboutEn,
   songs
 }) => (
-  <section className="section header-push-down">
+  <section className="section album-section header-push-down">
     <div className="container pb-5">
       <div className="section">
         <div className="content">
@@ -46,7 +69,7 @@ export const AlbumsPageTemplate = ({
               />
             </div>
             <div className="col-md-6">
-              <p>Acerca de</p>
+              <h4>Acerca de</h4>
               <p>{aboutEs}</p>
               <p>{aboutEn}</p>
             </div>
@@ -105,9 +128,9 @@ export const albumsPageQuery = graphql`
         aboutEn
         songs {
           blurbs {
-            titulo
-            text
-            text2
+            title
+            lyricsEs
+            lyricsEn
           }
         }
       }

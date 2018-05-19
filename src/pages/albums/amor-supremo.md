@@ -24,46 +24,9 @@ aboutEn: >-
   Sterling Sound NYC.
 songs:
   blurbs:
-    - text: "Eres la ilusión que yo persigo,\n\neres bueno y maldito.\n\nYo quiero tocarte y poder\n\nseguirte por doquier.\n\nVámonos lejos,\n\nvámonos lejos\n\ndonde nadie\n\nme prohiba tu calor.\n\nYo te voy a robar,\n\nte voy a secuestrar.\n\nYo te voy a robar un beso.\n\nYo te voy a robar,\n\nte voy a secuestrar.\n\nYo te voy a robar un beso.\n\nEres la infusión que necesito,\n\neres muy calientito.\n\nYo quiero acercarme y poder\n\ncontagiarme de tu ser.\n\nVámonos lejos,\n\nvámonos lejos\n\ndonde nadie\n\nme prohiba tu amor.\n\nCómo consigo tener\n\nuna cucharadita de tu miel.\x7F\x7F"
-      text2: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-      titulo: 1 Un Beso
-    - text: >
-        La belleza que veo en ti traspasa cualquier dimensión, es tan grande su
-        proyección que me ciega con su resplandor. Nunca nadie ha podido dejarme
-        sin palabras como tú. Todo aquello que gano con hazañas  
-      text2: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-      titulo: 2- Flor que nunca fui
-    - text: >
-        La belleza que veo en ti traspasa cualquier dimensión, es tan grande su
-        proyección que me ciega con su resplandor. Nunca nadie ha podido dejarme
-        sin palabras como tú. Todo aquello que gano con hazañas  
-      text2: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-      titulo: 3- Flores que nunca fui
-    - text: >
-        La belleza que veo en ti traspasa cualquier dimensión, es tan grande su
-        proyección que me ciega con su resplandor. Nunca nadie ha podido dejarme
-        sin palabras como tú. Todo aquello que gano con hazañas   
-      text2: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-      titulo: 4- F nunca fui
+    - title: 1 - Un Beso
+      lyricsEs: "Eres la ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel."
+      lyricsEn: "ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel."
+    - title: 2 - Flor que nunca fui
+      lyricsEs: "La belleza que veo en ti<br/>traspasa cualquier dimensión,<br/>es tan grande su proyección<br/>que me ciega con su resplandor.<br/>Nunca nadie ha podido<br/>dejarme sin palabras como tú.<br/>Todo aquello que gano con hazañas,<br/>la fé me devolviste tú.<br/>Tú has roto en mí,<br/>todas las barreras de dolor<br/>que construí.<br/>Tus tratos hacia mí,<br/>me acaricias con amor como esa flor<br/>que nunca fui.<br/>Tú has roto en mí<br/>todas las barreras de dolor<br/>que construí.<br/>Tus tratos hacia mí,<br/>me acaricias con amor como esa flor<br/>que nunca fui.<br/>Contigo las horas se hacen agua,<br/>que viaja dentro de mí.<br/>Mi piel expulsando lo que siento<br/>es una terrible atracción.<br/>Tú, esa formula novedosa<br/>que me tomó fuera de mi control.<br/>Yo me contengo y te observo,<br/>y aumenta mi ilusión."
 ---
-

@@ -34,7 +34,6 @@ label {
   cursor: pointer;
 }
 
-
 .blue label {
   background: #2980b9;
 }
@@ -54,7 +53,7 @@ label {
 }
 /* :checked */
 input:checked ~ .tab-content {
-  max-height: 30em;
+  max-height: 40em;
 }
 /* Icon */
 label::after {
@@ -86,21 +85,23 @@ input[type=radio]:checked + label::after {
 
 var num = 1;
 var numa= 1;
-var numb= 1;
+var itemprint = 1;
 
 const FeatureGrid = ({ gridItems }) => (
   <div>
     {gridItems.map(item => (
       <div key={v4()} className="row text-center">
         <div className='tab'>
-          <input id={'tab-'+numa++} type="checkbox" name="tabs"/>
-          <label htmlFor={'tab-'+numb++} style={{width:'100%'}}>{item.titulo}</label>
+          <input id={'tab-'+num++} type="checkbox" name="tabs"/>
+          <label htmlFor={'tab-'+numa++} style={{width:'100%'}}>{item.title}</label>
           <div className="tab-content row" style={{borderTop:'1px solid #ddd'}}>
             <div className="col-6">
-              <p>{item.text}</p>
+              {/*<p> {item.lyricsEs} </p>*/}
+              <p dangerouslySetInnerHTML={{ __html: item.lyricsEs }} />
             </div>
             <div className="col-6">
-              <p>{item.text2}</p>
+              {/*<p>{item.lyricsEn}</p>*/}
+              <p dangerouslySetInnerHTML={{ __html: item.lyricsEn }} />
             </div>
           </div>
         </div>
@@ -112,9 +113,9 @@ const FeatureGrid = ({ gridItems }) => (
 FeatureGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
-      titulo: PropTypes.string,
-      text: PropTypes.string,
-      text2: PropTypes.string,
+      title: PropTypes.string,
+      lyricsEs: PropTypes.string,
+      lyricsEn: PropTypes.string,
     })
   ),
 }
