@@ -83,7 +83,7 @@ export const AlbumsPageTemplate = ({
 
 AlbumsPageTemplate.propTypes = {
   title: PropTypes.string,
-  year: PropTypes.string,
+  year: PropTypes.number,
   image: PropTypes.string,
   aboutEs: PropTypes.string,
   aboutEn: PropTypes.string,
