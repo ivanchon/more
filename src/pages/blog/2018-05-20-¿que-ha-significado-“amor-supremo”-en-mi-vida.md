@@ -6,7 +6,7 @@ description: Este disco comenzó como una búsqueda interior necesaria.
 tags:
   - jamaica
 ---
-![mi foto](/img/alco-amor-supremo.jpg)
+![mi foto](/img/cm6.jpg)
 
 Al finalizar la gira de "Déjenme llorar" no tenia idea de quién era yo... habían pasado tantas cosas que necesitaba callar el ruido que permanecía siempre en mi cabeza. Ver como grabamos este disco frente a una playa fría y ver como se desenvolvió en esta cosa hermosa y grande, y que el público internacional estuviera tan involucrado fue impresionante. Amor Supremo para mí era el canto para todo ese amor no correspondido pero si aceptado y valorado, esa conexión espiritual y no física que puedes llegar a tener con alguien y que no sabes porqué pero sabes que esta bien y que aprenderás de esa persona para siempre. Este disco me ha hecho aprender mucho de mí y de mis compañeros así como de mis fieles escuchas… me llevo a lugares que no imagine en el planeta y dentro de mí y vivo mas en calma y clara de lo que soy, quiero y no quiero.
 
