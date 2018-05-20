@@ -3,25 +3,20 @@ templateKey: albums-page
 title: Amor Supremo Desnudo
 year: 2017
 image: /img/alco-amor-supremo-d.jpg
-aboutEs: >-
-  Mi Segundo disco de larga duración fue hecho en una casa que rentamos en
-  Playas de Tijuana, México en un tiempo aproximado de 8 meses y las voces
-  fueron grabadas en el cuarto de mi madre en la ciudad de Tecate Baja
-  California. Fue producido por Alejandro Jiménez y Damián Jiménez y co
-  producido por mi. Estuvo muy influenciado por el sonido denso de
-  sintetizadores y por el soundtrack y mensaje de la película Interstellar
-  intentando dar al escucha una experiencia mucho mas llena al poder escuchar y
-  expandir su experiencia auditiva y visual mientras se escuchara el disco. Fue
-  mezclado por Claudius Mittendorfer en Nueva York así como también masterizado
-  por Steve Falone en Sterling Sound NYC.
+aboutEs: "\x7FLa versión acústica de Amor Supremo Desnudo nació de la idea de volver al origen de las maquetas de las canciones originales; Cu\x7Fando estando en gira, en entrevistas y promoción se me pedía versiones simples para poder cantarlas en estudios pequeños. Me entregue al reto de poder hacer todas las canciones en versión acústica y agregar incluso 2 temas extras que no lograron llegar a la versión final pero que en esta versión acústica estaban mas acorde al clima Amor Supremo Desnudo. \"Dime Mentiras\" hablando sobre la perdida total de un ser querido y \"Te Regalo\" en la entrega total y ultima que das en una relación donde quieres compartir el resto de tu vida. El disco fue grabado en Baby Jesus Hood Studio en Coyoacán, Ciudad de México, producido por Alejandro Jiménez y por mi. Mezclado por Damián Jiménez y masterizado por Steve Falone from Sterling Sound en NYC."
 aboutEn: >-
-  My Second LP Album was done in a house we rented in Playas de Tijuana, Mexico
-  in a 8 months time. It was produced by Alejandro Jimenez and Demian Jimenez
-  and co produced by me. It was primarily influenced by heavy synthesizers, by
-  Interstellar movie soundtrack and also giving the listener a more Fuller
-  experience by being able to listen and expand their imagination. It was mixed
-  by Claudius Mittendorfer in New York City and mastered by Steve Falone in
-  Sterling Sound NYC.
+  The acoustic version of Amor Supremo Desnudo (Love Supreme Naked Version) was
+  born when after so many interviews where they would ask for more stripped down
+  version where asked to be perfore for interviews and such and it made me go
+  back to the Origin of the demos. I gave in to the challenge to re-create all
+  the songs again and add 2 extra that didn't make the first original version
+  but that were more close to the nade version of the acoustic re Versions.
+  "Dime Mentiras" (Tell me Lies) talking about the total loss of a loved on and
+  "Te Regalo" (I give you) talking about the complete delivery of yourself to
+  someone who you love and want to spend the rest of your Life with. The album
+  was recorded at the Baby Jesus Hood Studio in Coyoacan, Mexico City. Produced
+  by Alejandro Jimenez and me. Mixed by Demian Jimenez and mastered by Steve
+  Falone from Sterling Sound in NYC.
 songs:
   blurbs:
     - lyricsEn: >-
@@ -70,29 +65,503 @@ songs:
         de mi control.<br/>Yo me contengo y te observo,<br/>y aumenta mi
         ilusión.
       title: 2 - Flor que nunca fui
-    - lyricsEn: >-
-        ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte
-        y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos
-        lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a
-        robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te
-        voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un
-        beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo
-        quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos
-        lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu
-        amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel.
-      lyricsEs: >-
-        La belleza que veo en ti<br/>traspasa cualquier dimensión,<br/>es tan
-        grande su proyección<br/>que me ciega con su resplandor.<br/>Nunca nadie
-        ha podido<br/>dejarme sin palabras como tú.<br/>Todo aquello que gano
-        con hazañas,<br/>la fé me devolviste tú.<br/>Tú has roto en
-        mí,<br/>todas las barreras de dolor<br/>que construí.<br/>Tus tratos
-        hacia mí,<br/>me acaricias con amor como esa flor<br/>que nunca
-        fui.<br/>Tú has roto en mí<br/>todas las barreras de dolor<br/>que
-        construí.<br/>Tus tratos hacia mí,<br/>me acaricias con amor como esa
-        flor<br/>que nunca fui.<br/>Contigo las horas se hacen agua,<br/>que
-        viaja dentro de mí.<br/>Mi piel expulsando lo que siento<br/>es una
-        terrible atracción.<br/>Tú, esa formula novedosa<br/>que me tomó fuera
-        de mi control.<br/>Yo me contengo y te observo,<br/>y aumenta mi
-        ilusión.
-      title: 3 - Vez Primeras
+    - lyricsEn: |-
+        You already went away to your new life
+
+
+
+        With another woman in fact a very beautiful one
+
+
+
+        It was part of your destiny to follow your path
+
+
+
+        Its better like that
+
+
+
+        Although I feel strange inside
+
+         
+
+
+
+        Where my heart beats
+
+
+
+        Where my modesty rests
+
+
+
+        Where I kept all my pain
+
+
+
+        Where my love is born and dies again
+
+         
+
+
+
+        You were my first time
+
+
+
+        My kiss, my blind science
+
+
+
+        I gave you all my ways
+
+
+
+        From my everything I gave
+
+
+
+        I learned so much from you
+
+
+
+        but too love me first always
+
+         
+
+
+
+        You were that great stage in my life
+
+
+
+        Where my veins were chasing you
+
+
+
+        My skin wanting to smell you
+
+
+
+        My recurrent mind 
+
+
+
+        I was so happy right beside you
+
+         
+
+
+
+        With you I spent moments that will never leave me 
+
+
+
+        Our moments where strong and hard 
+
+
+
+        Discovering the sweetness 
+
+
+
+        you lived in me and I was so happy
+      lyricsEs: |-
+        Ya te fuiste de mí a tu vida nueva,
+
+
+
+        con otra mujer, de hecho una muy bella.
+
+
+
+         
+
+
+
+        Era parte del destino que siguieras tu camino.
+
+
+
+        Yo mejor así, aunque siento raro aquí.
+
+
+
+         
+
+
+
+        ¿Dónde palpita el corazón?
+
+
+
+        ¿Dónde descansa mi pudor?
+
+
+
+        ¿Dónde guardé todo mi dolor?
+
+
+
+        ¿Dónde nace y muere mi amor?
+
+
+
+         
+
+
+
+        Tú fuiste mi vez primera
+
+
+
+        mi beso, mi ciencia a ciegas.
+
+
+
+        Te di todas mis maneras.
+
+
+
+        De mi todo cedí,
+
+
+
+        de ti tanto aprendí,
+
+
+
+        a quererme primero a mí, siempre.
+
+
+
+         
+
+
+
+        Fuiste esa gran etapa en mi vida
+
+
+
+        donde mis venas a ti perseguían.
+
+
+
+        Mi piel deseando olerte, mi mente tan recurrente.
+
+
+
+        Yo era tan feliz, a un ladito de ti.
+
+
+
+         
+
+
+
+        Contigo pase momentos
+
+
+
+        que nunca se irán de mí.
+
+
+
+        Nuestra etapa fue fuerte y dura,
+
+
+
+        descubriendo la dulzura.
+
+
+
+        Tú habitabas en mi y yo era tan tan feliz.
+      title: 3 - Vez Primera
+    - lyricsEn: |-
+        Brown sugar is your skin,
+
+
+
+        your kisses taste like pure honey
+
+
+
+        Your mouth is cherries to swallow
+
+
+
+        Your voice rumbles in all my being
+
+         
+
+
+
+        Sugar, sugar your skin
+
+
+
+        Sugar, sugar, give me a drink
+
+
+
+        Brown sugar is your skin,
+
+
+
+        it is your beautiful voice that resounds in all my being
+
+         
+
+
+
+        Brown sugar is your skin,
+
+
+
+        give me a little bit of time to love you
+
+
+
+        Sneakily where no one can see us
+
+
+
+        I can secretly deliver myself
+
+         
+
+
+
+        Sugar, sugar your skin
+
+
+
+        Sugar, sugar, give me a drink
+
+
+
+        Brown sugar is your skin,
+
+
+
+        it is your beautiful voice that resounds in all my being
+
+
+
+        It's your eyes that manipulate al my well being
+
+         
+
+
+
+        Sugar, sugar you do not see
+
+
+
+        I also have to give you a drink
+
+
+
+        Brown sugar is your skin,
+
+
+
+        it is your beautiful voice that resounds in my being
+
+
+
+         
+
+
+
+        Sugar, sugar
+
+
+
+        Brown sugar is your skin,
+
+
+
+        it is your beautiful voice that resounds in all my being
+
+
+
+        It's your eyes that manipulate my honey.
+      lyricsEs: |-
+        Azúcar Morena es tu piel,
+
+
+
+        tus besos me saben a pura miel.
+
+
+
+        Tu boca son cerezas para comer,
+
+
+
+        tu voz, retumba en todo mi ser.
+
+
+
+         
+
+
+
+        Azúcar
+
+
+
+        Azúcar
+
+
+
+        Tu piel…
+
+
+
+         
+
+
+
+        Azúcar
+
+
+
+        Azúcar
+
+
+
+        Dame de beber…
+
+
+
+         
+
+
+
+        Azúcar Morena es tu piel,
+
+
+
+        es tu bella voz
+
+
+
+        que retumba en mi ser.
+
+
+
+         
+
+
+
+        hmm… hmm…
+
+
+
+         
+
+
+
+        Azúcar Morena es tu piel,
+
+
+
+        dame un ratito pa´ quererte.
+
+
+
+        A escondidas donde nadie
+
+
+
+        nos pueda ver,
+
+
+
+        en secreto podré
+
+
+
+        entregarme.
+
+
+
+         
+
+
+
+        Es tu bella voz
+
+
+
+        que retumba mi ser.
+
+
+
+        Son tus ojos
+
+
+
+        que manipulan mi bien.
+
+
+
+         
+
+
+
+        Azúcar, azúcar
+
+
+
+        no ves,
+
+
+
+        yo tengo también para darte de beber.
+
+
+
+         
+
+
+
+        Azúcar Morena
+
+
+
+        es tu piel,
+
+
+
+        es tu bella voz
+
+
+
+        que retumba en mi ser.
+
+
+
+         
+
+
+
+        Es tu bella voz
+
+
+
+        que retumba en mi ser.
+
+
+
+        Son tus ojos
+
+
+
+        que manipulan mi bien.
+      title: 4 - Azúcar Morena
 ---
+
