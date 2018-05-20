@@ -151,7 +151,7 @@ const Music = () => (
 
         <div className="row album-compo">
           <AlbumCont
-            link="/albums/amor-supremo/"
+            link="/albums/amor-supremo-desnudo/"
             title="Amor Supremo Desnudo"
             cover={amsd}
             label="Nuevo"

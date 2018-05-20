@@ -62,15 +62,14 @@ collections:
           - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: text}, {label: Author, name: author, widget: text}, {label: Answer, name: answer, widget: text}]}
   - name: "albums"
     label: "Albums"
-    files:
-      - file: "src/pages/albums/amor-supremo.md"
-        label: "Amor Supremo"
-        name: "amor-supremo"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "albums-page"}
-          - {label: Title, name: title, widget: string}
-          - {label: Year, name: year, widget: number}
-          - {label: Image, name: image, widget: image}
-          - {label: aboutEs, name: aboutEs, widget: text}
-          - {label: aboutEn, name: aboutEn, widget: text}
-          - {label: Songs, name: songs, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: Title, name: title, widget: text}, {label: Lyrics Espanol, name: lyricsEs, widget: markdown}, {label: Lyrics English, name: lyricsEn, widget: markdown}]}]}
+    folder: "src/pages/albums"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "albums-page"}
+      - {label: Title, name: title, widget: string}
+      - {label: Year, name: year, widget: number}
+      - {label: Image, name: image, widget: image}
+      - {label: aboutEs, name: aboutEs, widget: text}
+      - {label: aboutEn, name: aboutEn, widget: text}
+      - {label: Songs, name: songs, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: Title, name: title, widget: text}, {label: Lyrics Espanol, name: lyricsEs, widget: markdown}, {label: Lyrics English, name: lyricsEn, widget: markdown}]}]}
