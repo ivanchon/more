@@ -1,8 +1,8 @@
 ---
 templateKey: albums-page
-title: Amor Supremo
+title: Amor Supremo Desnudo
 year: 2015
-image: /img/alco-dejenme-llorar.jpg
+image: /img/alco-amor-supremo-d.jpg
 aboutEs: >-
   Mi Segundo disco de larga duración fue hecho en una casa que rentamos en
   Playas de Tijuana, México en un tiempo aproximado de 8 meses y las voces
@@ -24,13 +24,76 @@ aboutEn: >-
   Sterling Sound NYC.
 songs:
   blurbs:
-    - title: 1 - Un Beso
-      lyricsEs: "Eres la ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel."
-      lyricsEn: "ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel."
-    - title: 2 - Flor que nunca fui
-      lyricsEs: "La belleza que veo en ti<br/>traspasa cualquier dimensión,<br/>es tan grande su proyección<br/>que me ciega con su resplandor.<br/>Nunca nadie ha podido<br/>dejarme sin palabras como tú.<br/>Todo aquello que gano con hazañas,<br/>la fé me devolviste tú.<br/>Tú has roto en mí,<br/>todas las barreras de dolor<br/>que construí.<br/>Tus tratos hacia mí,<br/>me acaricias con amor como esa flor<br/>que nunca fui.<br/>Tú has roto en mí<br/>todas las barreras de dolor<br/>que construí.<br/>Tus tratos hacia mí,<br/>me acaricias con amor como esa flor<br/>que nunca fui.<br/>Contigo las horas se hacen agua,<br/>que viaja dentro de mí.<br/>Mi piel expulsando lo que siento<br/>es una terrible atracción.<br/>Tú, esa formula novedosa<br/>que me tomó fuera de mi control.<br/>Yo me contengo y te observo,<br/>y aumenta mi ilusión."
-      lyricsEn: "ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel."
-    - title: 3 - Vez Primeras
-      lyricsEs: "La belleza que veo en ti<br/>traspasa cualquier dimensión,<br/>es tan grande su proyección<br/>que me ciega con su resplandor.<br/>Nunca nadie ha podido<br/>dejarme sin palabras como tú.<br/>Todo aquello que gano con hazañas,<br/>la fé me devolviste tú.<br/>Tú has roto en mí,<br/>todas las barreras de dolor<br/>que construí.<br/>Tus tratos hacia mí,<br/>me acaricias con amor como esa flor<br/>que nunca fui.<br/>Tú has roto en mí<br/>todas las barreras de dolor<br/>que construí.<br/>Tus tratos hacia mí,<br/>me acaricias con amor como esa flor<br/>que nunca fui.<br/>Contigo las horas se hacen agua,<br/>que viaja dentro de mí.<br/>Mi piel expulsando lo que siento<br/>es una terrible atracción.<br/>Tú, esa formula novedosa<br/>que me tomó fuera de mi control.<br/>Yo me contengo y te observo,<br/>y aumenta mi ilusión."
-      lyricsEn: "ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel."
+    - lyricsEn: >-
+        ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte
+        y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos
+        lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a
+        robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te
+        voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un
+        beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo
+        quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos
+        lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu
+        amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel.
+      lyricsEs: >-
+        Eres la ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero
+        tocarte y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos
+        lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a
+        robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te
+        voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un
+        beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo
+        quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos
+        lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu
+        amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel.
+      title: 1 - Un Beso
+    - lyricsEn: >-
+        ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte
+        y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos
+        lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a
+        robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te
+        voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un
+        beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo
+        quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos
+        lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu
+        amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel.
+      lyricsEs: >-
+        La belleza que veo en ti<br/>traspasa cualquier dimensión,<br/>es tan
+        grande su proyección<br/>que me ciega con su resplandor.<br/>Nunca nadie
+        ha podido<br/>dejarme sin palabras como tú.<br/>Todo aquello que gano
+        con hazañas,<br/>la fé me devolviste tú.<br/>Tú has roto en
+        mí,<br/>todas las barreras de dolor<br/>que construí.<br/>Tus tratos
+        hacia mí,<br/>me acaricias con amor como esa flor<br/>que nunca
+        fui.<br/>Tú has roto en mí<br/>todas las barreras de dolor<br/>que
+        construí.<br/>Tus tratos hacia mí,<br/>me acaricias con amor como esa
+        flor<br/>que nunca fui.<br/>Contigo las horas se hacen agua,<br/>que
+        viaja dentro de mí.<br/>Mi piel expulsando lo que siento<br/>es una
+        terrible atracción.<br/>Tú, esa formula novedosa<br/>que me tomó fuera
+        de mi control.<br/>Yo me contengo y te observo,<br/>y aumenta mi
+        ilusión.
+      title: 2 - Flor que nunca fui
+    - lyricsEn: >-
+        ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte
+        y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos
+        lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a
+        robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te
+        voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un
+        beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo
+        quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos
+        lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu
+        amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel.
+      lyricsEs: >-
+        La belleza que veo en ti<br/>traspasa cualquier dimensión,<br/>es tan
+        grande su proyección<br/>que me ciega con su resplandor.<br/>Nunca nadie
+        ha podido<br/>dejarme sin palabras como tú.<br/>Todo aquello que gano
+        con hazañas,<br/>la fé me devolviste tú.<br/>Tú has roto en
+        mí,<br/>todas las barreras de dolor<br/>que construí.<br/>Tus tratos
+        hacia mí,<br/>me acaricias con amor como esa flor<br/>que nunca
+        fui.<br/>Tú has roto en mí<br/>todas las barreras de dolor<br/>que
+        construí.<br/>Tus tratos hacia mí,<br/>me acaricias con amor como esa
+        flor<br/>que nunca fui.<br/>Contigo las horas se hacen agua,<br/>que
+        viaja dentro de mí.<br/>Mi piel expulsando lo que siento<br/>es una
+        terrible atracción.<br/>Tú, esa formula novedosa<br/>que me tomó fuera
+        de mi control.<br/>Yo me contengo y te observo,<br/>y aumenta mi
+        ilusión.
+      title: 3 - Vez Primeras
 ---
+
