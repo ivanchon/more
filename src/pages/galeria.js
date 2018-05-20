@@ -205,7 +205,7 @@ export default class GalleryPage2 extends React.Component {
   renderThumbs = () =>
   <ul className="carousel__thumbs">
     {
-      [cm02,cm01,cm03,cm04,cm05,cm01,cm02,cm03,cm04,cm05,cm06,cm07,cm08,cm09,cm10].map((item, i) =>
+      [cm02,cm01,cm03,cm04,cm05,cm06,cm07,cm08,cm09,cm10].map((item, i) =>
         <li key={i} onClick={() => this.Carousel._onDotClick(i)}><img src={item} className="" /></li>)
     }
   </ul>;
@@ -233,6 +233,11 @@ export default class GalleryPage2 extends React.Component {
               <div className="img-holder"><img className="img-fluid" src={cm03}/></div>
               <div className="img-holder"><img className="img-fluid" src={cm04}/></div>
               <div className="img-holder"><img className="img-fluid" src={cm05}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm06}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm07}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm08}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm09}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm10}/></div>
             </AliceCarousel>
             {/*<h3>Navigation</h3>
             <button onClick={() => this.Carousel._slidePrev()}>Prev button</button>

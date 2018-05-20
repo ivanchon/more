@@ -1,7 +1,7 @@
 ---
 templateKey: albums-page
 title: Amor Supremo Desnudo
-year: 2015
+year: 2017
 image: /img/alco-amor-supremo-d.jpg
 aboutEs: >-
   Mi Segundo disco de larga duración fue hecho en una casa que rentamos en
@@ -96,4 +96,3 @@ songs:
         ilusión.
       title: 3 - Vez Primeras
 ---
-

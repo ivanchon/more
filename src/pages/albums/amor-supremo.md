@@ -1,7 +1,7 @@
 ---
 templateKey: albums-page
 title: Amor Supremo
-year: 2017
+year: 2015
 image: /img/alco-amor-supremo.jpg
 aboutEs: >-
   Mi Segundo disco de larga duración fue hecho en una casa que rentamos en

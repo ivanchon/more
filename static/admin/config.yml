@@ -63,7 +63,7 @@ collections:
   - name: "albums"
     label: "Albums"
     folder: "src/pages/albums"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "albums-page"}
@@ -72,4 +72,4 @@ collections:
       - {label: Image, name: image, widget: image}
       - {label: aboutEs, name: aboutEs, widget: text}
       - {label: aboutEn, name: aboutEn, widget: text}
-      - {label: Songs, name: songs, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: Title, name: title, widget: text}, {label: Lyrics Espanol, name: lyricsEs, widget: markdown}, {label: Lyrics English, name: lyricsEn, widget: markdown}]}]}
+      - {label: Songs, name: songs, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: Title, name: title, widget: string}, {label: Lyrics Espanol, name: lyricsEs, widget: markdown}, {label: Lyrics English, name: lyricsEn, widget: markdown}]}]}
