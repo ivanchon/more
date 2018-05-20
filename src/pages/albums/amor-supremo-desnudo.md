@@ -278,5 +278,290 @@ songs:
 
         Tú habitabas en mi y yo era tan tan feliz.
       title: 3 - Vez Primera
+    - lyricsEn: |-
+        Brown sugar is your skin,
+
+
+
+        your kisses taste like pure honey
+
+
+
+        Your mouth is cherries to swallow
+
+
+
+        Your voice rumbles in all my being
+
+         
+
+
+
+        Sugar, sugar your skin
+
+
+
+        Sugar, sugar, give me a drink
+
+
+
+        Brown sugar is your skin,
+
+
+
+        it is your beautiful voice that resounds in all my being
+
+         
+
+
+
+        Brown sugar is your skin,
+
+
+
+        give me a little bit of time to love you
+
+
+
+        Sneakily where no one can see us
+
+
+
+        I can secretly deliver myself
+
+         
+
+
+
+        Sugar, sugar your skin
+
+
+
+        Sugar, sugar, give me a drink
+
+
+
+        Brown sugar is your skin,
+
+
+
+        it is your beautiful voice that resounds in all my being
+
+
+
+        It's your eyes that manipulate al my well being
+
+         
+
+
+
+        Sugar, sugar you do not see
+
+
+
+        I also have to give you a drink
+
+
+
+        Brown sugar is your skin,
+
+
+
+        it is your beautiful voice that resounds in my being
+
+
+
+         
+
+
+
+        Sugar, sugar
+
+
+
+        Brown sugar is your skin,
+
+
+
+        it is your beautiful voice that resounds in all my being
+
+
+
+        It's your eyes that manipulate my honey.
+      lyricsEs: |-
+        Azúcar Morena es tu piel,
+
+
+
+        tus besos me saben a pura miel.
+
+
+
+        Tu boca son cerezas para comer,
+
+
+
+        tu voz, retumba en todo mi ser.
+
+
+
+         
+
+
+
+        Azúcar
+
+
+
+        Azúcar
+
+
+
+        Tu piel…
+
+
+
+         
+
+
+
+        Azúcar
+
+
+
+        Azúcar
+
+
+
+        Dame de beber…
+
+
+
+         
+
+
+
+        Azúcar Morena es tu piel,
+
+
+
+        es tu bella voz
+
+
+
+        que retumba en mi ser.
+
+
+
+         
+
+
+
+        hmm… hmm…
+
+
+
+         
+
+
+
+        Azúcar Morena es tu piel,
+
+
+
+        dame un ratito pa´ quererte.
+
+
+
+        A escondidas donde nadie
+
+
+
+        nos pueda ver,
+
+
+
+        en secreto podré
+
+
+
+        entregarme.
+
+
+
+         
+
+
+
+        Es tu bella voz
+
+
+
+        que retumba mi ser.
+
+
+
+        Son tus ojos
+
+
+
+        que manipulan mi bien.
+
+
+
+         
+
+
+
+        Azúcar, azúcar
+
+
+
+        no ves,
+
+
+
+        yo tengo también para darte de beber.
+
+
+
+         
+
+
+
+        Azúcar Morena
+
+
+
+        es tu piel,
+
+
+
+        es tu bella voz
+
+
+
+        que retumba en mi ser.
+
+
+
+         
+
+
+
+        Es tu bella voz
+
+
+
+        que retumba en mi ser.
+
+
+
+        Son tus ojos
+
+
+
+        que manipulan mi bien.
+      title: 4 - Azúcar Morena
 ---
 
