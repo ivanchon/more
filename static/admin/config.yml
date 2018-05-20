@@ -70,6 +70,6 @@ collections:
       - {label: Title, name: title, widget: string}
       - {label: Year, name: year, widget: number}
       - {label: Image, name: image, widget: image}
-      - {label: aboutEs, name: aboutEs, widget: text}
-      - {label: aboutEn, name: aboutEn, widget: text}
-      - {label: Songs, name: songs, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: Title, name: title, widget: string}, {label: Lyrics Espanol, name: lyricsEs, widget: markdown}, {label: Lyrics English, name: lyricsEn, widget: markdown}]}]}
+      - {label: about Espanol, name: aboutEs, widget: text}
+      - {label: about English, name: aboutEn, widget: text}
+      - {label: Songs, name: songs, widget: object, fields: [{label: Lyrics, name: blurbs, widget: list, fields: [{label: Title, name: title, widget: string}, {label: Lyrics Espanol, name: lyricsEs, widget: markdown}, {label: Lyrics English, name: lyricsEn, widget: markdown}]}]}

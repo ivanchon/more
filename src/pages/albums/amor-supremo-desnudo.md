@@ -19,16 +19,7 @@ aboutEn: >-
   Falone from Sterling Sound in NYC.
 songs:
   blurbs:
-    - lyricsEn: >-
-        ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte
-        y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos
-        lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a
-        robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te
-        voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un
-        beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo
-        quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos
-        lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu
-        amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel.
+    - title: 1 - Un Beso
       lyricsEs: >-
         Eres la ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero
         tocarte y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos
@@ -39,8 +30,7 @@ songs:
         quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos
         lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu
         amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel.
-      title: 1 - Un Beso
-    - lyricsEn: >-
+      lyricsEn: >-
         ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte
         y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos
         lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a
@@ -50,6 +40,8 @@ songs:
         quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos
         lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu
         amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel.
+
+    - title: 2 - Flor que nunca fui
       lyricsEs: >-
         La belleza que veo en ti<br/>traspasa cualquier dimensión,<br/>es tan
         grande su proyección<br/>que me ciega con su resplandor.<br/>Nunca nadie
@@ -64,109 +56,19 @@ songs:
         terrible atracción.<br/>Tú, esa formula novedosa<br/>que me tomó fuera
         de mi control.<br/>Yo me contengo y te observo,<br/>y aumenta mi
         ilusión.
-      title: 2 - Flor que nunca fui
-    - lyricsEn: |-
-        You already went away to your new life
-
-
-
-        With another woman in fact a very beautiful one
-
-
-
-        It was part of your destiny to follow your path
-
-
-
-        Its better like that
-
-
-
-        Although I feel strange inside
-
-         
-
-
-
-        Where my heart beats
-
-
-
-        Where my modesty rests
-
-
-
-        Where I kept all my pain
-
-
-
-        Where my love is born and dies again
-
-         
-
-
-
-        You were my first time
-
-
-
-        My kiss, my blind science
-
-
-
-        I gave you all my ways
-
-
-
-        From my everything I gave
-
-
-
-        I learned so much from you
-
-
-
-        but too love me first always
-
-         
-
-
-
-        You were that great stage in my life
-
-
-
-        Where my veins were chasing you
-
-
-
-        My skin wanting to smell you
-
-
-
-        My recurrent mind 
-
-
-
-        I was so happy right beside you
-
-         
-
-
-
-        With you I spent moments that will never leave me 
-
-
-
-        Our moments where strong and hard 
-
-
-
-        Discovering the sweetness 
-
-
-
-        you lived in me and I was so happy
+      lyricsEn: >-
+        ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte
+        y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos
+        lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a
+        robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te
+        voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un
+        beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo
+        quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos
+        lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu
+        amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel.
+
+
+    - title: 3 - Vez Primera
       lyricsEs: |-
         Ya te fuiste de mí a tu vida nueva,
 
@@ -176,7 +78,7 @@ songs:
 
 
 
-         
+
 
 
 
@@ -188,7 +90,7 @@ songs:
 
 
 
-         
+
 
 
 
@@ -208,7 +110,7 @@ songs:
 
 
 
-         
+
 
 
 
@@ -236,7 +138,7 @@ songs:
 
 
 
-         
+
 
 
 
@@ -256,7 +158,7 @@ songs:
 
 
 
-         
+
 
 
 
@@ -277,117 +179,111 @@ songs:
 
 
         Tú habitabas en mi y yo era tan tan feliz.
-      title: 3 - Vez Primera
-    - lyricsEn: |-
-        Brown sugar is your skin,
+      lyricsEn: |-
+        You already went away to your new life
 
 
 
-        your kisses taste like pure honey
+        With another woman in fact a very beautiful one
 
 
 
-        Your mouth is cherries to swallow
+        It was part of your destiny to follow your path
 
 
 
-        Your voice rumbles in all my being
+        Its better like that
 
-         
 
 
+        Although I feel strange inside
 
-        Sugar, sugar your skin
 
 
 
-        Sugar, sugar, give me a drink
 
+        Where my heart beats
 
 
-        Brown sugar is your skin,
 
+        Where my modesty rests
 
 
-        it is your beautiful voice that resounds in all my being
 
-         
+        Where I kept all my pain
 
 
 
-        Brown sugar is your skin,
+        Where my love is born and dies again
 
 
 
-        give me a little bit of time to love you
 
 
+        You were my first time
 
-        Sneakily where no one can see us
 
 
+        My kiss, my blind science
 
-        I can secretly deliver myself
 
-         
 
+        I gave you all my ways
 
 
-        Sugar, sugar your skin
 
+        From my everything I gave
 
 
-        Sugar, sugar, give me a drink
 
+        I learned so much from you
 
 
-        Brown sugar is your skin,
 
+        but too love me first always
 
 
-        it is your beautiful voice that resounds in all my being
 
 
 
-        It's your eyes that manipulate al my well being
+        You were that great stage in my life
 
-         
 
 
+        Where my veins were chasing you
 
-        Sugar, sugar you do not see
 
 
+        My skin wanting to smell you
 
-        I also have to give you a drink
 
 
+        My recurrent mind
 
-        Brown sugar is your skin,
 
 
+        I was so happy right beside you
 
-        it is your beautiful voice that resounds in my being
 
 
 
-         
 
+        With you I spent moments that will never leave me
 
 
-        Sugar, sugar
 
+        Our moments where strong and hard
 
 
-        Brown sugar is your skin,
 
+        Discovering the sweetness
 
 
-        it is your beautiful voice that resounds in all my being
 
+        you lived in me and I was so happy
 
 
-        It's your eyes that manipulate my honey.
+    - title: 4 - Azúcar Morena
       lyricsEs: |-
         Azúcar Morena es tu piel,
 
@@ -405,7 +301,7 @@ songs:
 
 
 
-         
+
 
 
 
@@ -421,7 +317,7 @@ songs:
 
 
 
-         
+
 
 
 
@@ -437,7 +333,7 @@ songs:
 
 
 
-         
+
 
 
 
@@ -453,7 +349,7 @@ songs:
 
 
 
-         
+
 
 
 
@@ -461,7 +357,7 @@ songs:
 
 
 
-         
+
 
 
 
@@ -489,7 +385,7 @@ songs:
 
 
 
-         
+
 
 
 
@@ -509,7 +405,7 @@ songs:
 
 
 
-         
+
 
 
 
@@ -525,7 +421,7 @@ songs:
 
 
 
-         
+
 
 
 
@@ -545,7 +441,7 @@ songs:
 
 
 
-         
+
 
 
 
@@ -562,6 +458,114 @@ songs:
 
 
         que manipulan mi bien.
-      title: 4 - Azúcar Morena
----
+      lyricsEn: |-
+        Brown sugar is your skin,
 
+
+
+        your kisses taste like pure honey
+
+
+
+        Your mouth is cherries to swallow
+
+
+
+        Your voice rumbles in all my being
+
+
+
+
+
+        Sugar, sugar your skin
+
+
+
+        Sugar, sugar, give me a drink
+
+
+
+        Brown sugar is your skin,
+
+
+
+        it is your beautiful voice that resounds in all my being
+
+
+
+
+
+        Brown sugar is your skin,
+
+
+
+        give me a little bit of time to love you
+
+
+
+        Sneakily where no one can see us
+
+
+
+        I can secretly deliver myself
+
+
+
+
+
+        Sugar, sugar your skin
+
+
+
+        Sugar, sugar, give me a drink
+
+
+
+        Brown sugar is your skin,
+
+
+
+        it is your beautiful voice that resounds in all my being
+
+
+
+        It's your eyes that manipulate al my well being
+
+
+
+
+
+        Sugar, sugar you do not see
+
+
+
+        I also have to give you a drink
+
+
+
+        Brown sugar is your skin,
+
+
+
+        it is your beautiful voice that resounds in my being
+
+
+
+
+
+
+
+        Sugar, sugar
+
+
+
+        Brown sugar is your skin,
+
+
+
+        it is your beautiful voice that resounds in all my being
+
+
+
+        It's your eyes that manipulate my honey.
+---
