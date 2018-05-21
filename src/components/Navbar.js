@@ -256,31 +256,26 @@ export default class NavbarMain extends React.Component {
 
 const songs = [
   {
-    url: 'http://claymore.france.free.fr/momo/summer love.mp3',
-    cover:
-      'http://myuvn.com/wp-content/uploads/2015/07/justin-timberlake-pusher-love-girl.jpg',
-    artist: {
-      name: 'Justin Timberlake',
-      song: 'Summer Love',
-    },
-  },
-  {
-    url: 'http://a.tumblr.com/tumblr_mlyactVSyX1qejx3lo1.mp3',
-    cover:
-      'http://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2015/06/daft-punk.jpg',
-    artist: {
-      name: 'Daft Punk',
-      song: 'Get Lucky',
-    },
-  },
-  {
     url: '../music/backgroundMusic1.mp3',
     artist: {
-      name: 'Michael Buble',
-      song: 'Feeling Good',
+      name: 'Carla Morrison',
+      song: 'Eres Tu',
     },
   },
-
+  {
+    url: '../music/backgroundMusic2.mp3',
+    artist: {
+      name: 'Carla Morrison',
+      song: 'Un Beso',
+    },
+  },
+  {
+    url: '../music/backgroundMusic3.mp3',
+    artist: {
+      name: 'Carla Morrison',
+      song: 'Te Regalo',
+    },
+  },
 ];
 
 
