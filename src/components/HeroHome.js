@@ -19,12 +19,11 @@ injectGlobal`
 
   @media (max-width: 575.98px) {
     max-height: 40vh;
-    margin-top: 66px;
+    margin-top: 70px;
   }
 
   @media (min-width: 576px) and (max-width: 767.98px) {
     max-height: 50vh;
-    margin-top: 66px;
   }
 
   @media (min-width: 768px) and (max-width: 991.98px) {

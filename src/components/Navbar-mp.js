@@ -29,11 +29,10 @@ injectGlobal`
 
     @media (max-width: 767.98px) {
         background-color: rgba(165, 165, 165, 0.9);
-        padding: 0rem 1rem !important;
+    }
 
-        figure {
-          margin: 0 0 0.5rem;
-        }
+    .container{
+      /*max-height: 50px;*/
     }
 
   }
@@ -42,6 +41,7 @@ injectGlobal`
   .nav-scrolled{
     background-color: rgba(165, 165, 165, 0.9);
     transition: all 0.3s ease;
+
   }
 
   /*
@@ -103,7 +103,7 @@ injectGlobal`
     @media (max-width: 767.98px){
       position: absolute;
       right: 55px;
-      top: 23px;
+      top: 14px;
     }
   }
 
@@ -256,21 +256,21 @@ export default class NavbarMain extends React.Component {
 
 const songs = [
   {
-    url: '/music/backgroundMusic1.mp3',
+    url: '/static/music/backgroundMusic1.mp3',
     artist: {
       name: 'Carla Morrison',
       song: 'Eres Tu',
     },
   },
   {
-    url: '/music/backgroundMusic2.mp3',
+    url: '/static/music/backgroundMusic2.mp3',
     artist: {
       name: 'Carla Morrison',
       song: 'Un Beso',
     },
   },
   {
-    url: '/music/backgroundMusic3.mp3',
+    url: '/static/music/backgroundMusic3.mp3',
     artist: {
       name: 'Carla Morrison',
       song: 'Te Regalo',
