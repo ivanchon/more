@@ -8185,6 +8185,12 @@ react-autowhatever@^10.1.0:
     react-themeable "^1.1.0"
     section-iterator "^2.0.0"
 
+react-cl-audio-player@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/react-cl-audio-player/-/react-cl-audio-player-2.1.1.tgz#97331ca895e9ee5409091082fa4f8c3ee7f9f4e9"
+  dependencies:
+    classnames "^2.2.5"
+
 react-datetime@^2.11.0:
   version "2.14.0"
   resolved "https://registry.yarnpkg.com/react-datetime/-/react-datetime-2.14.0.tgz#c7859c5b765275d7980f1cca27c03a727ff9ccef"

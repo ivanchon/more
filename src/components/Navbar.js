@@ -2,8 +2,15 @@ import React from 'react'
 import Link from 'gatsby-link'
 import {injectGlobal} from 'styled-components'
 
-import AudioPlayer from '../components/AudioPlayer'
+//import AudioPlayer from '../components/AudioPlayer'
 import logo from '../img/logo.png'
+
+let AudioPlayer
+if (typeof document !== 'undefined')
+  AudioPlayer = require('../components/AudioPlayer')
+
+
+
 
 import {
   Collapse,
@@ -158,7 +165,7 @@ export default class NavbarMain extends React.Component {
 
           <Nav navbar className="nav-music musico" style={{order: '3'}}>
             <NavItem>
-              <AudioPlayer songs={songs}/>
+              <AudioPlayer autoplay songs={songs}/>
             </NavItem>
           </Nav>
           <NavbarToggler onClick={this.toggle} />
@@ -168,28 +175,28 @@ export default class NavbarMain extends React.Component {
                 <NavLink href="/#gigs">Conciertos</NavLink>
               </NavItem>*/}
               <NavItem>
-                <Link to="/videos" className="nav-link">Videos</Link>
+                <Link to="/videos" className="nav-link" onClick={this.toggle}>Videos</Link>
               </NavItem>
               <NavItem>
-                <Link to="/musica" className="nav-link">Música</Link>
+                <Link to="/musica" className="nav-link" onClick={this.toggle}>Música</Link>
               </NavItem>
               <NavItem>
-                <Link to="/bio" className="nav-link">Bio</Link>
+                <Link to="/bio" className="nav-link" onClick={this.toggle}>Bio</Link>
               </NavItem>
               <NavItem>
-                <Link to="/#tienda" className="nav-link">Tienda</Link>
+                <Link to="/#tienda" className="nav-link" onClick={this.toggle}>Tienda</Link>
               </NavItem>
               <NavItem>
-                <Link to="/#contacto" className="nav-link">Contacto</Link>
+                <Link to="/#contacto" className="nav-link" onClick={this.toggle}>Contacto</Link>
               </NavItem>
               <NavItem>
-                <Link to="/galeria" className="nav-link">Galería</Link>
+                <Link to="/galeria" className="nav-link" onClick={this.toggle}>Galería</Link>
               </NavItem>
               <NavItem>
-                <Link to="/qa" className="nav-link">Q&A</Link>
+                <Link to="/qa" className="nav-link" onClick={this.toggle}>Q&A</Link>
               </NavItem>
               <NavItem>
-                <Link to="/blog" className="nav-link">Blog</Link>
+                <Link to="/blog" className="nav-link" onClick={this.toggle}>Blog</Link>
               </NavItem>
             </Nav>
             <Nav navbar className="nav-social">
