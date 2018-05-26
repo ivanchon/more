@@ -69,8 +69,6 @@ injectGlobal`
 `;
 
 
-
-
 const Testimonials = ({ testimonials }) => (
   <div>
     {testimonials.map(testimonial => (

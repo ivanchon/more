@@ -145,6 +145,8 @@ export default class NavbarMain extends React.Component {
     });
 
   }
+
+
   render() {
     return (
       <div>
@@ -158,7 +160,7 @@ export default class NavbarMain extends React.Component {
 
           <Nav navbar className="nav-music musico" style={{order: '3'}}>
             <NavItem>
-              <AudioPlayer songs={songs} />
+              <AudioPlayer songs={songs}/>
             </NavItem>
           </Nav>
           <NavbarToggler onClick={this.toggle} />

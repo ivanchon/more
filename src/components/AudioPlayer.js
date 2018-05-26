@@ -43,7 +43,6 @@ class AudioPlayer extends PureComponent {
     // Wrap the require in check for window
     if (typeof window !== `undefined`) {
       this.audio = document.createElement('audio');
-
       this.audio.src = this.state.active.url;
       this.audio.autoplay = !!this.state.autoplay;
 
@@ -63,6 +62,8 @@ class AudioPlayer extends PureComponent {
         props.onError(e);
       });
     }
+
+
   }
 
   shuffle = arr => arr.sort(() => Math.random() - 0.5);

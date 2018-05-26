@@ -14,6 +14,7 @@ import tieSwea from '../img/tienda-sweat.gif'
 
 
 export default class IndexPage extends React.Component {
+  
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
