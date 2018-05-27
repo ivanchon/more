@@ -4,9 +4,24 @@ import Link from 'gatsby-link'
 import { injectGlobal } from 'styled-components'
 
 injectGlobal`
-  #blog .card-deck .card{
-    @media (max-width: 767.98px) {
+  #blog .card-deck {
+    display: grid;
 
+    @media (min-width: 0) {
+      grid-template-columns: repeat(1, 1fr);
+    }
+    @media (min-width: 768px) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media (min-width: 992px) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    .card {
+      @media (max-width: 991.8px) {
+        margin-bottom: 2rem;
+      }
     }
   }
 `;
