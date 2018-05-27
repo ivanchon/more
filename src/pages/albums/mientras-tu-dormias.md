@@ -1,3751 +1,2184 @@
 ---
 templateKey: albums-page
-title: Mientras tu dormias
+title: Mientras tú dormías
 year: 2010
-image: /img/alco-amor-supremo.jpg
+image: /img/alco-mientras.jpg
 aboutEs: >-
-  Este EP acústico estuvo inspirado por las sesiones  MTV Unplugged que yo honestamente siempre imaginando nunca poder experimentar, asi que me lo invente yo misma en mi departamento/estudio casero en el que vivía en Tecate Baja California, Mexico. Producido por Alejandro Jimenez y co producido por mi en alrededor de 2 semanas cada tarde que Alejandro podía venir a visitarme desde Tijuana donde el vivía en ese entonces. Tambien lo mezclo y lo masterizo el mismo Alejandro.
+  Este EP acústico estuvo inspirado por las sesiones  MTV Unplugged que yo
+  honestamente siempre imaginando nunca poder experimentar, asi que me lo
+  invente yo misma en mi departamento/estudio casero en el que vivía en Tecate
+  Baja California, Mexico. Producido por Alejandro Jimenez y co producido por mi
+  en alrededor de 2 semanas cada tarde que Alejandro podía venir a visitarme
+  desde Tijuana donde el vivía en ese entonces. Tambien lo mezclo y lo masterizo
+  el mismo Alejandro.
 aboutEn: >-
-  This Acoustic EP was inspired by the MTV Unplugged sessions, me honestly thinking i could never reach, so i did it for myself in my own little apartment/home studio back in Tecate Baja California Mexico, produced by Alejandro Jimenez and co produced by me in around 2 weeks time, every afternoon Alejandro could come and visit me from Tijuana his home Town. Also Mixed and mastered by ourselves.
+  This Acoustic EP was inspired by the MTV Unplugged sessions, me honestly
+  thinking i could never reach, so i did it for myself in my own little
+  apartment/home studio back in Tecate Baja California Mexico, produced by
+  Alejandro Jimenez and co produced by me in around 2 weeks time, every
+  afternoon Alejandro could come and visit me from Tijuana his home Town. Also
+  Mixed and mastered by ourselves.
 songs:
   blurbs:
-    - title: 1 - Yo Sigo Aquí
-      lyricsEs: "Yo Sigo Aquí<br/>Y yo sigo aquí<br/>buscando una razón para sobrevivir<br/>y todos me dicen adiós<br/>y yo sigo parada aquí<br/>para poder respirar, transpirar, resucitar <br/>me prohiba tu calor.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel."
-      lyricsEn: "ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel."
-    - title: 2 - Flor que nunca fui
-      lyricsEs: "La belleza que veo en ti<br/>traspasa cualquier dimensión,<br/>es tan grande su proyección<br/>que me ciega con su resplandor.<br/>Nunca nadie ha podido<br/>dejarme sin palabras como tú.<br/>Todo aquello que gano con hazañas,<br/>la fé me devolviste tú.<br/>Tú has roto en mí,<br/>todas las barreras de dolor<br/>que construí.<br/>Tus tratos hacia mí,<br/>me acaricias con amor como esa flor<br/>que nunca fui.<br/>Tú has roto en mí<br/>todas las barreras de dolor<br/>que construí.<br/>Tus tratos hacia mí,<br/>me acaricias con amor como esa flor<br/>que nunca fui.<br/>Contigo las horas se hacen agua,<br/>que viaja dentro de mí.<br/>Mi piel expulsando lo que siento<br/>es una terrible atracción.<br/>Tú, esa formula novedosa<br/>que me tomó fuera de mi control.<br/>Yo me contengo y te observo,<br/>y aumenta mi ilusión."
-      lyricsEn: "ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel."
     - lyricsEn: |-
-        You already went away to your new life
+        I want to share my chair with you, 
 
 
 
-        With another woman in fact a very beautiful one
+        I want to see the sun rise and go down with you, 
 
 
 
-        It was part of your destiny to follow your path
+        I want to walk and run by your side
 
 
 
-        Its better like that
+        I want to seek and find myself alone with you.
 
 
 
-        Although I feel strange inside
+         
 
 
 
+        I want to sleep and dream, caressing you, 
 
 
-        Where my heart beats
 
+        I want to laugh and cry looking in to your little eyes, 
 
 
-        Where my modesty rests
 
+        I want to share my secrets and my sighs, 
 
 
-        Where I kept all my pain
 
+        I want to learn to understand the world with you.. 
 
 
-        Where my love is born and dies again
 
+         
 
 
 
+        But there is one thing that I must say, 
 
-        You were my first time
 
 
+        It is not easy, to be so far away! 
 
-        My kiss, my blind science
 
 
+         
 
-        I gave you all my ways
 
 
+        Because you make me crazy 
 
-        From my everything I gave
 
 
+        You fill my skin 
 
-        I learned so much from you
 
 
+        Every part of your being 
 
-        but too love me first always
 
 
+        is food to my well being
 
 
 
-        You were that great stage in my life
+        I remember to breathe 
 
 
 
-        Where my veins were chasing you
+        And start trembling
 
 
 
-        My skin wanting to smell you
+        Every step that you take
 
 
 
-        My recurrent mind
+        only affirms my love..
 
 
 
-        I was so happy right beside you
+         
 
 
 
+        I long to sleep in your eyes and in your senses, 
 
 
-        With you I spent moments that will never leave me
 
+        I long to pour my love and whisper it in your ears,
 
 
-        Our moments where strong and hard
 
+        I long to surrender my being and to fly with you, 
 
 
-        Discovering the sweetness
 
+        I would love to share all of my life beside you.. 
 
 
-        you lived in me and I was so happy
+
+         
+
+
+
+        But there is one thing that I must say,
+
+
+
+         It is not easy, to be so far away! 
+
+
+
+         
+
+
+
+        Because you make me crazy 
+
+
+
+        You fill my skin 
+
+
+
+        Every part of your being 
+
+
+
+        is food to my well being
+
+
+
+        I remember to breathe 
+
+
+
+        And start trembling
+
+
+
+        Every step that you take
+
+
+
+        only affirms my love..
+
+
+
+         
+
+
+
+        Oh oh, 
+
+
+
+        Oh, oh, oh, oh
       lyricsEs: |-
-        Ya te fuiste de mí a tu vida nueva,
+        Compartir
 
 
 
-        con otra mujer, de hecho una muy bella.
+         
 
 
 
+        Quiero compartir mi silla... contigo, 
 
 
 
+        Quiero ver salir el sol... y despedirlo, 
 
-        Era parte del destino que siguieras tu camino.
 
 
+        Quiero caminar y correr... a tu ladito, 
 
-        Yo mejor así, aunque siento raro aquí.
 
 
+        Quiero buscar y encontrarme a solas contigo 
 
 
 
+         
 
 
-        ¿Dónde palpita el corazón?
 
+        Quiero dormir y soñar, caricias contigo, 
 
 
-        ¿Dónde descansa mi pudor?
 
+        Quiero reír y llorar, con tus ojitos, 
 
 
-        ¿Dónde guardé todo mi dolor?
 
+        Quiero compartir mis secretos y mis suspiros, 
 
 
-        ¿Dónde nace y muere mi amor?
 
+        Quiero aprender a entender al mundo contigo 
 
 
 
+         
 
 
 
-        Tú fuiste mi vez primera
+        Pero hay una cosa que te debo decir, 
 
 
 
-        mi beso, mi ciencia a ciegas.
+        No es nada fácil, estar tan lejos de Tí! 
 
 
 
-        Te di todas mis maneras.
+         
 
 
 
-        De mi todo cedí,
+        Porque me haces enloquecer 
 
 
 
-        de ti tanto aprendí,
+        Tú me enchinas la piel 
 
 
 
-        a quererme primero a mí, siempre.
+        Cada parte de tu ser 
 
 
 
+        Es alimento a mi bien 
 
 
 
+         
 
-        Fuiste esa gran etapa en mi vida
 
 
+        Vuelvo a respirar 
 
-        donde mis venas a ti perseguían.
 
 
+        Y comienzo a temblar 
 
-        Mi piel deseando olerte, mi mente tan recurrente.
 
 
+        Cada paso que das 
 
-        Yo era tan feliz, a un ladito de ti.
 
 
+        Afirmas mi amar 
 
 
 
+         
 
 
-        Contigo pase momentos
 
+        Busco dormirme en tus ojos y en tus sentidos, 
 
 
-        que nunca se irán de mí.
 
+        Busco derramar mi querer por tus oídos, 
 
 
-        Nuestra etapa fue fuerte y dura,
 
+        Busco rendir mi ser y volar contigo, 
 
 
-        descubriendo la dulzura.
 
+        Quisiera compartir toda mi vida contigo 
 
 
-        Tú habitabas en mi y yo era tan tan feliz.
-      title: 3 - Vez Primera
+
+         
+
+
+
+        Pero hay una cosa que te debo decir, 
+
+
+
+        No es nada fácil, estar tan lejos de Tí! 
+
+
+
+         
+
+
+
+        Porque me haces enloquecer, 
+
+
+
+        Tú me enchinas la piel, 
+
+
+
+        Cada parte de tu ser, 
+
+
+
+        Es alimento a mi bien 
+
+
+
+         
+
+
+
+        Vuelvo a respirar 
+
+
+
+        Y comienzo a temblar 
+
+
+
+        Cada paso que das 
+
+
+
+        Afirmas mi amar 
+
+
+
+         
+
+
+
+        Vuelvo a respirar 
+
+
+
+        Y comienzo a temblar 
+
+
+
+        Cada paso que das 
+
+
+
+        Afirmas mi amar.
+      title: 1 - Compartir
     - lyricsEn: |-
-        Brown sugar is your skin,
+        How Is It
 
 
 
-        your kisses taste like pure honey
+         
 
 
 
-        Your mouth is cherries to swallow
+        I was thinking how is it
 
 
 
-        Your voice rumbles in all my being
+         that when I turned around 
 
 
 
+        you took advantage of another woman 
 
 
-        Sugar, sugar your skin
 
+        looking for comfort everywhere 
 
 
-        Sugar, sugar, give me a drink
 
+        as if you needed someone, when I love you 
 
 
-        Brown sugar is your skin,
 
+        without deserving it. 
 
 
-        it is your beautiful voice that resounds in all my being
 
+         
 
 
 
+        you broke my heart 
 
-        Brown sugar is your skin,
 
 
+        when you threw threw it carelessly
 
-        give me a little bit of time to love you
 
 
+        you were clear , honest and forgot about
 
-        Sneakily where no one can see us
 
 
+        my devotion and I just couldn’t bare my pain ... 
 
-        I can secretly deliver myself
 
 
+         
 
 
 
-        Sugar, sugar your skin
+        Tara ta ta ta, 
 
 
 
-        Sugar, sugar, give me a drink
+        Tara ta ta ta, ta
 
 
 
-        Brown sugar is your skin,
+        tara ta ta ta, tata ra..
 
 
 
-        it is your beautiful voice that resounds in all my being
+         
 
 
 
-        It's your eyes that manipulate al my well being
+        And I keep thinking about how is it
 
 
 
+        that after so much pain i felt
 
 
-        Sugar, sugar you do not see
 
+        I miss you more than yesterday 
 
 
-        I also have to give you a drink
 
+        closing my eyes I dont want to see 
 
 
-        Brown sugar is your skin,
 
+        how you moved away from me 
 
 
-        it is your beautiful voice that resounds in my being
 
+        as you start to share all your honey . 
 
 
 
+         
 
 
 
-        Sugar, sugar
+        and I have so much love to give to you, 
 
 
 
-        Brown sugar is your skin,
+        you didnt even think twice, i guess ill go for a long walk
 
 
 
-        it is your beautiful voice that resounds in all my being
+        I'll  try and think that your betrayal is the root of my sickness.
 
 
 
-        It's your eyes that manipulate my honey.
+         
+
+
+
+        Tara ta ta ta, 
+
+
+
+        Tara ta ta ta, ta
+
+
+
+        tara ta ta ta, tata ra..
+
+
+
+         
+
+
+
+        im finally convinced
+
+
+
+        i already forgot how bad it is to want to die
+
+
+
+        your actions were my blessing 
+
+
+
+        now my eyes, are finally wide open.
       lyricsEs: |-
-        Azúcar Morena es tu piel,
+        Como Es
 
 
 
-        tus besos me saben a pura miel.
+         
 
 
 
-        Tu boca son cerezas para comer,
+        Estuve pensando en como es 
 
 
 
-        tu voz, retumba en todo mi ser.
+        que en cuando me di la vuelta te aprovechaste de otra mujer 
 
 
 
+        buscando consuelo por doquier 
 
 
 
+        como si te hiciera falta cuando yo te amo sin merecer 
 
-        Azúcar
 
 
+        y tu..quebraste mi corazón 
 
-        Azúcar
 
 
+        cuandooo lo aventaste por en balcón 
 
-        Tu piel…
 
 
+        fuiste claro con esto olvidaste mi devoción 
 
 
 
+        y yo casi muero con mi dolor... 
 
 
-        Azúcar
 
+         
 
 
-        Azúcar
 
+        T sigo pensando en como es 
 
 
-        Dame de beber…
 
+        que después de tanto duelo yo te extraño mas que ayer 
 
 
 
+        cerrando mis ojos que no quiero ver 
 
 
 
-        Azúcar Morena es tu piel,
+        como te alejas de mi 
 
 
 
-        es tu bella voz
+        como compartes toda tu miel. 
 
 
 
-        que retumba en mi ser.
+         
 
 
 
+        y yo tengo tanto amor para dar 
 
 
 
+        para ti no lo pensaste ni una vez más 
 
-        hmm… hmm…
 
 
+        mejor yo. salde un rato a caminar 
 
 
 
+        pensaré que tu traición es mi malestar 
 
 
-        Azúcar Morena es tu piel,
 
+         
 
 
-        dame un ratito pa´ quererte.
 
+         
 
 
-        A escondidas donde nadie
 
+        ya me convenci 
 
 
-        nos pueda ver,
 
+        olvide lo que es querer morir 
 
 
-        en secreto podré
 
+        tu acción 
 
 
-        entregarme.
 
+        fue mi bendición 
 
 
 
-
-
-
-        Es tu bella voz
-
-
-
-        que retumba mi ser.
-
-
-
-        Son tus ojos
-
-
-
-        que manipulan mi bien.
-
-
-
-
-
-
-
-        Azúcar, azúcar
-
-
-
-        no ves,
-
-
-
-        yo tengo también para darte de beber.
-
-
-
-
-
-
-
-        Azúcar Morena
-
-
-
-        es tu piel,
-
-
-
-        es tu bella voz
-
-
-
-        que retumba en mi ser.
-
-
-
-
-
-
-
-        Es tu bella voz
-
-
-
-        que retumba en mi ser.
-
-
-
-        Son tus ojos
-
-
-
-        que manipulan mi bien.
-      title: 4 - Azúcar Morena
+        ahora si están abiertos mis ojos
+      title: 2 - Flor que nunca fui
     - lyricsEn: |-
-        This is new.
+        Dirt
 
 
 
-        to breathe without you
+         
 
 
 
-        I silently lose.
+        I have my heart broken in to pieces
 
 
 
-        The notion of me
+        from so many things I want to say
 
 
 
+        so many things that I want to explain 
 
 
-        I love you with crazy madness.
 
+        and they can’t come out of my mouth
 
 
-        And that causes more pain to my wounds.
 
+        and they rip my soul apart 
 
 
 
+        its so hard to get them out..
 
 
 
-        And I look for you again.
+         
 
 
 
-        And I find you again.
+        its that never ending story
 
 
 
-        Your disinterest
+        that dilemma that can’t leave my mind
 
 
 
-        With me is so cruel.
+        it causes my body a virus that almost chokes
 
 
 
+        that i can’t stop feeling..
 
 
 
+         
 
-        And I'll call you back.
 
 
+        I want to speak out
 
-        To see if it's true.
 
 
+        all i want is to speak out
 
-        That your love is with another woman.
 
 
+        get out of me, all this dirt in my mind.
 
 
 
-        I already saw this coming,
+         
 
 
 
-        Your total silence made me think a lot.
+        I want to speak out
 
 
 
-        It's not fair.
+        all i want is to speak out
 
 
 
-        I do not want to accept it.
+        get out of me, all this dirt in my mind.
 
 
 
-        I gave you everything of me.
+         
 
 
 
-        My calm and my tempest.
+        I constantly look for a solution
 
 
 
+        tequila or whisky
 
 
 
+        something that can make me even babble
 
-        And I look for you again.
 
 
+        This thing that drives me crazy 
 
-        And I find you again.
 
 
+        that my dreams hunt imensly
 
-        Your disinterest
 
 
+        that complicates my life so much..
 
-        With me is so cruel.
 
 
+         
 
 
 
-        And I'll call you back.
+        I accept it, i get ready to give explanations 
 
 
 
-        To see if it's true.
+        and now I do not know where to start
 
 
 
-        That your love is with another woman.
+        cause it causes my body a virus that almost chokes
 
 
 
+        and i can’t decide for myself around here.
 
 
-        I'm leaving.
 
+         
 
 
-        I’ll never return.
 
+        I want to speak out
 
 
-        Your happiness is elsewhere.
 
+        all i want is to speak out
 
 
 
+        get out of me, all this dirt in my mind.
 
 
 
-        Just listen to me, you.
+         
 
 
 
-        You will always be.
+        I want to speak out
 
 
 
-        My other better half.
+        all i want is to speak out
 
 
 
-        My other better half.
+        get out of me, all this dirt in my mind.
       lyricsEs: |-
-        Esto es nuevo,
+        Suciedad
 
 
 
-        el respirar ya sin ti.
+         
 
 
 
-        En silencio pierdo
+        Tengo mi corazón roto 
 
 
 
-        la noción de mí.
+        de tantas cosas que te quiero decir 
 
 
 
+        tantas cosas que quiero explicar 
 
 
 
+        y no salen por mi boca 
 
-        Yo te amo
 
 
+        y a mi alma me destrozan 
 
-        con locura desmedida,
 
 
+        es difícil hacerlas salir de aquí 
 
-        y eso le causa más dolor
 
 
+         
 
-        a mis heridas.
 
 
+        Es ese cuento de nunca acabar 
 
 
 
+        ese dilema del que no paro de pensar 
 
 
-        Y te vuelvo a buscar
 
+        Y es que a mi cuerpo le provoca 
 
 
-        y te vuelvo a encontrar.
 
+        un virus que casi ahorca 
 
 
-        Tu desinterés conmigo
 
+        que no paro de sentir sin fin 
 
 
-        es tan cruel.
 
+         
 
 
 
+        Es que yo quiero hablar 
 
 
 
-        Y te vuelvo a llamar
+        es que yo quiero hablar 
 
 
 
-        para ver si es verdad,
+        sacar de aqui esta suciedad 
 
 
 
-        que ya tu querer
+         
 
 
 
-        es de otra mujer.
+        Me busco una solución 
 
 
 
+        tequila o whisky 
 
 
 
+        algo que me haga aunque sea balbucear 
 
-        Esto ya lo veía venir.
 
 
+         
 
-        Tu silencio total
 
 
+        Esto que me trae tan loca 
 
-        me hacía mucho pensar.
 
 
+        que a mi sueños descontrola 
 
 
 
+        que complica tanto mi vivir 
 
 
-        No es justo,
 
+         
 
 
-        no lo quiero aceptar,
 
+        Intento, acepto lista para dar 
 
 
-        yo te dí todo de mí,
 
+        explicaciones 
 
 
-        mi calma y mi tempestad
 
+        y ahora no se por donde empezar 
 
 
 
+         
 
 
 
-        Yo me voy,
+        y es que a mi cuerpo le provoca 
 
 
 
-        yo no vuelvo jamás.
+        un virus que casi ahorca 
 
 
 
-        Tu felicidad está en otro lugar.
-
-
-
-
-
-
-
-        Solo escúchame que tú,
-
-
-
-        tú siempre serás
-
-
-
-        mi otra mejor mitad,
-
-
-
-        mi otra mejor mitad.
-      title: 5 - No Vuelvo Jamás
+        y no puedo recibirme aqui
+      title: 3 - Suciedad
     - lyricsEn: |-
-        You were silent
+        I'm Still Here
 
 
 
-        You granted
+         
 
 
 
-        You gave me reasons to cry.
+        And I'm still here looking for a reason to survive 
 
 
 
-        I was noble.
+        and everyone says goodbye and I'm still standing here 
 
 
 
-        I forgot
+        so i can breathe, transpire, resurrect 
 
 
 
-        I did not hear clearly
+        oh no, wait  that only God can make
 
 
 
-        what you explained.
+        because im just normal human being 
 
 
 
+         
 
 
 
+        Au, ju ju, au au
 
-        You hurt me.
+        Au, ju ju, au au
 
 
 
-        I hurt you
+        Au, ju ju, au au
 
 
 
-        The proximity did not let us see.
+        Au, ju ju, au au
 
 
 
+         
 
 
-        And you said before
 
+        And everybody lies and feels
 
 
-        That I was the love of your life,
 
+        and we all have something to hide 
 
 
-        and today you only inspire me
 
+        to be able to value, to gossip or to invent
 
 
-        to stop loving us
 
+        because we are all human beings 
 
 
-        I loosen without knowing,
 
+         
 
 
-        of  the bones and skin,
 
+        I never said that i was perfect 
 
 
-        of this love that is not here longer.
 
+        I just wanted you to want me as i was
 
 
 
+        I'm not presenting myself right here 
 
-        You tried
 
 
+        I'm justifying myself 
 
-        I ignored you.
 
 
+        and im still standing here.
 
-        You asked me to return
 
 
+         
 
-        and I doubted.
 
 
+        and I'm still here i still am
 
-        I was clumsy.
 
 
+        and I'm still here i still am
 
-        I was bad.
 
 
+        and I'm still here i still am
 
-        I did not hear clearly
 
 
+        and I'm still here i still am, i am
 
-        what you explained.
 
 
+         
 
 
 
-        You hurt me.
+        and I'm still here i still am
 
 
 
-        Oh, it hurt you.
+        and I'm still here i still am
 
 
 
-        The distance did not let us see.
+        and I'm still here i still am
 
 
 
-
-
-        And you said before
-
-
-
-        That I was the love of your life,
-
-
-
-        and today you only inspire me
-
-
-
-        to stop loving us
-
-
-
-        I loosen without knowing,
-
-
-
-        of bones and skin,
-
-
-
-        of this love that is not here longer.
+        and I'm still here i still am, i am
       lyricsEs: |-
-        Tú callabas.
+        Yo Sigo Aquí
 
 
 
-        Tú otorgabas.
+         
 
 
 
-        Tú me diste razones para que llorara.
+        Y yo sigo aquí 
 
+        buscando una razón para sobrevivir 
 
+        y todos me dicen adiós 
 
+        y yo sigo parada aquí 
 
+        para poder respirar, transpirar, resucitar 
 
+        ah no, eso solo dios 
 
+        porque yo soy solo un ser humano 
 
-        Yo fui torpe.
 
 
+         
 
-        Yo fui mala.
 
 
+        Au, ju ju, au au
 
-        Yo no escuche con claridad lo que explicabas.
+        Au, ju ju, au au
 
 
 
+        Au, ju ju, au au
 
 
 
+        Au, ju ju, au au
 
-        Me lastimaste.
 
 
+         
 
-        Te lastimé.
+        Y todos mienten y sienten 
 
+        y todos tenemos algo que ocultar 
 
+        para poder valorar, cuchichear 
 
-        La cercanía no nos dejaba ver.
+        o inventar porque así somos nosotros 
 
 
 
+        los seres humanos 
 
 
 
+         
 
-        Y tú antes decías
 
 
+        Au, ju ju, au au
 
-        que yo era el amor de tu vida,
+        Au, ju ju, au au
 
 
 
-        y hoy sólo me inspiras
+        Au, ju ju, au au
 
 
 
-        a dejarnos de querer.
+        Au, ju ju, au au
 
 
 
-        Me desprendo sin saber,
 
 
+        Nunca dije que sería perfecta 
 
-        de los huesos y la piel,
+        yo solo quería que así tu me quisieras 
 
+        no estoy presentándome aquí 
 
+        me estoy justificando 
 
-        de este amor que ya no es.
+        y yo sigo parada a aquí 
 
 
 
-        Tú intentabas.
 
 
+        y yo sigo parada a aquí 
 
-        Yo te ignoraba.
+        y yo sigo parada a aquí 
 
+        y yo sigo parada a aquí 
 
-
-        Tú me pediste regresar
-
-
-
-        y yo dudaba.
-
-
-
-
-
-
-
-        Yo fui torpe.
-
-
-
-        Yo fui mala.
-
-
-
-        Yo no escuché con claridad lo que explicabas.
-
-
-
-
-
-
-
-        Me lastimaste.
-
-
-
-        Te lastime.
-
-
-
-        La lejanía no nos dejaba ver.
-      title: 6 - Cercanía
+        yo sigo aquí
+      title: '4 - Yo Sigo Aquí '
     - lyricsEn: |-
-        It was that suddenly I found
+        This Moment
 
 
 
-        a secret in your whole being
+         
 
 
 
-        that entangled me in your moon eyes and all your honey
+        Taking a walk around town
 
 
 
-        I did not know how to stop
+        I was remembering everything Ive lost 
 
 
 
-        it was a deadly impulse,
+        forgetting the past 
 
 
 
-        my body responded that
+        i deciphered the future 
 
 
 
-        I was begging for your love
+        looking at my present
 
 
 
+        I managed 
 
 
 
+        to appreciate
 
-        Return to me soon,
 
 
+        all those good moments..
 
-        I do not understand anything about me anymore,
 
 
+         
 
-        you are so vital to me,
 
 
+        Although it is difficult to open my eyes in a world so lost
 
-        What do you not understand that I feel like dying?
 
 
+        its like having living asleep
 
 
 
-        Return to my skin soon,
+        its to embrace the moment 
 
 
 
-        you dried me thirstiness
+        with the arms wide open 
 
 
 
-        I do not sleep anymore, I do not think,
+        that is when you are really content.
 
 
 
-        I do not feel like i can find clarity
+         
 
 
 
+        And I wanted to go back to ramble 
 
 
 
+        reproaching even my thinking 
 
-        They were so few days
 
 
+        I swore I would came back to comprehend
 
-        I knew your way of loving
 
 
+        that life is pure love and that always to give
 
-        You were everything that I always wanted to find
 
 
+         
 
-        I did not know how I gave
 
 
+        Although it is difficult to open my eyes in a world so lost
 
-        myself without thinking if
 
 
+        its like having living asleep
 
-        You were a danger, or if I meant something for you
 
 
+        its to embrace the moment 
 
 
 
-        Return to me soon,
+        with the arms wide open 
 
 
 
-        I do not understand anything about me anymore,
-
-
-
-        you are so vital to me,
-
-
-
-        What do you not understand that I feel like dying?
-
-
-
-
-
-        Return to my skin soon,
-
-
-
-        you dried me thirstiness
-
-
-
-        I do not sleep anymore, I do not think,
-
-
-
-        I do not feel like i can find clarity
-
-
-
-
-
-        Final
-
-
-
-
-
-        And now after having you so close and recognizing
-
-
-
-        that you went with another woman
-
-
-
-        and I was just a fling
-
-
-
-        There is someone else for you that makes you smile
-
-
-
-        I do not exist in your world because
-
-
-
-        You forgot me already.
+        that is when you are really content.
       lyricsEs: |-
-        Fue que de pronto encontré
+        Este Momento
 
 
 
-        un secreto en todo tu ser,
+         
 
 
 
-        que me enredó en tus ojos de luna
+        Caminando por ahi 
 
 
 
-        y toda tu miel.
+        Fui recordando todo lo que perdí 
 
 
 
+        Olvidando el pasado 
 
 
 
+        Decifre el futuro 
 
-        No supe cómo parar,
 
 
+        Mirando mi presente 
 
-        fue un impulso mortal.
 
 
+        Consegui valorar 
 
-        Respondí a mi cuerpo
 
 
+        Aquellos frutos 
 
-        que me rogaba de tu amar.
 
 
+        Aunque es difícil abrir los ojos 
 
 
 
+        En un mundo tan perdido 
 
 
-        Devuélvete pronto a mí,
 
+        Es como haber vivido 
 
 
-        ya no entiendo nada de mí.
 
+        Para siempre dormido 
 
 
-        Eres tan vital para mí.
 
+        Es abrazar el momento con los brazos abierto 
 
 
-        ¿Qué no entiendes que siento morir?
 
+        Ahi es cuando estas realmente viviendo 
 
 
 
+         
 
 
 
-        Devuélvete pronto a mi piel,
+        Y quise volver a divagar 
 
 
 
-        me secaste, enloquezco de sed.
+        Reprochándome hasta mi pensar 
 
 
 
-        Ya no duermo, no pienso,
+        Jurando me volvi a comprender 
 
 
 
-        no siento tener claridez.
+        Que la vida es amor 
 
 
 
+        Y eso siempre ofrecer 
 
 
 
+         
 
-        Fueron tan pocos días,
 
 
+        Aunque es difícil abrir los ojos 
 
-        conocí tu manera de amar.
 
 
+        En un mundo tan perdido 
 
-        Eres tú todo lo que yo siempre me quise encontrar.
 
 
+        Es como haber vivido 
 
 
 
+        Para siempre dormido 
 
 
-        No supe como me di.
 
+        Es abrazar el momento con los brazos abiertos 
 
 
-        Me entregué sin pensar en que si
 
+        Ahi es cuando estas realmente viviendo 
 
 
-        eras un peligro
 
+        Aunque es difícil abrir los ojos 
 
 
-        o si yo era alguien para ti.
 
+        En un mundo tan perdido 
 
 
 
+        Es como haber vivido 
 
 
 
-        Y ahora, después de tenerte
+        Para siempre dormido 
 
 
 
-        tan cerca y reconocer
+        Es abrazar el momento con los brazos abiertos 
 
 
 
-        que te fuiste con otra mujer,
-
-
-
-        y yo solo fui un querer.
-
-
-
-        Ese alguien para ti,
-
-
-
-        que te hace sonreir.
-
-
-
-        Yo no existo en tu mundo,
-
-
-
-        pues ya te olvidaste de mí.
-      title: 7 - Devuélvete
+        Ahi es cuando estas realmente contento
+      title: 5 - Este Momento
     - lyricsEn: |-
-        You are my secret and about you
+        Your Light
 
 
 
-        I tell no one it's almost a sin to know
+         
 
 
 
-        But this is something serious
+        I once walked 
 
 
 
+        without seeing my feet
 
 
-        It takes away my sleep
 
+        Wishing I could get them
 
 
-        I try to forget
 
+        And as I looked back 
 
 
-        what I feel but already extends throughout my body
 
+        I could find and see
 
 
-        And  i get sick to containing it
 
+        That the decision I made 
 
 
 
+        Was dragging me 
 
-        But in front of you ...
 
 
+        Until I could get here 
 
-        I show you the opposite
 
 
+        And I could sense that I needed your light ... 
 
-        Although this is a calvary
 
 
+         
 
-        my chest weighs and this was born
 
 
+        Your light
 
-        it is growing for you
 
 
+         
 
-        Ill hide it from you cuz I dont want it ...
 
 
+        I recognized my skin again
 
 
 
-        I want to get away from you
+        I felt arms and time travel
 
 
 
-        since reality lies to me
+        and I began to speak and I could even think 
 
 
 
-        I will close my eyes and I will erase my mind
+        In the power to contemplate 
 
 
 
-        although my soul will protest for you
+        The flowers and their smell 
 
 
 
+        and faith returned to me and I recognized
 
 
-        This sure is temporary
 
+        your light…
 
 
-        I will shut my eyes even if they are looking for where you are
 
+         
 
 
-        oh please do not look back
 
+        And I recognized my skin again
 
 
 
+        felt arms and time travel 
 
-        But the more I avoid it I find it
 
 
+        And faith returned to me and I recognized your light ...
 
-        It is an addiction
 
 
+         
 
-        In process
 
 
+        Your light 
 
-        you my beautiful torment
 
 
+        I needed your light 
 
 
 
-
-
-        But in front of you ...
-
-
-
-        I show you the opposite
-
-
-
-        Although this is a calvary
-
-
-
-        my chest weighs and this was born
-
-
-
-        it is growing for you
-
-
-
-        Ill hide it from you cuz I dont want it ...
+        Your light ...
       lyricsEs: |-
-        Tú eres mi secreto,
+        Tu Luz
 
 
 
-        de ti a nadie le cuento.
+         
 
 
 
-        Es casi un pecado saberlo,
+        Alguna vez camine sin pies 
 
 
 
-        pero esto es algo serio.
+        Deseando poderlos obtener 
 
 
 
+        Y al mirar hacia atrás 
 
 
 
+        Pude ver y encontrar 
 
-        Me quita el sueño,
 
 
+        Que la decisión que di 
 
-        me esfuerzo a olvidar lo que siento,
 
 
+        Fue arrastrándome 
 
-        pero ya se extiende por todo mi cuerpo
 
 
+        Hasta poder llegar aquí 
 
-        y me enferma contenerlo.
 
 
+        Y pude adivinar que 
 
 
 
+        Me hacía falta tu luz
 
 
-        Pero al frente de ti
 
+        Tu luz
 
 
-        te demuestro lo contrario.
 
+         
 
 
-        Aunque esto es un calvario,
 
+        Y comencé a hablar 
 
 
-        me pesa el pecho esto que nació,
 
+        Y hasta pude pensar 
 
 
-        que por ti esta creciendo.
 
+        En el poder contemplar 
 
 
-        Te lo oculto y no lo quiero.
 
+        Las flores y los olores q me van 
 
 
 
+        Y volvió a mí la fe 
 
 
 
-        Quiero alejarme de ti,
+        Y reconocí 
 
 
 
-        la realidad me miente.
+         
 
 
 
-        Cerraré mis ojos,
+        Volví a reconocer mi piel 
 
 
 
-        borraré mi mente
+        Sentí brazos 
 
 
 
-        aunque mi alma te proteste.
+        Y el tiempo recorrer 
 
 
 
+        Y volvió a mí la fe 
 
 
 
+        Y reconocí tu luz
 
-        Esto seguro es temporal,
 
 
+        Tu luz
 
-        callaré mis ojos
 
 
+         
 
-        aunque buscan hacia dónde vas.
 
 
+        Me hacía falta tu luz
 
 
 
-
-
-        No mires hacia atrás…
-
-
-
-
-
-
-
-        Pero entre más lo evito lo encuentro,
-
-
-
-        es una adicción, es proceso,
-
-
-
-        tú mi bello tormento.
-      title: 8 - Mi Secreto
+        Tu luz
+      title: 6 - Tu Luz
     - lyricsEn: |-
-        And you,
+        An Exit
 
 
 
-        Who do you think to make me fall in love with you like this?
+         
 
 
 
-        Without asking God for permission.
+        I have an illusion living inside of me 
 
 
 
-        Enraging me in madness.
+        in my dry heart that moistens of you 
 
 
 
+        I think your light is my example 
 
 
-        And you,
 
+        that you are beautiful inside and I melt for you
 
 
-        Who are you taking away my sleep?
 
+         
 
 
-        Appearing in my sleeplessness. Questioning my modesty
 
+        And I do not want to accept 
 
 
 
+        and I will deny it 
 
-        I want to make a wish:
 
 
+        but it is so great that I feel like im going to explode 
 
-        More never to suffer in secret.
 
 
+        from you you, are nailed to me 
 
 
 
-        Get away from me, so i can never feel,
+         
 
 
 
-        this sweetness in someone else's land,
+        And I will not want you and I will run to deny you
 
 
 
-        that drives me crazy and reveals me.
+        all  my feelings that you give me 
 
 
 
-        Your scent in every corner.
+        although I feel that I may die
 
 
 
-        Your look surrounding me
+         
 
 
 
+        Looking for a way out 
 
 
-        And you,
 
+        I'm so lost 
 
 
-        What are you coming for, to shake my fortress?
 
+        looking for a way out
 
 
-        It is your presence so willing to challenge my courage.
 
+        I'm so lost
 
 
 
+         
 
-        And you are discomfort and blessing.
 
 
+        I hear doubts and advice that can save me 
 
-        I am looking for tranquility,
 
 
+        but I find it hard to hear
 
-        You sow doubt in my reason.
 
 
+        I look and Im invaded by sighs 
 
 
 
-        I want to make a wish:
+        that already have your name tattooed endlessly
 
 
 
-        More never to suffer in secret.
+         
 
 
 
+        And I do not want to accept 
 
 
-        Get away from me, so i can never feel,
 
+        and I will deny it 
 
 
-        this sweetness in someone else's land,
 
+        but it is so great that I feel like im going to explode 
 
 
-        that drives me crazy and reveals me.
 
+        from you you, are nailed to me 
 
 
-        Your scent in every corner.
 
+         
 
 
-        Your look surrounding me
 
+        And I will not want you and I will run to deny you
 
 
 
+        all  my feelings that you give me 
 
 
 
-        I surrender, so maybe you have little mercy on this poor dark soul,
+        although I feel that I may die
 
 
 
-        that is tired of walking alone in this hard life that hurts.
+         
 
 
 
+        Looking for a way out 
 
 
 
+        I'm so lost 
 
-        Get away from me, so i can never feel,
 
 
+        looking for a way out
 
-        this sweetness in someone else's land,
 
 
-
-        that drives me crazy and reveals me.
-
-
-
-        Your scent in every corner.
-
-
-
-        Your look surrounding me
+        I'm so lost
       lyricsEs: |-
-        ¿Y tú, quién te crees?
+        Una Salida
 
 
 
-        Enamorándome así,
+         
 
 
 
-        sin pedirle permiso a Dios,
+        Yo tengo 
 
 
 
-        enredándome en locura.
+        una ilusión dentro 
 
 
 
+        en mi corazón seco 
 
 
 
+        que humedece de Tí 
 
-        ¿Y tú quién eres?
 
 
+         
 
-        Quitándome el sueno,
 
 
+        yo pienso 
 
-        apareciendo en mi desvelo,
 
 
+        que tu luz es mi ejemplo 
 
-        cuestionando mi pudor.
 
 
+        que eres bello por dentro 
 
 
 
+        y me derrito por tí 
 
 
-        Yo quiero pedirte un deseo,
 
+         
 
 
-        más nunca sufrir en secreto.
 
+        y no quiero aceptar 
 
 
 
+        y lo voy a negar 
 
 
 
-        Alejarte de mí,
+        pero es tan grande 
 
 
 
-        para nunca sentir
+        que me voy a explotar de Tí 
 
 
 
-        esta dulzura
+        estas clavado en mí 
 
 
 
-        en tierra ajena.
+         
 
 
 
+        y no te voy a querer 
 
 
 
+        y me echaré a correr 
 
-        Que me enloquece
 
 
+        negando todo sentimiento 
 
-        y me desvela,
 
 
+        que me delate ante Tí 
 
-        tu aroma en cada esquina,
 
 
+        aunque siento que voy a morir 
 
-        tu mirada en donde quiera.
 
 
+         
 
 
 
+        buscando una salida 
 
 
-        ¿Y tú, a qué vienes?
 
+        yo estoy tan perdida 
 
 
-        A remover mi fortaleza,
 
+        buscando una salida 
 
 
-        es tu presencia tan dispuesta
 
+        yo estoy tan perdida 
 
 
-        retando mi valor.
 
+         
 
 
 
+        yo siento 
 
 
 
-        ¿Y tú, qué eres?
+        que dudas y consejos 
 
 
 
-        Malestar y bendición,
+        que me pueden salvar 
 
 
 
-        yo que busco tranquilidad
+        pero me cuesta escuchar 
 
 
 
-        siembras duda en mi razón.
+         
 
 
 
+        yo miro 
 
 
 
+        y me invaden suspiros 
 
-        Me rindo, así quizás
 
 
+        que tienen ya tu nombre 
 
-        tengas poca piedad
 
 
-
-        de esta pobre alma obscura.
-
-
-
-
-
-
-
-        Que esta cansada de andar
-
-
-
-        sola en esta vida
-
-
-
-        tan dura y que lastima.
-      title: 9 - Tierra Ajena
+        tatuado sin fin
+      title: 7 - Una Salida
     - lyricsEn: |-
-        I live for you.
+        Love Bird
 
 
 
-        For you, for you.
+         
 
 
 
-        Thinking only of you.
+        I've been looking for a little love bird
 
 
 
-        Only in you, only in you.
+        that used to fly around me 
 
 
 
+        that gave me kisses to fly and 
 
 
-        Looking always for you, dont you see?
 
+        that loved me so much to the point of burst 
 
 
-        I have stopped loving myself.
 
+         
 
 
 
+        That little bird reminds me of you 
 
-        I risk myself for you.
 
 
+        and I always look for you on my dreams
 
-        For you, for you.
 
 
+        then i wake and I start to think 
 
-        Nothing can be without you.
 
 
+        where and when you will return to me..
 
-        without you, without you.
 
 
+         
 
 
 
+        I know I am to blame 
 
 
-        You are the reason of my being.
 
+        I know I must apologize 
 
 
-        Fantasy of my Eden.
 
+        I know I kept losing you 
 
 
 
+         
 
-        Love me, I beg you.
 
 
+        I know I am to blame
 
-        You are the root of my fire.
 
 
+        I know there are no excuses 
 
-        For me there is no other desire.
 
 
+        I know I still live loving you 
 
-        but to kiss your velvet skin.
 
 
+         
 
 
 
-        I know, my passion overflows you.
+        You keep coming up in my mind
 
 
 
-        But your look provokes me.
+        and you look so handsome walking by
 
 
 
-        This explodes all that I do not know.
+        as you pass, i look for a solution 
 
 
 
-        You are my vicious circle.
+        I know that I am already part of your past..
 
 
 
+         
 
 
-        I retire for you.
 
+        I had a great opportunity but I was dying of nerves
 
 
-        For you, for you.
 
+        I could not even speak I repressed my feelings
 
 
-        Dedicating my existence.
 
+        and ended without you in my life..
 
 
-        My existence, my existence.
 
+         
 
 
-        I give you my power.
 
+        I know I am to blame 
 
 
-        Make me one with your being.
 
+        I know I must apologize 
 
 
 
+        I know I kept losing you 
 
-        I'm come back for you
 
 
+         
 
-        For you, for you.
 
 
+        I know I am to blame
 
-        I can not see myself without you.
 
 
+        I know there are no excuses 
 
-        without you, without you.
 
 
-
-
-
-        I see your eyes stop.
-
-
-
-        The beats of my skin.
-
-
-
-
-
-        Love me, I beg you.
-
-
-
-        You are the root of my fire.
-
-
-
-        For me there is no other desire.
-
-
-
-        but to kiss your velvet skin.
-
-
-
-
-
-
-
-        I know, my passion overflows you.
-
-
-
-        But your look provokes me.
-
-
-
-        This explodes all that I do not know.
-
-
-
-        You are my vicious circle.
+        I know I still live loving you
       lyricsEs: |-
-        Yo vivo para ti, para ti, para ti.
+        Pajarito del Amor
 
 
 
-        Pensando solo en ti, solo en ti, solo en ti.
+         
 
 
 
-        Rebuscándote, ¿no ves?
+        Ando buscando un pajarito del amor 
 
 
 
-        Me he dejado de querer.
+        que solía volar a mi alrededor 
 
 
 
+        que me daba besos al volar 
 
 
 
+        y me quería tanto hasta reventar 
 
-        Yo me arriesgo para ti, para ti, para ti.
 
 
+         
 
-        Nada puede ser sin ti, yo sin ti, yo sin ti.
 
 
+        Ese pajarito me recuerda a Tí 
 
-        Eres mi razón de ser,
 
 
+        y siempre te busco al dormir 
 
-        fantasia de mi eden
 
 
+        despierto y me pongo a pensar 
 
 
 
+        donde y cuando tú volverás 
 
 
-        Quiéreme, te lo ruego.
 
+         
 
 
-        Eres tu la raíz de mi fuego.
 
+        yo sé yo tengo la culpa 
 
 
-        Para mí, no hay otro deseo
 
+        yo sé te debo disculpas 
 
 
-        que besar tu piel de terciopelo.
 
+        yo sé fui perdiéndote 
 
 
 
+        yo sé yo tengo la culpa 
 
 
 
-        Yo sé, mi pasión te desborda,
+        yo sé ya no hay excusas 
 
 
 
-        pero tu mirar me provoca.
+        yo sé sigo amándote 
 
 
 
-        Estalla esto que yo desconozco.
+         
 
 
 
-        Eres tú mi circulo vicioso.
+        caminas seguido en mi pensar 
 
 
 
+        y te miras tan guapo al pasar, 
 
 
 
+        buscando una solución yo sé 
 
-        Me retiro para ti, para ti, para ti.
 
 
+        que ya soy parte del ayer 
 
-        Dedicando mi existir, mi existir, mi existir.
 
 
+         
 
-        Yo te cedo mi poder,
 
 
+        tuve una gran oportunidad 
 
-        hazme una con tu ser.
 
 
+        pero moría de nervios no podía ni hablar 
 
 
 
+        reprimí lo que sentía 
 
 
-        Me regreso para ti, para ti, para ti.
 
-
-
-        No me puedo ver sin ti, yo sin ti, yo sin ti.
-
-
-
-        Veo tus ojos detener
-
-
-
-        los latidos de mi bien.
-
-
-
-
-
-
-
-        Quiéreme, te lo ruego.
-
-
-
-        Eres tu la raíz de mi fuego.
-
-
-
-        Para mí, no hay otro deseo
-
-
-
-        que besar tu piel de terciopelo.
-      title: 10 - Yo Vivo Para Ti
-    - lyricsEn: |-
-        You are from the past.
-
-
-
-        you what my fingers caressed.
-
-
-
-        Why do you come back this time, to worry me again?
-
-
-
-
-
-
-
-        You fire all my emotions
-
-
-
-        You return all the heats.
-
-
-
-        Everything begins to turn .
-
-
-
-        Around your return.
-
-
-
-
-
-        After so much time.
-
-
-
-        You have all your foundations in me.
-
-
-
-
-
-        You unbalance me, you who pause my time.
-
-
-
-        You touch me, I tremble.
-
-
-
-        You always in silence, attack.
-
-
-
-
-
-        You unbalance me, you who pause my time.
-
-
-
-        You touch me, I tremble.
-
-
-
-        You always in silence, attack.
-
-
-
-
-
-        After so much I think
-
-
-
-        That like you, another I can not find.
-
-
-
-
-
-        I have learned to be alone with my shadows.
-
-
-
-        When I repress my love.
-
-
-
-        I start to be fine again.
-
-
-
-
-
-        I lie constantly to myself.
-
-
-
-        I become strong.
-
-
-
-        Even if you come back to me .
-
-
-
-        I become blind when you pass by me.
-
-
-
-
-
-        After so much I think
-
-
-
-        That like you another I can not find
-
-
-
-
-
-        You unbalance me, you who pause my time.
-
-
-
-        You touch me, I tremble.
-
-
-
-        You always in silence, attack.
-
-
-
-
-
-        You unbalance me, you who pause my time.
-
-
-
-        You touch me, I tremble.
-
-
-
-        You always in silence, attack.
-
-
-
-
-
-
-
-        After so much time
-
-
-
-        You have foundations in me.
-      lyricsEs: |-
-        Tú eres del pasado
-
-
-
-        que mis dedos acariciaron.
-
-
-
-        ¿Para qué vuelves esta vez
-
-
-
-        a inquietarme otra vez?
-
-
-
-
-
-
-
-        Prendes todas mis emociones,
-
-
-
-        devuelves los calores.
-
-
-
-        Todo comienza a girar
-
-
-
-        entorno a tu regresar.
-
-
-
-
-
-
-
-        Después de tanto tiempo
-
-
-
-        tienes en mí todos tus cimientos.
-
-
-
-
-
-
-
-        Tú me desbalanceas,
-
-
-
-        tú quien pausa mi tiempo.
-
-
-
-        Tú me tocas, yo tiemblo,
-
-
-
-        tú atacas siempre en silencio.
-
-
-
-
-
-
-
-        Tú me desbalanceas,
-
-
-
-        tú quien pausa mi tiempo.
-
-
-
-        Tú me tocas, yo tiemblo,
-
-
-
-        tú atacas siempre en silencio.
-
-
-
-
-
-
-
-        Después de tanto, pienso
-
-
-
-        que como tú, a otro no encuentro.
-
-
-
-
-
-
-
-        He aprendido a estar sola
-
-
-
-        con mi sombra,
-
-
-
-        cuando reprimo mi querer,
-
-
-
-        siento volver a estar bien.
-
-
-
-
-
-
-
-        Me miento constantemente,
-
-
-
-        me hago la fuerte.
-
-
-
-        Aunque vuelvas a mi rondar,
-
-
-
-        me hago ciega cuando pasas.
-
-
-
-
-
-
-
-        Después de tanto, pienso
-
-
-
-        que como tú, a otro no encuentro.
-
-
-
-
-
-
-
-        Después de tanto tiempo
-
-
-
-        en mi tienes cimientos.
-      title: 11 - Tú Atacas
-    - lyricsEn: |-
-        I look for you...
-
-
-
-        In the looks  of others
-
-
-
-        I look deep in their eyes
-
-
-
-        Some residue of you
-
-
-
-
-
-
-
-        I find your absence
-
-
-
-        Screaming silently
-
-
-
-        Marking every moment
-
-
-
-        That you are no longer here
-
-
-
-
-
-
-
-        Tell me everything is a lie
-
-
-
-        That everything is just a nightmare
-
-
-
-        That I'm not alone and you have not left my life
-
-
-
-        Tell me you're still here
-
-
-
-
-
-
-
-        Tell me that nothing is true
-
-
-
-        That our life goes on and everything is perfect
-
-
-
-        That you did not leave and you're still in your body
-
-
-
-        Tell me you're still here
-
-
-
-        In this unhappy world
-
-
-
-
-
-
-
-        This unhappy world
-
-
-
-
-
-
-
-        Today I do not want ...
-
-
-
-        Continue confirming what happened
-
-
-
-        I close my eyes and I fill you with kisses
-
-
-
-        Do not leave me here
-
-
-
-        I need you alive
-
-
-
-        If you do not come back I do not understand mine anymore
-
-
-
-        There were plans and years of joy ahead
-
-
-
-        Kissing your gray hair
-
-
-
-
-
-
-
-        They tell me that I should ...
-
-
-
-        Be strong for my mind and my body
-
-
-
-        But they do not understand that today I have lost
-
-
-
-        A part of me forever
-
-
-
-
-
-
-
-        Tell me everything is a lie
-
-
-
-        That everything is just a nightmare
-
-
-
-        That I'm not alone and you have not left my life
-
-
-
-        Tell me you're still here
-
-
-
-
-
-
-
-        Tell me that nothing is true
-
-
-
-        That our life goes on and everything is perfect
-
-
-
-        That you did not leave and you are still in your body
-
-
-
-        Tell me you're still here
-
-
-
-
-
-
-
-        This unhappy world
-      lyricsEs: "Te busco... \n\nEn las miradas de otros \n\nBusco profundo en sus ojos \x7F\n\nAlgún residuo de ti \n\nEncuentro tu ausencia \n\nGritando en silencio \n\nMarcando cada momento \n\nQue ya no sigues aquí \n\n\n\nDime que todo es mentira \n\nQue todo es solo una pesadilla \n\nQue no estoy sola y no te haz ido de mi vida \n\nDime que sigues aquí \n\n\n\nDime que nada es cierto \n\nQue nuestra vida sigue y todo es perfecto \n\nQue no partiste y sigues aún en tu cuerpo \n\nDime que sigues aquí \n\nEn este mundo infeliz \n\n\n\nEste mundo infeliz \n\n\n\nHoy no quiero... \n\nSeguir confirmando el suceso \n\nCierro mis ojos y te lleno de besos \n\nNo me dejes aquí \n\nTe quiero con vida \n\nSi tu no vuelves ya no entiendo la mía \n\nHabía planes y años de alegría \n\nBesando tu cabello gris \n\n\n\nMe dicen que debo... \n\nSer fuerte por mi mente y por mi cuerpo \n\nPero no entienden que hoy he perdido \n\nPara siempre una parte de mí \n\n\n\nDime que todo es mentira \n\nQue todo es solo una pesadilla \n\nQue no estoy sola y no te haz ido de mi vida \n\nDime que sigues aquí \n\n\n\nDime que nada es cierto \n\nQue nuestra vida sigue y todo es perfecto \n\nQue no partiste y sigues aún en tu cuerpo \n\nDime que sigues aquí \n\n\n\nDime que todo es mentira \n\nQue todo es solo una pesadilla \n\nQue no estoy sola y no te haz ido de mi vida \n\nDime que sigues aquí \n\nDime que nada es cierto \n\nQue nuestra vida sigue y todo es perfecto \n\nQue no partiste y sigues aún en tu cuerpo \n\nDime que sigues aquí \n\nEn este mundo infeliz \n\n\n\nEste mundo infeliz"
-      title: 12 - Dime Mentiras
-    - lyricsEn: |-
-        What I feel for you and nobody else,
-
-
-
-        I do not want to hide it
-
-
-
-        Neither deny,
-
-
-
-        What I feel for you is a theme
-
-
-
-        Who avenged evading for health,
-
-
-
-
-
-        But today
-
-
-
-        I'm going to confess
-
-
-
-        And my voice
-
-
-
-        It begins to erase.
-
-
-
-
-
-        I feel you a thousand years ago,
-
-
-
-        I want to make you miracles,
-
-
-
-        I do not want to continue doubting
-
-
-
-        It's hard for me not to accept it,
-
-
-
-        This has me trembling,
-
-
-
-        It's big and it's torturing,
-
-
-
-        His strength controls something in me,
-
-
-
-        I confess is killing me ...
-
-
-
-
-
-        What I feel for you and nobody else
-
-
-
-        Dominate my inside
-
-
-
-        It turns me into sea,
-
-
-
-        What I feel for you in solitude
-
-
-
-        It does not touch my sky or gravity.
-
-
-
-
-
-        But today
-
-
-
-        I'm going to confess
-
-
-
-        And my voice
-
-
-
-        It begins to erase.
-
-
-
-
-
-        I feel you a thousand years ago,
-
-
-
-        I want to make you miracles,
-
-
-
-        I do not want to continue doubting
-
-
-
-        It's hard for me not to accept it,
-
-
-
-        This has me trembling,
-
-
-
-        It's big and it's torturing,
-
-
-
-        His strength controls something in me,
-
-
-
-        I confess it is killing me.
-      lyricsEs: |-
-
-
-        Lo que siento por ti,
-
-
-
-        y nadie más,
-
-
-
-        no lo quiero esconder
-
-
-
-        ya ni negar.
-
-
-
-
-
-
-
-        Lo que siento por ti,
-
-
-
-        es un tema
-
-
-
-        que vengo evadiendo
-
-
-
-        por sanidad.
-
-
-
-
-
-
-
-        Pero hoy
-
-
-
-        te lo voy a confesar,
-
-
-
-        y mi voz
-
-
-
-        se comienza a borrar.
-
-
-
-
-
-
-
-        Te siento hace mil años.
-
-
-
-        Te quiero hacer milagros.
-
-
-
-        No quiero seguir dudando.
-
-
-
-        Me cuesta ya no aceptarlo.
-
-
-
-
-
-
-
-        Esto me tiene temblando,
-
-
-
-        es grande y va torturando.
-
-
-
-        Su fuerza controla en mí algo,
-
-
-
-        confieso me está matando.
-
-
-
-
-
-
-
-        Lo que siento por ti,
-
-
-
-        y nadie más,
-
-
-
-        domina mis adentros,
-
-
-
-        me convierte en mar.
-
-
-
-
-
-
-
-        Lo que siento por ti,
-
-
-
-        en soledad,
-
-
-
-        no toca ni mi cielo
-
-
-
-        ni gravedad.
-
-
-
-
-
-
-
-        Pero hoy
-
-
-
-        te lo voy a confesar,
-
-
-
-        y mi voz
-
-
-
-        se comienza a borrar.
-      title: 13 - Mil Años
-    - lyricsEn: >-
-        Let me take you by the hand
-
-
-
-         let me look into your eyes
-
-
-
-        Let me through my eyes
-
-
-
-
-        Give you all my splendor
-
-
-
-
-
-
-
-        Let me stay here
-
-
-
-
-        let me kiss you there
-
-
-
-
-        where you keep your secrets
-
-
-
-
-        the darkest and the most beautiful ones
-
-
-
-
-
-
-
-        I give you my legs,
-
-
-
-
-        recline your head in them,
-
-
-
-
-        I give you my strength,
-
-
-
-
-        use them every time you need it,
-
-
-
-
-        I give you the pieces that make up my
-        soul                                                     
-
-
-
-         that by no chance you are in need of anything,
-
-
-
-
-
-
-
-        I'll love you until I die, I'll love you until I die
-
-
-
-
-
-
-
-        Let me play with you
-
-
-
-
-        let me make you smile
-
-
-
-
-        let me give you my sweetness
-
-
-
-
-        so you feel what I felt that Night
-
-
-
-
-        let me take care of you
-
-
-
-
-        let me hold you
-
-
-
-
-        let me show you everything I have
-
-
-
-
-        to make you oh so very happy
-
-
-
-
-
-
-
-        I give you my legs,
-
-
-
-
-        recline your head in them,
-
-
-
-
-        I give you my strength,
-
-
-
-
-        use them every time you need it,
-
-
-
-
-        I give you the pieces that make up my
-        soul                                                     
-
-
-
-         that by no chance you are in need of anything,
-
-
-
-
-
-
-
-        I'll love you until I die, I'll love you until I die
-      lyricsEs: |-
-        Déjame tomarte de la mano
-
-        déjame mirarte a los ojos
-
-
-
-        Déjame a través de mi mirada
-
-        darte todo mi esplendor
-
-
-
-        Déjame quedar aquí
-
-        déjame besarte ahí
-
-        donde guardas tus secretos
-
-        los más oscuros y los más bellos
-
-
-
-        Te regalo mis piernas
-
-        recuesta tu cabeza en ellas
-
-        te regalo mis fuerzas
-
-        úsalas cada que no tengas
-
-        te regalo las piezas
-
-        que a mi alma conforman
-
-        que nunca nada de haga falta a ti
-
-        te voy a amar hasta morir
-
-        te voy a amar hasta morir
-
-
-
-        Déjame jugar contigo
-
-        déjame hacerte sonreir
-
-        déjame darte de mi dulcura
-
-        pa´que sientas lo que sentí
-
-        déjame cuidarte
-
-        déjame abrazarte
-
-        déjame enseñarte todo lo que tengo
-
-        pa' hacerte muy feliz
-
-
-
-        Te regalo mis piernas
-
-        recuesta tu cabeza en ellas
-
-        te regalo mis fuerzas
-
-        úsalas cada que no tengas
-
-        te regalo las piezas
-
-        que a mi alma conforman
-
-        que nunca nada de haga falta a ti
-
-        te voy a amar hasta morir
-
-
-
-        Te regalo mis piernas
-
-        recuesta tu cabeza en ellas
-
-        te regalo mis fuerzas
-
-        úsalas cada que no tengas
-
-        te regalo las piezas
-
-        que a mi alma conforman
-
-        que nunca nada de haga falta a ti
-
-        te voy a amar hasta morir
-
-        te voy a amar hasta morir
-
-        te voy a amar hasta morir
-      title: 14 - Te Regalo
-    - lyricsEn: |-
-        My view is different.
-
-
-
-        It is very sad and pollutes.
-
-
-
-        I want to stop believing.
-
-
-
-        Be alone and not looking in
-
-
-
-
-
-
-
-        I feel less and less alive.
-
-
-
-        Defeated and confused.
-
-
-
-        Without knowing what to do.
-
-
-
-        I can not understand.
-
-
-
-
-
-
-
-        That although everything here is very good.
-
-
-
-        My mind does not stop running.
-
-
-
-
-
-
-
-        That everything happens.
-
-
-
-        That life suddenly reaches me.
-
-
-
-        That I'm tired
-
-
-
-        My mind needs calminh
-
-
-
-
-
-
-
-        That everything changes.
-
-
-
-        My world feels that it is going to end.
-
-
-
-        Because this consumes me
-
-
-
-        In silence, I feel in doubt.
-
-
-
-
-
-
-
-        Life is a process.
-
-
-
-        Each one of us building his challenge.
-
-
-
-        And at the same time.
-
-
-
-        One feels uncertain corners.
-
-
-
-        I turn to the sky.
-
-
-
-        I ask the world for answers to this that is eating me.
-
-
-
-        But I must dig deep inside of me
-
-
-
-
-
-
-
-        That although everything here is very good.
-
-
-
-        My mind does not stop running.
-
-
-
-
-
-
-
-        That everything happens.
-
-
-
-        That life suddenly reaches me.
-
-
-
-        That I'm tired
-
-
-
-        My mind needs calminh
-
-
-
-
-
-
-
-        That everything changes.
-
-
-
-        My world feels that it is going to end.
-
-
-
-        Because this consumes me
-
-
-
-        In silence, I feel in doubt.
-
-
-
-
-
-
-
-        The rudeness of my mind is subtle.
-
-
-
-        Without realizing it, it can leave me here
-
-
-
-
-
-
-
-        I want to be strong, and not stop competing.
-
-
-
-        This fight is just  against me.
-
-
-
-
-
-
-
-        That everything happens.
-
-
-
-        That life suddenly reaches me.
-
-
-
-        That I'm tired
-
-
-
-        My mind needs calminh
-
-
-
-
-
-
-
-        That everything changes.
-
-
-
-        My world feels that it is going to end.
-
-
-
-        Because this consumes me
-
-
-
-        In silence, I feel in doubt.
-
-
-
-        But I know I'm going to achieve it.
-      lyricsEs: |-
-        Mi vista es distinta,
-
-
-
-        es muy triste y contamina.
-
-
-
-        Busco dejar de creer,
-
-
-
-        estarme sóla y no ver.
-
-
-
-
-
-
-
-        Me siento cada vez menos viva,
-
-
-
-        derrotada y confundida
-
-
-
-        sin saber qué hacer.
-
-
-
-        No logro entender…
-
-
-
-
-
-
-
-        Que aunque todo esta muy bien
-
-
-
-        mi mente no deja de correr.
-
-
-
-
-
-
-
-        Que todo pasa.
-
-
-
-        Que la vida de repente me alcanza.
-
-
-
-        Que estoy cansada,
-
-
-
-        mi mente necesita de calma.
-
-
-
-        Que todo cambia.
-
-
-
-        Mi mundo siente que se va acabar,
-
-
-
-        porque esto ataca.
-
-
-
-        En silencio parezco dudar.
-
-
-
-
-
-
-
-        La vida es un proceso,
-
-
-
-        cada quien comprendiendo su reto.
-
-
-
-        Y al mismo tiempo
-
-
-
-        uno siente rincones inciertos.
-
-
-
-        Miro al cielo,
-
-
-
-        pido al mundo respuestas a esto
-
-
-
-        que me esta comiendo.
-
-
-
-        Pero debo escarbar mis adentros…
-
-
-
-
-
-
-
-        La rudeza de mi mente es sutil,
-
-
-
-        sin darme cuenta puede dejarme aquí.
-
-
-
-        Quiero ser fuerte, no dejar de competir.
-
-
-
-        Esta lucha es solo contra mi.
-
-
-
-
-
-
-
-        Pero sé que lo voy a lograr.
-      title: 15 - Todo Pasa
+        y termine sin Tí en mis días
+      title: 8 - Pajarito del Amor ft. Natalia Lafourcade
 ---
+
