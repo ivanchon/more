@@ -176,10 +176,12 @@ export default class IndexPage extends React.Component {
                 .map(({ node: post }) => (
                   <div
                     className="card"
-                    style={{ backgroundColor: 'transparent', border: '1px solid #eaecee' }}
+                    style={{ backgroundColor: 'transparent', border: '1px solid #eaecee', borderRadius: '0px' }}
                     key={post.id}
                   >
-                    <img className="img-fluid" src={amsd}/>
+                    <Link className="has-text-primary" to={post.fields.slug}>
+                      <img className="img-fluid" src={post.frontmatter.image}/>
+                    </Link>
                     <div className="card-body">
                       <p>
                         <Link className="has-text-primary" to={post.fields.slug}>
@@ -254,7 +256,7 @@ IndexPage.propTypes = {
 export const pageQuery = graphql`
   query IndexQuery {
     allMarkdownRemark(
-      limit: 3
+      limit: 4
       filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ){
@@ -267,6 +269,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            image
             templateKey
             date(formatString: "MMMM DD, YYYY")
           }

@@ -19,8 +19,6 @@ injectGlobal`
     }
 
     .card {
-      margin-bottom: 2rem;
-
       @media (max-width: 991.8px) {
         margin-bottom: 2rem;
       }
@@ -42,36 +40,42 @@ export default class BlogPage extends React.Component {
             <h2 className="headers-h2">Blog</h2>
           </div>
         </div>
-        <div className="card-deck">
-          {
-            posts.filter(post => post.node.frontmatter.templateKey === 'blog-post').map(({node: post}) => (<div className="card" style={{
-                border: '1px solid #D1C7BD',
-                backgroundColor: 'transparent',
-                borderRadius: '0px'
-              }} key={post.id}>
+        <div className="row">
+          <div className="col-12 col-md-9">
 
-              <img className="img-fluid" src={post.frontmatter.image}/>
-              <div className="card-body">
-                <p>
-                  <Link className="has-text-primary" to={post.fields.slug}>
-                    {post.frontmatter.title}
-                  </Link>
-                  <span>
-                    &bull;
-                  </span>
-                  <small>{post.frontmatter.date}</small>
-                </p>
-                <p>
-                  {post.excerpt}
-                  <br/>
-                  <br/>
-                  <Link className="btn btn-outline-light btn-sm" to={post.fields.slug}>
-                    Leer mas →
-                  </Link>
-                </p>
-              </div>
-            </div>))
-          }
+            <div className="card-deck">
+              {
+                posts.filter(post => post.node.frontmatter.templateKey === 'blog-post').map(({node: post}) => (<div className="card " style={{
+                    border: '1px solid #D1C7BD',
+                    backgroundColor: 'transparent'
+                  }} key={post.id}>
+
+                  <div className="card-body">
+                    <p>
+                      <Link className="has-text-primary" to={post.fields.slug}>
+                        {post.frontmatter.title}
+                      </Link>
+                      <span>
+                        &bull;
+                      </span>
+                      <small>{post.frontmatter.date}</small>
+                    </p>
+                    <p>
+                      {post.excerpt}
+                      <br/>
+                      <br/>
+                      <Link className="btn btn-outline-light btn-sm" to={post.fields.slug}>
+                        Keep Reading →
+                      </Link>
+                    </p>
+                  </div>
+                </div>))
+              }
+            </div>
+          </div>
+          <div className="col-12 col-md-3">
+            <h4 className="text-center">TAGS</h4>
+          </div>
         </div>
       </div>
     </section>
@@ -88,7 +92,7 @@ BlogPage.propTypes = {
 }
 
 export const pageQuery = graphql`
-  query BlogQuery {
+  query BlogQuery2 {
     allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
       edges {
         node {
@@ -99,7 +103,6 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
-            image
             templateKey
             date(formatString: "MMMM DD, YYYY")
           }
