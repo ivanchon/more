@@ -62,13 +62,13 @@ export const AlbumsPageTemplate = ({
             </div>
           </div>
           <div className="row pb-5 text-center">
-            <div className="col-md-6">
+            <div className="col-md-5">
               <img className="img-fluid"
                 style={{ borderRadius: '5px' }}
                 src={image} alt={title}
               />
             </div>
-            <div className="col-md-6">
+            <div className="col-md-7">
               <h4>Acerca de</h4>
               <p>{aboutEs}</p>
               <p>{aboutEn}</p>

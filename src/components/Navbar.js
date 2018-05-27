@@ -2,13 +2,13 @@ import React from 'react'
 import Link from 'gatsby-link'
 import {injectGlobal} from 'styled-components'
 
-//import AudioPlayer from '../components/AudioPlayer'
+import AudioPlayer from '../components/AudioPlayer'
 import logo from '../img/logo.png'
-
+/*
 let AudioPlayer
 if (typeof document !== 'undefined')
   AudioPlayer = require('../components/AudioPlayer')
-
+*/
 
 
 

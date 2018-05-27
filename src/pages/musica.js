@@ -8,6 +8,7 @@ import Music from '../components/Music'
 
 
 //image imports
+/*
 import reco from '../img/record.png'
 import amsd from '../img/alco-amor-supremo-d.jpg'
 import amsu from '../img/alco-amor-supremo.jpg'
@@ -18,7 +19,7 @@ import mido from '../img/alco-mientras.jpg'
 import apre from '../img/alco-aprendiendo.jpg'
 import nino from '../img/alco-nino.jpg'
 import coll from '../img/alco-colab.jpg'
-
+*/
 
 
 export default class MusicPage extends React.Component {

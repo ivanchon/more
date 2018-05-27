@@ -40,25 +40,30 @@ class AudioPlayer extends PureComponent {
       mute: false,
     };
 
-    this.audio = document.createElement('audio');
-    this.audio.src = this.state.active.url;
-    this.audio.autoplay = !!this.state.autoplay;
+  // Wrap the require in check for window
+    if (typeof window !== `undefined`) {
+      this.audio = document.createElement('audio');
+      this.audio.src = this.state.active.url;
+      this.audio.autoplay = !!this.state.autoplay;
 
-    this.audio.addEventListener('timeupdate', e => {
-      this.updateProgress();
+      this.audio.addEventListener('timeupdate', e => {
+        this.updateProgress();
 
-      props.onTimeUpdate(e);
-    });
-    this.audio.addEventListener('ended', e => {
-      this.next();
+        props.onTimeUpdate(e);
+      });
+      this.audio.addEventListener('ended', e => {
+        this.next();
 
-      props.onEnded(e);
-    });
-    this.audio.addEventListener('error', e => {
-      this.next();
+        props.onEnded(e);
+      });
+      this.audio.addEventListener('error', e => {
+        this.next();
 
-      props.onError(e);
-    });
+        props.onError(e);
+      });
+    }
+
+
   }
 
   shuffle = arr => arr.sort(() => Math.random() - 0.5);

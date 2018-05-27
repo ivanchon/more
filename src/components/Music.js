@@ -163,46 +163,46 @@ const Music = () => (
             label="2015"
           />
           <AlbumCont
-            link="/bio/"
+            link="/albums/dejenme-llorar-deluxe/"
             title="Déjenme Llorar Deluxe"
             cover={deld}
             label="deluxe"
           />
           <AlbumCont
-            link="/bio/"
+            link="/albums/dejenme-llorar/"
             title="Déjenme Llorar"
             cover={dell}
             label="2012"
           />
           <AlbumCont
-            link="/bio/"
+            link="/albums/jugando-en-serio/"
             title="Jugando en Serio"
             cover={juse}
             label="2011"
           />
 
           <AlbumCont
-            link="/bio/"
-            title="Mientras Dormías"
+            link="/albums/mientras-tu-dormias/"
+            title="Mientras tu Dormías"
             cover={mido}
             label="2010"
           />
 
           <AlbumCont
-            link="/bio/"
+            link="/albums/aprendiendo-a-aprender/"
             title="Aprendiendo a Aprender"
             cover={apre}
             label="2009"
           />
           <AlbumCont
-            link="/bio/"
-            title="Niña del Tambor"
+            link="/albums/la-nina-del-tambor/"
+            title="La Niña del Tambor"
             cover={nino}
             label="Navideño"
           />
 
           <AlbumCont
-            link="/bio/"
+            link="/colaboraciones/"
             title="Colaboraciones y Tributos"
             cover={coll}
             label="CM"
