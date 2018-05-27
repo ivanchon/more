@@ -2,19 +2,70 @@
 templateKey: albums-page
 title: Aprendiendo a Aprender
 year: 2009
-image: /img/alco-amor-supremo.jpg
+image: /img/alco-aprendiendo.jpg
 aboutEs: >-
-  Este EP acústico estuvo inspirado por las sesiones  MTV Unplugged que yo honestamente siempre imaginando nunca poder experimentar, asi que me lo invente yo misma en mi departamento/estudio casero en el que vivía en Tecate Baja California, Mexico. Producido por Alejandro Jimenez y co producido por mi en alrededor de 2 semanas cada tarde que Alejandro podía venir a visitarme desde Tijuana donde el vivía en ese entonces. Tambien lo mezclo y lo masterizo el mismo Alejandro.
+  Este EP acústico estuvo inspirado por las sesiones  MTV Unplugged que yo
+  honestamente siempre imaginando nunca poder experimentar, asi que me lo
+  invente yo misma en mi departamento/estudio casero en el que vivía en Tecate
+  Baja California, Mexico. Producido por Alejandro Jimenez y co producido por mi
+  en alrededor de 2 semanas cada tarde que Alejandro podía venir a visitarme
+  desde Tijuana donde el vivía en ese entonces. Tambien lo mezclo y lo masterizo
+  el mismo Alejandro.
 aboutEn: >-
-  This Acoustic EP was inspired by the MTV Unplugged sessions, me honestly thinking i could never reach, so i did it for myself in my own little apartment/home studio back in Tecate Baja California Mexico, produced by Alejandro Jimenez and co produced by me in around 2 weeks time, every afternoon Alejandro could come and visit me from Tijuana his home Town. Also Mixed and mastered by ourselves.
+  This Acoustic EP was inspired by the MTV Unplugged sessions, me honestly
+  thinking i could never reach, so i did it for myself in my own little
+  apartment/home studio back in Tecate Baja California Mexico, produced by
+  Alejandro Jimenez and co produced by me in around 2 weeks time, every
+  afternoon Alejandro could come and visit me from Tijuana his home Town. Also
+  Mixed and mastered by ourselves.
 songs:
   blurbs:
-    - title: 1 - Yo Sigo Aquí
-      lyricsEs: "Yo Sigo Aquí<br/>Y yo sigo aquí<br/>buscando una razón para sobrevivir<br/>y todos me dicen adiós<br/>y yo sigo parada aquí<br/>para poder respirar, transpirar, resucitar <br/>me prohiba tu calor.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel."
-      lyricsEn: "ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel."
-    - title: 2 - Flor que nunca fui
-      lyricsEs: "La belleza que veo en ti<br/>traspasa cualquier dimensión,<br/>es tan grande su proyección<br/>que me ciega con su resplandor.<br/>Nunca nadie ha podido<br/>dejarme sin palabras como tú.<br/>Todo aquello que gano con hazañas,<br/>la fé me devolviste tú.<br/>Tú has roto en mí,<br/>todas las barreras de dolor<br/>que construí.<br/>Tus tratos hacia mí,<br/>me acaricias con amor como esa flor<br/>que nunca fui.<br/>Tú has roto en mí<br/>todas las barreras de dolor<br/>que construí.<br/>Tus tratos hacia mí,<br/>me acaricias con amor como esa flor<br/>que nunca fui.<br/>Contigo las horas se hacen agua,<br/>que viaja dentro de mí.<br/>Mi piel expulsando lo que siento<br/>es una terrible atracción.<br/>Tú, esa formula novedosa<br/>que me tomó fuera de mi control.<br/>Yo me contengo y te observo,<br/>y aumenta mi ilusión."
-      lyricsEn: "ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel."
+    - lyricsEn: >-
+        ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte
+        y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos
+        lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a
+        robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te
+        voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un
+        beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo
+        quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos
+        lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu
+        amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel.
+      lyricsEs: >-
+        Yo Sigo Aquí<br/>Y yo sigo aquí<br/>buscando una razón para
+        sobrevivir<br/>y todos me dicen adiós<br/>y yo sigo parada aquí<br/>para
+        poder respirar, transpirar, resucitar <br/>me prohiba tu calor.<br/>Yo
+        te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un
+        beso.<br/>Yo te voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a
+        robar un beso.<br/>Eres la infusión que necesito,<br/>eres muy
+        calientito.<br/>Yo quiero acercarme y poder<br/>contagiarme de tu
+        ser.<br/>Vámonos lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba
+        tu amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel.
+      title: 1 - Yo Sigo Aquí
+    - lyricsEn: >-
+        ilusión que yo persigo,<br/>eres bueno y maldito.<br/>Yo quiero tocarte
+        y poder<br/>seguirte por doquier.<br/>Vámonos lejos,<br/>vámonos
+        lejos<br/>donde nadie<br/>me prohiba tu calor.<br/>Yo te voy a
+        robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un beso.<br/>Yo te
+        voy a robar,<br/>te voy a secuestrar.<br/>Yo te voy a robar un
+        beso.<br/>Eres la infusión que necesito,<br/>eres muy calientito.<br/>Yo
+        quiero acercarme y poder<br/>contagiarme de tu ser.<br/>Vámonos
+        lejos,<br/>vámonos lejos<br/>donde nadie<br/>me prohiba tu
+        amor.<br/>Cómo consigo tener<br/>una cucharadita de tu miel.
+      lyricsEs: >-
+        La belleza que veo en ti<br/>traspasa cualquier dimensión,<br/>es tan
+        grande su proyección<br/>que me ciega con su resplandor.<br/>Nunca nadie
+        ha podido<br/>dejarme sin palabras como tú.<br/>Todo aquello que gano
+        con hazañas,<br/>la fé me devolviste tú.<br/>Tú has roto en
+        mí,<br/>todas las barreras de dolor<br/>que construí.<br/>Tus tratos
+        hacia mí,<br/>me acaricias con amor como esa flor<br/>que nunca
+        fui.<br/>Tú has roto en mí<br/>todas las barreras de dolor<br/>que
+        construí.<br/>Tus tratos hacia mí,<br/>me acaricias con amor como esa
+        flor<br/>que nunca fui.<br/>Contigo las horas se hacen agua,<br/>que
+        viaja dentro de mí.<br/>Mi piel expulsando lo que siento<br/>es una
+        terrible atracción.<br/>Tú, esa formula novedosa<br/>que me tomó fuera
+        de mi control.<br/>Yo me contengo y te observo,<br/>y aumenta mi
+        ilusión.
+      title: 2 - Flor que nunca fui
     - lyricsEn: |-
         You already went away to your new life
 
@@ -3749,3 +3800,4 @@ songs:
         Pero sé que lo voy a lograr.
       title: 15 - Todo Pasa
 ---
+
