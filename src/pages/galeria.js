@@ -131,7 +131,7 @@ injectGlobal`
 `;
 
 const WallBlock = styled.div`
-  background: pink;
+  background: transparent;
 `;
 
 const BtnWall = styled.a`
