@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: La Escritura
-date: 2018-05-30T20:50:26.197Z
+date: 2018-02-12T21:28:26+01:00
 description: >-
   Desde chica me ha gustado la escritura, el darme a entender a través de las
   palabras, ya sea en cartas, diarios, poemas, etc. Para mi la escritura es de
