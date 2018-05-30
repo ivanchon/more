@@ -1,0 +1,12 @@
+---
+templateKey: blog-post
+title: Causas Humanitarias
+date: 2017-12-13T13:24:30+01:00
+description: >-
+  Cuando yo decidí dedicarme a componer y hacer música por tiempo completo mi
+  motivación aparte de libertad de expresión.
+image: /img/causas-humanitarias.jpg
+tags:
+  - Otros
+---
+Cuando yo decidí dedicarme a componer y hacer música por tiempo completo mi motivación aparte de libertad de expresión, mi amor por la música y mi amor al canto, fue siempre acompañar con mi música a la gente menos comprendida, más solitaria, con ganas de expresar lo que no sabían poner en palabras  y eso me lleva a explicarles el porque me uno muy seguido a causas humanitarias como cuando done vestidos y mi primer guitarra eléctrica a la fundación de cáncer LUZ DE VIDA o cuando participe con LEVIS para el apoyo de diversidad de cuerpo femenino, así como también unirme con AHF para ayudar a concientizar el uso del condón y apoyar asociaciones como MEVEMEX para reunir fondos para mandar medicinas a nuestros hermanos venezolanos que ahora pasan por una etapa muy difícil con su gobierno actual. Me parece importante aclarar que como artista no me parece que debe ser un deber ni debemos ser un ejemplo pero si es bueno ser conscientes y utilizar nuestro micrófono y nuestro escenario para hablar sobre temas que nos afectan a todos como seres humanos siendo parte de una sociedad y participar en cambios que necesita nuestro país, nuestras colonias, nuestras familias y nuestras mentes. Me encanta poder ser parte de un cambio positivo y ser parte de causas nobles y movimientos importantes para contribuir a una mejor sociedad y mejorar como personas, mujeres y hombres ante un mundo tan cambiante y tan lleno de áreas de oportunidad. Ser artista no solamente te da el don de crear y estar en el foco sino también de ser sensible a situaciones importantes y poder regresar lo que tanto recibimos, que al final del día siempre es compañía, apoyo y mucho amor, por eso me es importante no callar y decir siempre lo que realmente pienso y hacer mi mejor esfuerzo para poder aportar un poco de lo que la vida me ha dado y contribuir de la mejor manera que yo personalmente pueda. No soy perfecta ni me planteo llegar a serlo pero sí creo que un granito de arena de todos y cada uno de nosotros, puede crear un futuro mejor para nuestra sociedad, el ejemplo y el poder de palabra son infinitamente importantes y por eso creo que contribuir y hablar de ciertos temas es importante para mi personalmente.
