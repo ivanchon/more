@@ -42,7 +42,7 @@ export default class BlogPage extends React.Component {
             <h2 className="headers-h2">Blog</h2>
           </div>
         </div>
-        <div className="card-deck">
+        <div className="card-columns">
           {
             posts.filter(post => post.node.frontmatter.templateKey === 'blog-post').map(({node: post}) => (<div className="card" style={{
                 border: '1px solid #D1C7BD',
