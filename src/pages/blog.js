@@ -50,16 +50,20 @@ export default class BlogPage extends React.Component {
                 borderRadius: '0px'
               }} key={post.id}>
 
-              <img className="img-fluid" src={post.frontmatter.image}/>
+
               <div className="card-body">
-                <p>
+                <Link className="has-text-primary" to={post.fields.slug}>
+                  <img className="img-fluid" src={post.frontmatter.image}/>
+                </Link>
+                <p style={{marginTop:'0.75rem', marginBottom: '0rem', fontSize:'1.5rem'}}>
                   <Link className="has-text-primary" to={post.fields.slug}>
                     {post.frontmatter.title}
                   </Link>
-                  <span>
-                    &bull;
-                  </span>
-                  <small>{post.frontmatter.date}</small>
+                </p>
+                <p>
+                  <Link className="has-text-primary" to={post.fields.slug}>
+                    <small>{post.frontmatter.date}</small>
+                  </Link>
                 </p>
                 <p>
                   {post.excerpt}
@@ -92,7 +96,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
       edges {
         node {
-          excerpt(pruneLength: 200)
+          excerpt(pruneLength: 100)
           id
           fields {
             slug
