@@ -27,7 +27,7 @@ export default class MusicPage extends React.Component {
 
     return (
       <section id="musica" className="header-push-down music-section">
-        <div className="container py-5 pb-10">
+        <div className="container pb-10">
           <div className="row">
             <div className="col">
               <h2 className="headers-h2">

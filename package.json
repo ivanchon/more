@@ -9,6 +9,7 @@
     "@fortawesome/react-fontawesome": "^0.0.18",
     "bootstrap": "4.1.1",
     "bulma": "^0.6.0",
+    "disqus-react": "^1.0.5",
     "gatsby": "^1.9.213",
     "gatsby-link": "^1.6.37",
     "gatsby-plugin-google-fonts": "^0.0.4",

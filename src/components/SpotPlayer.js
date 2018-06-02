@@ -9,13 +9,14 @@ injectGlobal`
   position: fixed;
   bottom: -30px;
   width: 100%;
+  z-index: 2000;
 }
 `;
 
 
 const SpotPlayer = () => (
     <div className="player">
-      <iframe src="https://open.spotify.com/embed?uri=spotify:user:ivnprorsum:playlist:10V5VPJAESCozIjYtGbzVE&theme=white" width="100%" height="100" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      <iframe src="https://open.spotify.com/embed?uri=spotify:artist:0XK6kT7xcZAlcYrNjOgzJe&theme=white" width="100%" height="100" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
     </div>
 )
 
