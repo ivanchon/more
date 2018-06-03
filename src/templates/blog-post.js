@@ -5,6 +5,9 @@ import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
 //import ReactDisqusThread from 'react-disqus-thread'
+import { DiscussionEmbed } from "disqus-react";
+
+
 
 export const BlogPostTemplate = ({
   content,
@@ -15,6 +18,9 @@ export const BlogPostTemplate = ({
   image,
   helmet,
 }) => {
+
+
+
   const PostContent = contentComponent || Content
 
   return (
@@ -44,7 +50,7 @@ export const BlogPostTemplate = ({
             ) : null}
           </div>
         </div>
-
+         <DiscussionEmbed shortname="carlamorrison" />
       </div>
     </section>
   )
