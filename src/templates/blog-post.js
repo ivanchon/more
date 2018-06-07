@@ -4,6 +4,7 @@ import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
+//import Disqus from '../components/Disqus'
 //import ReactDisqusThread from 'react-disqus-thread'
 import { DiscussionEmbed } from "disqus-react";
 
@@ -15,24 +16,40 @@ export const BlogPostTemplate = ({
   description,
   tags,
   title,
+  date,
   image,
   helmet,
+  next,
+  prev,
+  pathContext,
 }) => {
 
 
 
   const PostContent = contentComponent || Content
-
+  //const { next, prev } = pathContext;
   return (
     <section className="section">
       {helmet || ''}
       <div className="container content header-push-down blog-content pb-5">
         <div className="row">
+
+          {prev &&
+            <Link className="link prev" to={prev.frontmatter.path}>
+              {prev.frontmatter.title}
+            </Link>}
+          {next &&
+            <Link className="link next" to={next.frontmatter.path}>
+              {next.frontmatter.title}
+            </Link>}
+
+
           <div className="col-10 mx-auto">
+            <h5 className="mb-5 text-right" style={{ fontSize:'0.85rem', color: 'white'}}><strong> Blog /</strong> {title}</h5>
             <h1 style={{ color: 'white', fontFamily: 'Pathway Gothic One, sans-serif', fontSize: '3rem'}}>
               {title}
             </h1>
-            <h5 className="mb-5" style={{ fontSize:'0.85rem', color: 'white'}}>Escrito por <strong>Carla Morrison</strong> el DATE </h5>
+            <h5 className="mb-5" style={{ fontSize:'0.85rem', color: 'white'}}>Written by <strong>Carla Morrison</strong> on {date}</h5>
             <img src={image} className="mb-5"/>
             {/*<p>{description}</p>*/}
             <PostContent content={content} />
@@ -50,7 +67,11 @@ export const BlogPostTemplate = ({
             ) : null}
           </div>
         </div>
-         <DiscussionEmbed shortname="carlamorrison" />
+        <div className="row my-3">
+          <div className="col-12 col-md-10 mx-auto">
+            <DiscussionEmbed shortname="carlamorrison" />
+          </div>
+        </div>
       </div>
     </section>
   )
@@ -77,6 +98,7 @@ const BlogPost = ({ data }) => {
       tags={post.frontmatter.tags}
       title={post.frontmatter.title}
       image={post.frontmatter.image}
+      date={post.frontmatter.date}
     />
   )
 }

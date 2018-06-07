@@ -5,10 +5,6 @@ date: 2018-02-18T15:04:10.000Z
 description: >-
   Hola todos :) El año pasado me encontré mucho esta limonada en particular en diferentes lugares a donde andaba de gira a tocar mis canciones de mi disco Amor Supremo. No se si a ustedes les pase pero yo amo la limonada!! pero este tipo de limonada es muy rica...
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
   - Mi vida sin azucar
 ---
 

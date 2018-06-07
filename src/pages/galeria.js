@@ -125,7 +125,6 @@ injectGlobal`
       margin-top: 0.5rem;
       margin-bottom: 0.25rem;
     }
-
   }
 
 `;
@@ -211,9 +210,10 @@ export default class GalleryPage2 extends React.Component {
   </ul>;
 
   render() {
+    
   return (
     <section id="galeria" className="header-push-down music-section">
-    <div className="container py-5 pb-10">
+    <div className="container pb-10">
       <div className="row">
 
         <div className="col">
@@ -228,7 +228,7 @@ export default class GalleryPage2 extends React.Component {
               fadeOutAnimation={true}
               ref={ el => this.Carousel = el }
             >
-              <div className="img-holder"><img className="img-fluid" src={cm02}/></div>
+              <div className=""><img className="img-fluid" src={cm02}/></div>
               <div className="img-holder"><img className="img-fluid" src={cm01}/></div>
               <div className="img-holder"><img className="img-fluid" src={cm03}/></div>
               <div className="img-holder"><img className="img-fluid" src={cm04}/></div>

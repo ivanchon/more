@@ -1,6 +1,64 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Content, { HTMLContent } from '../components/Content'
+import {injectGlobal} from 'styled-components'
+
+injectGlobal`
+
+.bio-h1 {
+
+    color: #f3f0f0;
+    font-family: Pathway Gothic One,sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 1rem;
+}
+
+.bio-heading {
+    color: #f3f0f0;
+    border: none;
+    font-family: 'Courgette', cursive;
+    font-size: 28px;
+    font-weight: 200;
+    margin-bottom: 30px;
+}
+
+.bio-container {
+    padding: 4rem;
+    padding-top: 2rem;
+    background-color: #fff;
+}
+
+.bio-btn {
+  background: #fff;
+  border: 2px solid #eed0d2;
+  color: #eed0d2!important;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: 1.25rem;
+  letter-spacing: 1px;
+  float: right;
+  margin-left: 15px;
+  padding: 3px 15px;
+  transition: 1s;
+
+  &:hover{
+    background-color: #eed0d2;
+    color: white;
+  }
+
+  a {
+    color: #eed0d2!important;
+
+    &:hover{
+      text-decoration: none;
+      color: white;
+    }
+
+  }
+}
+`
 
 export const BioPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
@@ -18,9 +76,13 @@ export const BioPageTemplate = ({ title, content, contentComponent }) => {
               <div className="bio-container mb-5">
                 <div className="row text-right pb-4">
                   <div className="col">
-                    <button type="button" className="btn btn-light bio-btn">
-                      <i className="fa fa-cloud-download"></i> Español</button>
-                    <button type="button" className="btn btn-light bio-btn">
+                    <button type="button" className=" bio-btn">
+                      <a  href="/Biografia_CM_en.pdf" target="_blank" >
+                        <i className="fa fa-cloud-download"></i> Español
+                      </a>
+                    </button>
+
+                    <button type="button" className="bio-btn">
                       <i className="fa fa-cloud-download"></i> English</button>
                   </div>
               </div>

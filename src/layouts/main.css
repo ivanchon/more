@@ -38,41 +38,6 @@ a.btn-ghost-primary, .btn-ghost-primary {
 }
 
 
-.bio-h1 {
-
-    color: #f3f0f0;
-    font-family: Pathway Gothic One,sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 1rem;
-}
-
-.bio-heading {
-    color: #f3f0f0;
-    border: none;
-    font-family: 'Courgette', cursive;
-    font-size: 28px;
-    font-weight: 200;
-    margin-bottom: 30px;
-}
-
-.bio-container {
-    padding: 4rem;
-    padding-top: 2rem;
-    background-color: #fff;
-}
-
-.bio-btn {
-  background: #fff;
-  border: 2px solid #eed0d2;
-  color: #eed0d2;
-  text-transform: uppercase;
-  font-family: 'Pathway Gothic One', sans-serif;
-  font-size: 20px;
-  letter-spacing: 1px;
-  float: right;
-  margin-left: 15px;
-}
 
 
 .h2-headers, .headers-h2, .h3-headers {
