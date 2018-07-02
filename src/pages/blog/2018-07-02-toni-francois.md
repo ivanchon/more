@@ -7,7 +7,7 @@ description: >-
   lugares reconocidos, al día siguiente me encontraba con fotos hermosas, de una
   chica...una chica que para mi gusto hace magia con su cuerpo, mente, emoción e
   inspiración y la traduce a su lente, su cámara y deja un gran recuerdo. 
-image: /img/chemex.jpg
+image: /img/toni-francois.png
 tags:
   - Mujeres Supremas
 ---
