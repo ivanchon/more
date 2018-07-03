@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 title: Lauren Singer
-date: 2017-12-11T12:04:58+01:00
+date: 2017-12-11T11:04:58.000Z
 description: >-
   Soy muy fan de los Ted Talks como ustedes lo saben y el otro día me encontré
   con esta maravillosa chica, me dejo impactada… su nombre es Lauren Singer, una
   chica joven de 25 años de edad, residente de Brooklyn Nueva York. 
-image: /img/alco-amor-supremo-d.jpg
+image: /img/lauren-singer.jpg
 tags:
   - Mujeres Supremas
 ---
