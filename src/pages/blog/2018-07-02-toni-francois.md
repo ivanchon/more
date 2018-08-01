@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Toni Francois
+title: Toni Francois fotografa
 date: 2018-07-02T20:14:49.623Z
 description: >-
   Cuando llegué a vivir a la Ciudad de México, y comencé a dar conciertos en
