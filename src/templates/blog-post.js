@@ -16,12 +16,12 @@ export const BlogPostTemplate = ({
   description,
   tags,
   title,
-  date,
+  //date,
   image,
   helmet,
-  next,
-  prev,
-  pathContext,
+  //next,
+  //prev,
+  //pathContext,
 }) => {
 
 
@@ -33,16 +33,6 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className="container content header-push-down blog-content pb-5">
         <div className="row">
-
-          {prev &&
-            <Link className="link prev" to={prev.frontmatter.path}>
-              {prev.frontmatter.title}
-            </Link>}
-          {next &&
-            <Link className="link next" to={next.frontmatter.path}>
-              {next.frontmatter.title}
-            </Link>}
-
 
           <div className="col-10 mx-auto">
             <h5 className="mb-5 text-right" style={{ fontSize:'0.85rem', color: 'white'}}><strong> Blog /</strong> {title}</h5>
@@ -98,7 +88,7 @@ const BlogPost = ({ data }) => {
       tags={post.frontmatter.tags}
       title={post.frontmatter.title}
       image={post.frontmatter.image}
-      date={post.frontmatter.date}
+      //date={post.frontmatter.date}
     />
   )
 }
