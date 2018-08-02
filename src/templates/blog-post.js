@@ -16,7 +16,7 @@ export const BlogPostTemplate = ({
   description,
   tags,
   title,
-  //date,
+  date,
   image,
   helmet,
   //next,
@@ -88,7 +88,7 @@ const BlogPost = ({ data }) => {
       tags={post.frontmatter.tags}
       title={post.frontmatter.title}
       image={post.frontmatter.image}
-      //date={post.frontmatter.date}
+      date={post.frontmatter.date}
     />
   )
 }
