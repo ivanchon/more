@@ -4,11 +4,6 @@ import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
-//import Disqus from '../components/Disqus'
-//import ReactDisqusThread from 'react-disqus-thread'
-import { DiscussionEmbed } from "disqus-react";
-
-
 
 export const BlogPostTemplate = ({
   content,
@@ -16,50 +11,35 @@ export const BlogPostTemplate = ({
   description,
   tags,
   title,
-  date,
   image,
   helmet,
-  //next,
-  //prev,
-  //pathContext,
 }) => {
-
-
-
   const PostContent = contentComponent || Content
-  //const { next, prev } = pathContext;
+
   return (
     <section className="section">
       {helmet || ''}
       <div className="container content header-push-down blog-content pb-5">
         <div className="row">
-
           <div className="col-10 mx-auto">
-            <h5 className="mb-5 text-right" style={{ fontSize:'0.85rem', color: 'white'}}><strong> Blog /</strong> {title}</h5>
-            <h1 style={{ color: 'white', fontFamily: 'Pathway Gothic One, sans-serif', fontSize: '3rem'}}>
+            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <h5 className="mb-5" style={{ fontSize:'0.85rem', color: 'white'}}>Written by <strong>Carla Morrison</strong> on {date}</h5>
-            <img src={image} className="mb-5"/>
+            <img src={image}/>
             {/*<p>{description}</p>*/}
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
-                <h5 style={{ color: 'white', fontSize: '0.85rem' }}><span><i className="fa fa-tags"></i></span> Tags</h5>
+                <h4>Tags</h4>
                 <ul className="taglist">
                   {tags.map(tag => (
                     <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}  style={{color: 'white', fontSize:'0.85rem', textDecoration:'none', textTransform:'uppercase', border: '1px solid white', borderRadius:'3px', padding:'3px 5px'}}>{tag}</Link>
+                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
                     </li>
                   ))}
                 </ul>
               </div>
             ) : null}
-          </div>
-        </div>
-        <div className="row my-3">
-          <div className="col-12 col-md-10 mx-auto">
-            <DiscussionEmbed shortname="carlamorrison" />
           </div>
         </div>
       </div>
@@ -88,7 +68,6 @@ const BlogPost = ({ data }) => {
       tags={post.frontmatter.tags}
       title={post.frontmatter.title}
       image={post.frontmatter.image}
-      date={post.frontmatter.date}
     />
   )
 }
