@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 title: Sin Despedir
-date: 2017-12-11T12:05:56+01:00
+date: 2017-12-11T11:05:56.000Z
 description: >-
   Tuve una amiga que tenía una relación de años.. y un día su pareja de años
   decidió terminar la relación por mensaje de texto.. obviamente fue horrible
   para ella y no podía con el dolor...
-image: /img/alco-amor-supremo.jpg
+image: ''
 tags:
   - Canciones Supremas
 ---
