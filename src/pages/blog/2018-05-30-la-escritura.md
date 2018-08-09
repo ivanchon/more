@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 title: La Escritura
-date: 2018-02-12T21:28:26+01:00
+date: 2018-02-12T20:28:26.000Z
 description: >-
   Desde chica me ha gustado la escritura, el darme a entender a través de las
   palabras, ya sea en cartas, diarios, poemas, etc. Para mi la escritura es de
   las cosas mas hermosas que existen...
-image: /img/alco-amor-supremo.jpg
+image: ''
 tags:
   - Conversaciones conmigo
 ---
