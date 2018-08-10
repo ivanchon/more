@@ -1,9 +1,11 @@
 ---
 templateKey: blog-post
 title: ¿Cómo me preparo para subir a un escenario?
-date: 2017-02-20T12:42:00+01:00
+date: 2017-02-20T11:42:00.000Z
 description: "El escenario para mi es una bendición.. atesoro mucho el poder estar ahí como parte de mi trabajo.\_Antes de salir de gira me preparo\_emocionalmente, mentalmente y físicamente.\_Tengo siempre en mente que lo que exponga allá arriba va a tener un impacto importante en su noche, vida, etapa, ya que algo va a ayudar a concluir, comenzar o trabajar dentro de su ser...\_"
 image: /img/captura-de-pantalla-2017-02-20-130340.png
+tags:
+  - Artista independiente
 ---
 Emocionalmente lo vivo todo allá arriba, aunque eso conlleve que me duela, que llore,y que por momentos regrese al pasado.. pues son mis historias y mi manera de cantarlas y contarlas hace que a más de una persona se le quiebré un poco de su pecho e interior.
 
