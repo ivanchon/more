@@ -37,7 +37,7 @@ const Footer = () => (
             <img src={calendar} alt="Youtube" />
           </span>
           <h4 className="title is-4">Newsletter</h4>
-          <a href="mailto:hola@carlamorrisonmusica.com">Subscribirme</a>
+          <Link to="/newsletter">Subscribirme</Link>
         </div>
         <div className="col">
           <span className="icon">

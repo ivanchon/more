@@ -18,68 +18,76 @@ injectGlobal`
   label {
     margin-bottom: 0;
   }
-}
-input {
-  position: absolute;
-  opacity: 0;
-  z-index: -1;
-}
-label {
-  position: relative;
-  display: block;
-  padding: 0 0 0 1em;
-  background: #f3f0f0;
-  font-weight: bold;
-  line-height: 3;
-  cursor: pointer;
-}
 
-.blue label {
-  background: #2980b9;
-}
-.tab-content {
-  max-height: 0;
+  input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
 
-  background: #f5f5f5;
-  -webkit-transition: max-height .35s;
-  -o-transition: max-height .35s;
-  transition: max-height .35s;
-}
-.blue .tab-content {
-  background: #3498db;
-}
-.tab-content p {
-  margin: 1em;
-}
-/* :checked */
-input:checked ~ .tab-content {
-  max-height: 40em;
-}
-/* Icon */
-label::after {
-  position: absolute;
-  right: 0;
-  top: 0;
-  display: block;
-  width: 3em;
-  height: 3em;
-  line-height: 3;
-  text-align: center;
-  -webkit-transition: all .35s;
-  -o-transition: all .35s;
-  transition: all .35s;
-}
-input[type=checkbox] + label::after {
-  content: "+";
-}
-input[type=radio] + label::after {
-  content: "x";
-}
-input[type=checkbox]:checked + label::after {
-  transform: rotate(315deg);
-}
-input[type=radio]:checked + label::after {
-  transform: rotateX(180deg);
+  label {
+    position: relative;
+    display: block;
+    padding: 0 0 0 1em;
+    background: #f3f0f0;
+    font-weight: bold;
+    line-height: 3;
+    cursor: pointer;
+  }
+
+
+
+
+
+
+  .blue label {
+    background: #2980b9;
+  }
+  .tab-content {
+    max-height: 0;
+
+    background: #f5f5f5;
+    -webkit-transition: max-height .35s;
+    -o-transition: max-height .35s;
+    transition: max-height .35s;
+  }
+  .blue .tab-content {
+    background: #3498db;
+  }
+  .tab-content p {
+    margin: 1em;
+  }
+  /* :checked */
+  input:checked ~ .tab-content {
+    max-height: 40em;
+  }
+  /* Icon */
+  label::after {
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+    width: 3em;
+    height: 3em;
+    line-height: 3;
+    text-align: center;
+    -webkit-transition: all .35s;
+    -o-transition: all .35s;
+    transition: all .35s;
+  }
+  input[type=checkbox] + label::after {
+    content: "+";
+  }
+  input[type=radio] + label::after {
+    content: "x";
+  }
+  input[type=checkbox]:checked + label::after {
+    transform: rotate(315deg);
+  }
+  input[type=radio]:checked + label::after {
+    transform: rotateX(180deg);
+  }
+
 }
 `;
 
