@@ -32,7 +32,7 @@ injectGlobal`
 .bio-btn {
   background: #fff;
   border: 2px solid #eed0d2;
-  color: #eed0d2!important;
+  color: #eed0d2;
   text-transform: uppercase;
   text-decoration: none;
   font-family: 'Pathway Gothic One', sans-serif;
@@ -49,7 +49,7 @@ injectGlobal`
   }
 
   a {
-    color: #eed0d2!important;
+    color: #eed0d2;
 
     &:hover{
       text-decoration: none;

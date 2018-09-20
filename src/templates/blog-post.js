@@ -4,6 +4,12 @@ import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
+import Disqus from '../components/Disqus'
+import { v4 } from 'uuid'
+
+import { DiscussionEmbed } from "disqus-react";
+
+var idcom = v4();
 
 export const BlogPostTemplate = ({
   content,
@@ -13,8 +19,11 @@ export const BlogPostTemplate = ({
   title,
   image,
   helmet,
+  templateKey,
 }) => {
   const PostContent = contentComponent || Content
+
+
 
   return (
     <section className="section">
@@ -22,10 +31,10 @@ export const BlogPostTemplate = ({
       <div className="container content header-push-down blog-content pb-5">
         <div className="row">
           <div className="col-10 mx-auto">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
+            <h1 className="title is-size-2 has-text-weight-bold is-bold-light" style={{color:'white', marginBottom:'2rem'}}>
+              {title} {templateKey}
             </h1>
-            <img src={image}/>
+            <img src={image} style={{marginBottom:'2rem'}}/>
             {/*<p>{description}</p>*/}
             <PostContent content={content} />
             {tags && tags.length ? (
@@ -40,6 +49,15 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
+          </div>
+
+        </div>
+        <div className="row">
+          <div className="col-10 mx-auto">
+            <DiscussionEmbed shortname={'carlamorrison'} config={{
+              identifier: {idcom},
+              title: {title},
+            }} />
           </div>
         </div>
       </div>

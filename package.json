@@ -27,6 +27,7 @@
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-cl-audio-player": "^2.1.1",
+    "react-disqus-thread": "^0.4.0",
     "react-helmet": "^5.2.0",
     "react-image-gallery": "^0.8.7",
     "reactstrap": "^6.0.1",

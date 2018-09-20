@@ -453,3 +453,16 @@ a.btn-ghost-secondary:hover,
   color: #FFF;
   border: 2px solid #FFF;
 }
+
+
+ul.taglist li a {
+  color: white;
+}
+
+.tags-result-li::after {
+    content:',';
+}
+
+.tags-result-li:lastchild:after {
+  content:'';
+}

@@ -67,8 +67,10 @@ export default class NewsletterPage extends React.Component {
                   <label for="exampleInputPassword1">Ciudad</label>
                   <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Indroducir Ciudad"/>
                 </div>
-                <button type="submit" className="btn btn-primary">Envíar</button>
+                <p>¡Suscríbete para poder conocer antes que nadie sobre las últimas noticias sobre conciertos, posts y eventos especiales, además de enterarte sobre promociones especiales y regalos exclusivos!</p>
+                <button type="submit" className="btn bio-btn" style={{border:'2px solid #eed0d2', borderRadius:'0px'}}><strong>Subscribirme</strong></button>
               </form>
+              
             </div>
           </div>
         </div>
