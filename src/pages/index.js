@@ -2,6 +2,8 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import { injectGlobal } from 'styled-components'
+import { DiscussionEmbed } from "disqus-react"
+
 
 injectGlobal`
   #blog .card-deck {
@@ -45,6 +47,16 @@ export default class IndexPage extends React.Component {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
 
+      
+      if ( this.props.location.pathname.indexOf('blog') >= 0 )
+      {
+        const disqusShortname = 'example';
+        const disqusConfig = {
+            url: this.props.article.url,
+            identifier: this.props.article.id,
+            title: this.props.article.title,
+        };
+      }
 
 
 
@@ -132,7 +144,7 @@ export default class IndexPage extends React.Component {
             <div className="row">
               <div className="column">
                 <h2 className="headers-h2">
-                  Musica
+                  Música
                 </h2>
                 <h3 className="h3-headers">Discos</h3>
               </div>
@@ -217,18 +229,34 @@ export default class IndexPage extends React.Component {
                   </h2>
                 </div>
               </div>
-              <div className="row">
+              <div className="row text-center row-store">
                 <div className="col-6 col-md-3">
-                  <img className="img-fluid" src={tieTee1} alt="Women's Invitation"  />
+                  <img className="img-fluid" src={tieTee1} alt="Articulo Tienda" />
+                  <h5 className="pt-3">Camiseta AS Desnudo</h5>
+                  <p>T-shirt Mujer<br/>
+                     $250.00</p>
+                  <button className="btn-ghost-secondary" href="https://www.kichink.com/buy/1587931/carla-morrison-oficial/playera-as-desnudo-mujer">Comprar Ahora</button>
                 </div>
                 <div className="col-6 col-md-3">
-                  <img className="img-fluid" src={tieTee2} alt="Women's Invitation"  />
+                  <img className="img-fluid" src={tieSwea} alt="Articulo Tienda" />
+                  <h5 className="pt-3">Sudadera AS Desnudo</h5>
+                  <p>Sudadera Unisex<br/>
+                     $600.00</p>
+                  <button className="btn-ghost-secondary" href="https://www.kichink.com/buy/1588863/carla-morrison-oficial/sudadera-as-desnudo-unisex">Comprar Ahora</button>
                 </div>
                 <div className="col-6 col-md-3">
-                  <img className="img-fluid" src={tieCup1} alt="Women's Invitation"  />
+                  <img className="img-fluid" src={tieCup1} alt="Articulo Tienda" />
+                  <h5 className="pt-3">Taza AS Desnudo</h5>
+                  <p>Taza<br/>
+                     $150.00</p>
+                  <button className="btn-ghost-secondary" href="https://www.kichink.com/buy/1580309/carla-morrison-oficial/taza-as-desnudo">Comprar Ahora</button>
                 </div>
                 <div className="col-6 col-md-3">
-                  <img className="img-fluid"  src={tieSwea} alt="Women's Invitation"  />
+                  <img className="img-fluid" src={tieTee2} alt="Articulo Tienda" />
+                  <h5 className="pt-3">Camiseta B&N</h5>
+                  <p>Camiseta Mujer<br/>
+                     $250.00</p>
+                  <button className="btn-ghost-secondary" href="https://www.kichink.com/buy/1195360/carla-morrison-oficial/t-shirt-bn-mujer">Comprar Ahora</button>
                 </div>
               </div>
               <div className="row pt-5">

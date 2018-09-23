@@ -147,7 +147,245 @@ testimonials:
       Siento que es un mensaje que estás llevando a la gente y es importante que lo que envías sea propositivo y tenga algo para retroalimentarte, cuestionarte y saber en qué estás. Es importante tener un mensaje claro.         
   - author: El Comercio
     quote: >-
-      Muchas mujeres cantautoras latinas han destacado en los últimos años, ¿A qué crees que se deba?                   
+      Muchas mujeres cantautoras latinas han destacado en los últimos años, ¿A qué crees que se deba?        
     answer: >-
-      Sucede que las mujeres han querido expresar sus sentimientos y pesares durante años. En América Latina hay muchísimo talento y el empoderamiento del género femenino ha sido una puerta que ha abierto las posibilidades en muchos ámbitos. Las mujeres ahora podemos dominar cualquier arte y cualquier trabajo. Estoy segura de que seguirán saliendo muchas más.                
+      Sucede que las mujeres han querido expresar sus sentimientos y pesares durante años. En América Latina hay muchísimo talento y el empoderamiento del género femenino ha sido una puerta que ha abierto las posibilidades en muchos ámbitos. Las mujeres ahora podemos dominar cualquier arte y cualquier trabajo. Estoy segura de que seguirán saliendo muchas más.   
+
+  - author: El País
+    quote: >-
+      ¿Cuál es su rutina diaria para componer?             
+    answer: >-
+      No tengo rutina para componer... la composición viene a mí naturalmente, cuando me hago una rutina de espacio y silencio... cuando me doy tiempo para conocer cosas nuevas, escuchar cosas nuevas, meditar, observar, viajar y observar el camino... cuando me doy tiempo para estar conmigo misma y escucharme, es cuando la melodía y la poesía nacen.
+
+  - author: El País
+    quote: >-
+      ¿Qué personaje musical se asemeja a usted?             
+    answer: >-
+      Admiro mucho y me identifico mucho con Morrissey... Es un hombre triste, eternal hopless romantic, melancólico, guapo y solitario... Mucho de eso, es como soy yo.  
+
+  - author: El País
+    quote: >-
+      ¿Qué disco le cambió la vida?            
+    answer: >-
+      La banda sonora de Amelie, por Yan Tiersen.
+       
+  - author: El País
+    quote: >-
+      ¿Con quién le gustaría sentarse en una fiesta?            
+    answer: >-
+      Con Chris Hadfield, un astronauta que admiro ¡un buen!
+       
+  - author: El País
+    quote: >-
+      Respecto a su trabajo, ¿de qué está más orgullosa?      
+    answer: >-
+      La conciencia que he creado alrededor de lo crudo y real que es el sufrimiento por el amor a una persona mágica, que la gente se sienta consciente de que existe, duele y también se disfruta.   
+          
+  - author: El País
+    quote: >-
+      ¿Cuándo fue más feliz? 
+    answer: >-
+      Cuando meditaba a diario… Lo he dejado un poco por tanto trabajo, pero mi idea es siempre tenerlo en mi vida.    
+           
+  - author: El País
+    quote: >-
+      ¿Cuándo fue más feliz? 
+    answer: >-
+      Cuando meditaba a diario… Lo he dejado un poco por tanto trabajo, pero mi idea es siempre tenerlo en mi vida.   
+           
+  - author: El País
+    quote: >-
+      ¿Con quién le gustaría quedar atrapada en un ascensor? 
+    answer: >-
+      Con Ryan Adams, para preguntarle muchas cosas sobre 1989.
+            
+  - author: El País
+    quote: >-
+      ¿Qué espacio de su casa es su favorito? 
+    answer: >-
+      La sala de mi casa, porque tiene un balcón que da hacia un árbol enorme que me recuerda el milagro de la vida siempre que lo veo con tranquilidad.  
+                
+  - author: El País
+    quote: >-
+      ¿A qué edad se dio cuenta de que quería ser músico?  
+    answer: >-
+      A los dos años.
+                  
+  - author: El País
+    quote: >-
+      ¿Qué es un buen fin de semana?   
+    answer: >-
+      Acampar, o andar en bicicleta, o sacar a mis perritos a pasear; o estar frente al mar con música y mi moreno guapo.
+                  
+  - author: El País
+    quote: >-
+      ¿Primera borrachera?  
+    answer: >-
+      A los 14 años en un antro en Tijuana, me emborraché con cinco tragos de Sex on The Beach y luego solo recuerdo estar vomitando en la carretera. Luego recuerdo estar cantando Infinito de Bunbury y gritando fuera de la casa del chico que me gustaba, diciendo que lo amaba.
+               
+  - author: El País
+    quote: >-
+      En una fiesta de disfraces, ¿de qué se disfrazaría?  
+    answer: >-
+      De Stormtrooper [soldado de tropa de asalto de Star Wars].
+
+  - author: Garuyo
+    quote: >-
+      ¿Cuál ha sido tu fórmula de trabajo para llegar a donde estás?  
+    answer: >-
+      No sé bien qué es lo que he hecho para llegar a otros escenarios, por ejemplo: lo de Coachella es algo que no lo esperaba para nada en mi proyecto, no porque no lo merezca, sino porque todavía estoy comenzando y sigo haciendo camino. Las cosas pasan y como que no sé bien cómo llegué a ello. En realidad soy muy movida y las mujeres que estamos en la escena actual somos fuertes, determinadas y. No creo que haya hecho algo distinto a las demás, solo que cada quien vive su momento.
+
+  - author: Indie Rocks
+    quote: >-
+      ¿Y qué hay del dolor?  
+    answer: >-
+      "Creo que sufrir es una parte vital del ser humano, si no sufres no creces, la vida es muy sabia y te pone en el lugar correcto para sufrir y para crecer, entonces creo que el llorar, el pasarla mal te hace distinguir de cuando estás bien. Si siento que el dolor es un área de oportunidad en tu vida, es como, se va a escuchar algo vulgar, pero es como cuando a una chica le comienzan a crecen los pechos, duelen pero son preciosos”, aseguró.
+
+  - author: Indie Rocks
+    quote: >-
+      Amor Supremo será un disco que significará mucho para la carrera musical de Carla Morrison, contrario a lo que seguramente las personas esperan escuchar de él, este álbum será muy diferente a su antecesor.   
+    answer: >-
+      "El disco no es que venga obscuro, aunque no creo que la obscuridad sea algo negativo, sólo creo que todos tenemos un lado más serio y un lado como con otro tipo de deseos. En este disco quiero mostrar una parte mía más carnal y de más mujer. Definitivamente es un disco mucho más atmosférico, lleno de sintetizadores; no hay guitarras, tal vez sólo dos en algunos arreglos. Tiene muchos detalles, probablemente sea un disco que sí sane porque es triste, pero aparte es mucho de aceptación. Siempre que lo escucho me gusta que sea en la noche, te trae muchos paisajes, si piensas en un mar, piensas en un mar frío, si piensas en un bosque, será un bosque lluvioso, es muy interno. Hay muchas cosas pasando en él, no sé si el tequila sea un buen acompañante de este disco como del anterior, probablemente ahora sean las drogas y eso que no hubo drogas incluidas en su proceso", comentó entre risas.
+
+  - author: Me Hace Ruido
+    quote: >-
+      Entre tus temas hay un cover de Ramón Ayala, ¿muy fan?    
+    answer: >-
+      (Risas) Lo que pasa es que yo crecí con la música de Ramón Ayala, por mi padre, y esa canción siempre ha sido una de mis favoritas, me hace sentir súper sensible y como tenía poco de haber participado en un evento americano donde me habían pedido cantar una canción en español, pensé: “Tragos de amargo licor” y como me encantó como la saqué, me propuse grabarla para el EP. Ramón tiene unas letras que lo “quebran” a uno, dímelo a mí que los tequilas le sabían ricos a mi papá.
+
+  - author: Noisey
+    quote: >-
+      Tu música es apasionada, latina, íntima y tus fans parece que también lo son ¿Te sientes representativa de esa mujer latina que vive a través de la nostalgia y el amor?     
+    answer: >-
+      Pues, podría ser. Yo más que nada busco ser la voz de la gente que no tiene cómo expresar sus sentimientos. A veces tenemos tantas emociones que no sabemos cómo ponerlas en papel. Me gusta poder decir lo que muchos no logran formular y que también es muy juzgado porque sientes. Te hacen sentir looser por sentir y eso no es cierto. Tú expresas siempre precisamente porque estás vivo. A mí me parece bonito que mucha gente se sienta representada o identificada, personas desde otros países hasta el mío. Creo que tiene que ver con esta obsesión que tengo de hablar de las cosas que sentimos de una manera simple y fácil;porque, al final del día, no todos somos genios o eruditos, no estamos ahí haciendo todo perfecto. Hay veces en que te sientes mal y lo dices con las palabras más simples y ya.
+
+  - author: Noisey
+    quote: >-
+      Ganaste dos Grammys y ahora estás nominada para dos más ¿Haber pasado por esa experiencia, te da un poco más de hambre por ganarlos ahora?      
+    answer: >-
+      No, fíjate que no. Definitivamente los premios son reconocimientos y yo siento que al final eso no me define. Si me dan un reconocimiento es porque estoy haciendo algo bien. Si no me reconocen, no pasa nada, porque yo estoy dando lo mejor de mí. Aparte, cada disco para mí es nuevo y es una nueva etapa; es volver a trabajar duro, entonces me da mucha emoción que esté nominado, porque esta es otra historia. Además hay otras bandas nominadas que también están padres. Siento que esto es una celebración musical más que una competencia.
+
+  - author: Noisey
+    quote: >-
+      ¿Qué pasa cuando te das cuenta que contigo están siendo duros, pero con un rapero promedio no? ¿Es difícil ser mujer en la música?      
+    answer: >-
+      Si, definitivamente es difícil. Pero cuando no juzgan a un hombre y me juzgan a mí, honestamente me importa muy poco. Aunque sí veo la diferencia, me importa poco: en el sentido que no estoy preocupada sintiéndome la mártir por la vida. No trato de engancharme en eso. Yo vengo del norte de México, donde las mujeres nos enseñamos a nosotras mismas a no prestar atención y ser fuertes. Por ese lado, no me engancho. Ahora, sí es difícil ser mujer en la industria de la música, porque siempre te están poniendo trabas, te comparan con otros artistas, otras chicas. Te ponen en contra de gente y eso no tiene sentido. Es difícil, pero es tan difícil como tú quieres que sea. Porque siempre puedes pasar de largo. Seguir haciendo tu trabajo. Hay público que te va a apoyar y en eso te tienes que enfocar.
+
+  - author: Noisey
+    quote: >-
+      Y si esta entrevista la leyesen músicas jóvenes, novísimas…       
+    answer: >-
+      Yo diría que si quieren que las respeten, ahorita, tienes que actuar como hombre, no como hombre-hombre, sino que piensa: al hombre no le importa que lo critiquen, al hombre le celebran. Actúa como él y vas a recibir lo que él recibe. O sea, a lo que me refiero, es que no puedes esperar nada. La gente está condicionada y si tú te pones como: "Ah, soy mujer" y te pones como mártir, te van a tratar como mártir. Tienes que pasar de largo y no dejar que esas cosas invadan tu camino. Eso es lo que yo he hecho. Cuando a mí me dicen: "¿Por qué eres taaaan dramática? ¿A poco te va taaaaan mal en el amor?" ¡Y es que yo lo hago porque puedo güey! Olvídalo ¡What the fuck! No me importa. No les des importancia, pasa de largo. Si te enganchas, no avanzas. Lucha por tus sueños y que no te importe si eres mujer, hombre, chiquita, grande, lo que sea. Tú sigue por tus sueños porque solo así podrás decir quién eres y que la gente preste atención. Todo lo otro te distrae.
+
+
+  - author: Noisey
+    quote: >-
+      En una entrevista leí que defendías el cuerpo real de la mujer ¿Cual es el lugar de ese concepto dentro de tu propuesta?       
+    answer: >-
+      No es que yo diga "Ah, las mujeres somos llenitas". Las mujeres somos las mujeres y ya. Tenemos todo tipo de figuras. Un cuerpo real es un cuerpo distinto, diverso. Todas tenemos nuestro empaque y lo celebro con mi proyecto. No tengo por qué limitarme por ser sensual o ser sexual, ser aventada, ser amorosa o ser vale-verga. A mi no me importa nada de eso. Yo puedo ser quién yo quiera. Y trato de mostrarlo con mi música, con los mensajes que doy en mis shows, cómo me tomo mis fotos, cómo las posteo y las cosas que digo en las entrevistas. Todo, todo lo que yo quiera hacer, lo hago sin ninguna etiqueta en mi cabeza. Pensando "Ah que yo soy gordita y no puedo decir eso" No. No ¡Fuck it! Yo soy sexual, tengo mis necesidades ¡Y qué me importa! ¿Sabes? Eso es lo importante: el llevar eso con todos tus amigos, tu equipo,tu familia y yo, con mi equipo, sí lo hago. Si vas a vivir con las ideas y las apariencias de la historia de alguien más olvídalo, no tienes vida.
+
+
+  - author: Playboy México
+    quote: >-
+      ¿Por fin te ganaste el derecho a llorar?       
+    answer: >-
+      Ese derecho lo tenía desde hace mucho, pero creo que por fin la gente entendió a lo que me refería con el título. Y no sólo hablaba de mí, sino de todos. Llorar es algo que está prohibido en Latinoamérica y no debería ser así porque el llanto es una necesidad del alma. Llorar no debería ser juzgado, ni señalado, sino disfrutado.  
+    
+  - author: Playboy México
+    quote: >-
+      ¿Qué te hace llorar en este país?        
+    answer: >-
+      Muchas cosas, pero no sólo lloro de tristeza y decepción, también de felicidad. México es un país muy adolescente, a veces no nos tomamos en serio porque todo se nos va en hacer bromas. Creo que eso es bueno, darle al mal tiempo buena cara, aunque también hace falta ponernos las pilas porque luego las cosas no funcionan. ¡Hay muchas cosas en la política que no están funcionando! Pero la gente tiene fe y gracias a Dios, con lo que he podido viajar, me doy cuenta de que como México no hay dos. Así como estamos de jodidos, estamos también de motivados.
+    
+  - author: Playboy México
+    quote: >-
+      Con todo y tus canciones acústicas que hablan de amor, estás vetada en la televisión por haber apoyado al movimiento #YoSoy132. ¿No se supone que eso debería ser algo reservado al rock estridente más contestatario?         
+    answer: >-
+      Algo tiene mi música, porque les duele. Es irónico como dices, pero la verdad siempre sale a flote. A lo mejor intimida más un “te quiero” que un “te odio”. Al final, a lo bueno siempre le va bien. Soy feliz con que la gente a la que le gusta mi música esté en contacto conmigo, prefiero eso que salir en la tele. No me motiva ser la más famosa. Sólo quiero que después de escucharme, algo cambie en la gente y, en consecuencia, cambie su mundo. Lo punk no se lleva en la ropa, sino en lo que piensas y en lo claros que sean tus principios.
+
+  - author: Playboy México
+    quote: >-
+      A muchos no nos gusta oír nuestra propia voz en una grabadora, ¿qué sentiste la primera vez que te escuchaste?          
+    answer: >-
+      ¡Me gustó! Nunca he estado peleada con mi voz. Me saca más de onda escucharme hablando, ahí sí digo ¡qué raro hablo!
+
+  - author: Playboy México
+    quote: >-
+      ¿Escuchas muy seguido tus discos?          
+    answer: >-
+      Sí, pero no porque diga “qué increíble soy”. Lo hago para criticarme y decir “hice esto así, pude haber hecho esto otro”. Otra veces me pregunto: “¿y ahora cómo canto eso mismo en el show?”. Me escucho para retroalimentarme y reconstruirme. Sé que a muchos músicos no les gusta oírse a ellos mismos y tal vez parezco petulante, pero a mí sí me gusta.
+
+
+  - author: Playboy México
+    quote: >-
+      El hecho de que escuches tus discos suena muy terapéutico ¿no lo complementas con la terapia formal?       
+    answer: >-
+      Sí, voy a terapia cada semana. Muchas personas ven al psicólogo como algo sólo para locos, pero a mí la terapia me ayuda a entender las cosas a las que suelo darles muchas vueltas. Para mí la vida es abrumadora,no la entiendo. No es que necesite respuestas, sólo entendimiento, ¿por qué siento lo que siento? Quiero saber si es normal lo que veo, lo que sueño y sobre todo perdonarme, porque tengo estándares muy altos para mí. Soy muy dura conmigo misma.
+
+
+  - author: Playboy México
+    quote: >-
+      ¿Te han roto el corazón?        
+    answer: >-
+      Sí, pero no necesariamente de manera amorosa. Así sólo han sido una o dos veces. Pero me rompe el corazón que la gente que yo creía que era de cierta forma salga con sus mañas y me decepcione. Cuando era niña y me dijeron que existía la mentira, yo no lo podía creer. “¿Cómo que la gente miente?”, le pregunté a mi mamá. Yo lloraba porque no entendía que la gente pudiera mentir. Eso me rompió el corazón.
+
+
+  - author: Playboy México
+    quote: >-
+      Tanto que hasta canciones supuestamente felices como “Compartir” suenan tristes cuando las cantas.         
+    answer: >-
+      (Risas) Sí, tengo ese poder. Siempre me pasa, porque mi voz es muy dolorosa. Tiene que ver con que, cuando estaba chiquita, mi mamá solía cantar en la cocina. Lo hacía con mucha tristeza, pero con un sentimiento muy lindo. Yo quería cantar como ella. Transmitía tanta enjundia que yo me quedaba así de “¡guauu!”. Me gustaba tanto que sin querer lo adopté. Me lo han dicho muchas personas: “Contigo todo suena doloroso y desgarrador.”
+
+  - author: Playboy México
+    quote: >-
+      Por mucho tiempo fuiste sinónimo de independencia musical, ¿entre más alto llegas, menos necesitas de una disquera?          
+    answer: >-
+      No es que sea una rebelde sin causa, pero he disfrutado más este camino haciéndolo a mi modo. Ha sido duro,pesado, pero lo que he recibido a cambio ha sido muy padre. No es que no necesite a una disquera, es que opté por no necesitarla. Tampoco es que peque de arrogante. Uno crece viendo la tele y pensando “¡qué chido que mi mamá me viera ahí!”, pero llega un punto en el que resulta mucho más chido trabajar con gente que ve a la música como yo. Eso es mucho más importante.
+
+
+  - author: Playboy México
+    quote: >-
+      Tu papá emigró muy joven a Estados Unidos, ¿cuál es tu relación con ese país?          
+    answer: >-
+      Me gusta, todos los días hablo en inglés y en español. No lo hago porque haya vivido seis años allá, sino por el tiempo que viví en la frontera, en la parte mexicana. Todo estaba permeado de ese ambiente y en consecuencia, hoy tengo una relación bonita con Estados Unidos. Hubo un tiempo en el que no me gustaba nada ese país, pero estando lejos ‒en el df‒ entiendes mejor las cosas. ¡Qué triste que sea un país sin cultura y sin raíces! Los gringos están en el viento y nunca tocan tierra. Además, le dan mucha importancia a lo que no es importante. Aunque, también hay que verlos, ellos le dan un lugar a lo que en otros lugares no se lo damos. Por eso es complicado hacer un juicio. Hay que reconocer que es un país que le ha dado mucho a México y al mundo. Me gusta, pero no sé si viviría allá otra vez o si grabaría un disco de aquel lado. Al final, los gringos me caen bien, me gusta que sean personas tan libres.
+
+
+  - author: Playboy México
+    quote: >-
+      Hubo un tiempo en el que decían que los hombres no debíamos llorar, pero en tus conciertos los chicos sí lloran.           
+    answer: >-
+      ¡Síííí, muchísimo! Veo a muchos hombres llorar en mis conciertos. Desde hombres muy hipsters hasta los muy machos, bigotones y con sombrero. Verlos llorar me da gusto, me llena de esperanza, ¡qué bonito que se dejen ser!
+
+  - author: Playboy México
+    quote: >-
+      ¿Cómo se ve Tecate a la distancia?            
+    answer: >-
+      Bien chiquita e inocente, muy como yo. A diario hago cosas muy tecatenses. Mi ciudad es un ranchito, y no lo digo de manera despectiva, porque los ranchos son muy bonitos.
+
+
+  - author: Playboy México
+    quote: >-
+      ¿Cuáles son esas cosas tecatenses de las que hablas?             
+    answer: >-
+      Soy muy norteña y tengo ideas tan rancheras que luego pienso: “¡Aaahh, conmigo!”. Por ejemplo, a veces soy demasiado agradecida. A todo digo “¡qué padre!” y hasta la gente me dice: “Ay, Carla, pero eso tenía que pasar de cualquier forma”. No me importa, yo quiero dar las gracias. En Tecate la gente es muy feliz, muy soñadora y muy agradecida.
+
+  - author: Playboy México
+    quote: >-
+      ¿Eres vanidosa?              
+    answer: >-
+      Vanidosa no, porque la vanidad cae en lo banal y no creo que cuidarme, quererme y verme bien, sea banal. Soy norteña y las norteñas no vamos ni al Oxxo sin un poco de lipstick. Me gusta verme bien, ponerme bonitos zapatos, pero tampoco pretendo ser la más guapa del barrio.
+
+
+  - author: Playboy México
+    quote: >-
+      ¿Te dolieron los comentarios negativos sobre tu físico?               
+    answer: >-
+      No, porque al final soy como soy. ¿Qué hago con mi culo enorme? (Risas). Pues nada. ¡Lo disfruto y ya! ¿Me lo corto o qué? (Risas).
+      
+  - author: Playboy México
+    quote: >-
+      ¿Cómo es tu proceso de escribir canciones?           
+    answer: >-
+      Realmente espero a que me lleguen. No las trato de forzar porque siento que es mejor esperar… Es como cuando estás viviendo tu vida diaria y de la nada te peleas con tu mamá o te peleas con tu novio, tu novia, y pasa – no es algo que estás planeando, simplemente pasa. Entonces es más o menos lo mismo con mis canciones. Dejo que solitas nazcan, que solitas salgan a flote y que no sean forzadas y no me siento y digo “ok, hoy vamos a escribir una canción”. No.      
+
 ---

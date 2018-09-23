@@ -4,12 +4,15 @@ import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
-import Disqus from '../components/Disqus'
-import { v4 } from 'uuid'
+//import Disqus from '../components/Disqus'
+//import Disqus from '../components/DisqusCustom'
+//import { v4 } from 'uuid'
+//import { config } from '../../config.toml'
 
 import { DiscussionEmbed } from "disqus-react";
+import { disqusConfig } from  "../layouts/index.js"
 
-var idcom = v4();
+//var idcom = v4();
 
 export const BlogPostTemplate = ({
   content,
@@ -20,6 +23,7 @@ export const BlogPostTemplate = ({
   image,
   helmet,
   templateKey,
+
 }) => {
   const PostContent = contentComponent || Content
 
@@ -28,6 +32,7 @@ export const BlogPostTemplate = ({
   return (
     <section className="section">
       {helmet || ''}
+ 
       <div className="container content header-push-down blog-content pb-5">
         <div className="row">
           <div className="col-10 mx-auto">
@@ -54,10 +59,8 @@ export const BlogPostTemplate = ({
         </div>
         <div className="row">
           <div className="col-10 mx-auto">
-            <DiscussionEmbed shortname={'carlamorrison'} config={{
-              identifier: {idcom},
-              title: {title},
-            }} />
+          <DiscussionEmbed shortname={'carlamorrison'} config={disqusConfig} />
+
           </div>
         </div>
       </div>

@@ -432,6 +432,7 @@ a.btn-ghost-secondary,
   font-size: 14px;
   letter-spacing: 2px;
   padding: 5px;
+  transition: 1s;
   /*-webkit-box-shadow: inset 0 0 0 0 #101113;
   -moz-box-shadow: inset 0 0 0 0 #101113;
   box-shadow: inset 0 0 0 0 #101113;*/
@@ -452,6 +453,7 @@ a.btn-ghost-secondary:hover,
   box-shadow: inset 0 100px 0 0 #eed0d2;
   color: #FFF;
   border: 2px solid #FFF;
+  transition: 1s;
 }
 
 
@@ -465,4 +467,11 @@ ul.taglist li a {
 
 .tags-result-li:lastchild:after {
   content:'';
+}
+
+
+/* home tienda */
+
+.row-store h5, .row-store p { 
+    color: white;
 }

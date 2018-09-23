@@ -1,4 +1,6 @@
 import React from 'react'
+import PropTypes from 'prop-types'
+
 
 export default class Disqus extends React.Component {
   constructor (props) {
@@ -10,6 +12,7 @@ export default class Disqus extends React.Component {
     this.setState(nextProps)
   }
 
+  shortname = "carlamorrison" 
   componentWillMount () {
     if (typeof window != 'undefined' && window.document) {
       const component = this
@@ -42,7 +45,7 @@ Disqus.propTypes = {
    * which is the unique identifier for your website as registered
    * on Disqus. If undefined , the Disqus embed will not load.
    */
-  shortname: React.PropTypes.string.isRequired,
+  shortname: PropTypes.string.isRequired,
 
   /**
    * `identifier` tells the Disqus service how to identify the
@@ -53,7 +56,7 @@ Disqus.propTypes = {
    * domains, so we recommend using your own unique way of
    * identifying a thread.
    */
-  identifier: React.PropTypes.string,
+  identifier: PropTypes.string,
 
   /**
    * `title` tells the Disqus service the title of the current page.
@@ -61,7 +64,7 @@ Disqus.propTypes = {
    * If undefined, Disqus will use the <title> attribute of the page.
    * If that attribute could not be used, Disqus will use the URL of the page.
    */
-  title: React.PropTypes.string,
+  title: PropTypes.string,
 
   /**
    * `url` tells the Disqus service the URL of the current page.
@@ -70,19 +73,19 @@ Disqus.propTypes = {
    * is undefined. In addition, this URL is always saved when a thread is
    * being created so that Disqus knows what page a thread belongs to.
    */
-  url: React.PropTypes.string,
+  url: PropTypes.string,
 
   /**
    * `category_id` tells the Disqus service the category to be used for
    * the current page. This is used when creating the thread on Disqus
    * for the first time.
    */
-  category_id: React.PropTypes.string,
+  category_id: PropTypes.string,
 
   /**
    * `onNewComment` function accepts one parameter `comment` which is a
    * JavaScript object with comment `id` and `text`. This allows you to track
    * user comments and replies and run a script after a comment is posted.
    */
-  onNewComment: React.PropTypes.func
+  onNewComment: PropTypes.func
 }

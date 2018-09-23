@@ -17,6 +17,26 @@ import cm07 from '../img/gallery/CM7.jpg'
 import cm08 from '../img/gallery/CM8.jpg'
 import cm09 from '../img/gallery/CM9.jpg'
 import cm10 from '../img/gallery/CM10.jpg'
+import cm11 from '../img/gallery/CM11.jpg'
+import cm12 from '../img/gallery/CM12.jpg'
+import cm13 from '../img/gallery/CM13.jpg'
+import cm14 from '../img/gallery/CM14.jpg'
+import cm15 from '../img/gallery/CM15.jpg'
+import cm16 from '../img/gallery/CM16.jpg'
+import cm17 from '../img/gallery/CM17.jpg'
+import cm18 from '../img/gallery/CM18.jpg'
+import cm19 from '../img/gallery/CM19.jpg'
+import cm20 from '../img/gallery/CM20.jpg'
+import cm21 from '../img/gallery/CM21.jpg'
+import cm22 from '../img/gallery/CM22.jpg'
+import cm23 from '../img/gallery/CM23.jpg'
+import cm24 from '../img/gallery/CM24.jpg'
+import cm25 from '../img/gallery/CM25.jpg'
+import cm26 from '../img/gallery/CM26.jpg'
+import cm27 from '../img/gallery/CM27.jpg'
+import cm28 from '../img/gallery/CM28.jpg'
+import cm29 from '../img/gallery/CM29.jpg'
+import cm30 from '../img/gallery/CM30.jpg'
 
 //wallpapers-thumbs
 import thd1 from '../img/wallpapers/thumbD_01.png'
@@ -66,7 +86,7 @@ injectGlobal`
 
   .alice-carousel__wrapper{
     max-height: 730px;
-    border: none;
+    border: solid 1px rgba(70, 87, 152, .0);
 
     @media (min-width: 992px) and (max-width: 1200px) {
       max-height: 618px;
@@ -204,7 +224,7 @@ export default class GalleryPage2 extends React.Component {
   renderThumbs = () =>
   <ul className="carousel__thumbs">
     {
-      [cm02,cm01,cm03,cm04,cm05,cm06,cm07,cm08,cm09,cm10].map((item, i) =>
+      [cm02,cm01,cm03,cm04,cm05,cm06,cm07,cm08,cm09,cm10,cm11,cm12,cm13,cm14,cm15,cm16,cm17,cm18,cm19,cm20].map((item, i) =>
         <li key={i} onClick={() => this.Carousel._onDotClick(i)}><img src={item} className="" /></li>)
     }
   </ul>;
@@ -238,6 +258,16 @@ export default class GalleryPage2 extends React.Component {
               <div className="img-holder"><img className="img-fluid" src={cm08}/></div>
               <div className="img-holder"><img className="img-fluid" src={cm09}/></div>
               <div className="img-holder"><img className="img-fluid" src={cm10}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm11}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm12}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm13}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm14}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm15}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm16}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm17}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm18}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm19}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm20}/></div>
             </AliceCarousel>
             {/*<h3>Navigation</h3>
             <button onClick={() => this.Carousel._slidePrev()}>Prev button</button>
