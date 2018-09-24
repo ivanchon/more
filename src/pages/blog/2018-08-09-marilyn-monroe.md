@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Marilyn Monroe
-date: 2018-08-09T11:26:59.976Z
+date: 2017-12-11T13:26:59+01:00
 description: >-
   Marylin siempre me intrigó… me parecía una mujer tan hermosa que no podía
   dejar de verla..
