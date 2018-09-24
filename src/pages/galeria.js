@@ -37,6 +37,27 @@ import cm27 from '../img/gallery/CM27.jpg'
 import cm28 from '../img/gallery/CM28.jpg'
 import cm29 from '../img/gallery/CM29.jpg'
 import cm30 from '../img/gallery/CM30.jpg'
+import cm31 from '../img/gallery/CM31.jpg'
+import cm32 from '../img/gallery/CM32.jpg'
+import cm33 from '../img/gallery/CM33.jpg'
+import cm34 from '../img/gallery/CM34.jpg'
+import cm35 from '../img/gallery/CM35.jpg'
+import cm36 from '../img/gallery/CM36.jpg'
+import cm37 from '../img/gallery/CM37.jpg'
+import cm38 from '../img/gallery/CM38.jpg'
+import cm39 from '../img/gallery/CM39.jpg'
+import cm40 from '../img/gallery/CM40.jpg'
+import cm41 from '../img/gallery/CM41.jpg'
+import cm42 from '../img/gallery/CM42.jpg'
+import cm43 from '../img/gallery/CM43.jpg'
+import cm44 from '../img/gallery/CM44.jpg'
+import cm45 from '../img/gallery/CM45.jpg'
+import cm46 from '../img/gallery/CM46.jpg'
+import cm47 from '../img/gallery/CM47.jpg'
+import cm48 from '../img/gallery/CM48.jpg'
+import cm49 from '../img/gallery/CM49.jpg'
+import cm50 from '../img/gallery/CM50.jpg'
+
 
 //wallpapers-thumbs
 import thd1 from '../img/wallpapers/thumbD_01.png'
@@ -224,7 +245,7 @@ export default class GalleryPage2 extends React.Component {
   renderThumbs = () =>
   <ul className="carousel__thumbs">
     {
-      [cm02,cm01,cm03,cm04,cm05,cm06,cm07,cm08,cm09,cm10,cm11,cm12,cm13,cm14,cm15,cm16,cm17,cm18,cm19,cm20].map((item, i) =>
+      [cm02,cm01,cm03,cm04,cm05,cm06,cm07,cm08,cm09,cm10,cm11,cm12,cm13,cm14,cm15,cm16,cm17,cm18,cm19,cm20,cm21,cm22,cm23,cm24,cm25,cm26,cm27,cm28,cm29,cm30,cm31,cm32,cm33,cm34,cm35,cm36,cm37,cm38,cm39,cm40,cm41,cm42,cm43,cm44,cm45,cm46,cm47,cm48,cm49,cm50].map((item, i) =>
         <li key={i} onClick={() => this.Carousel._onDotClick(i)}><img src={item} className="" /></li>)
     }
   </ul>;
