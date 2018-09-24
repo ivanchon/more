@@ -38,8 +38,6 @@ import tieTee2 from '../img/tienda-tee2.gif'
 import tieCup1 from '../img/tienda-cup.gif'
 import tieSwea from '../img/tienda-sweat.gif'
 
-import amsd from '../img/alco-amor-supremo-d.jpg'
-
 
 export default class IndexPage extends React.Component {
 
@@ -235,41 +233,39 @@ export default class IndexPage extends React.Component {
                   <h5 className="pt-3">Camiseta AS Desnudo</h5>
                   <p>T-shirt Mujer<br/>
                      $250.00</p>
-                  <a className="btn-ghost-secondary" href="https://www.kichink.com/buy/1587931/carla-morrison-oficial/playera-as-desnudo-mujer">Comprar Ahora</a>
+                  <a className="btn-ghost-secondary" href="https://www.kichink.com/buy/1587931/carla-morrison-oficial/playera-as-desnudo-mujer" target="_blank">Comprar Ahora</a>
                 </div>
                 <div className="col-6 col-md-3">
                   <img className="img-fluid" src={tieSwea} alt="Articulo Tienda" />
                   <h5 className="pt-3">Sudadera AS Desnudo</h5>
                   <p>Sudadera Unisex<br/>
                      $600.00</p>
-                  <a className="btn-ghost-secondary" href="https://www.kichink.com/buy/1588863/carla-morrison-oficial/sudadera-as-desnudo-unisex">Comprar Ahora</a>
+                  <a className="btn-ghost-secondary" href="https://www.kichink.com/buy/1588863/carla-morrison-oficial/sudadera-as-desnudo-unisex" target="_blank">Comprar Ahora</a>
                 </div>
                 <div className="col-6 col-md-3">
                   <img className="img-fluid" src={tieCup1} alt="Articulo Tienda" />
                   <h5 className="pt-3">Taza AS Desnudo</h5>
                   <p>Taza<br/>
                      $150.00</p>
-                  <a className="btn-ghost-secondary" href="https://www.kichink.com/buy/1580309/carla-morrison-oficial/taza-as-desnudo">Comprar Ahora</a>
+                  <a className="btn-ghost-secondary" href="https://www.kichink.com/buy/1580309/carla-morrison-oficial/taza-as-desnudo" target="_blank">Comprar Ahora</a>
                 </div>
                 <div className="col-6 col-md-3">
                   <img className="img-fluid" src={tieTee2} alt="Articulo Tienda" />
                   <h5 className="pt-3">Camiseta B&N</h5>
                   <p>Camiseta Mujer<br/>
                      $250.00</p>
-                  <a className="btn-ghost-secondary" href="https://www.kichink.com/buy/1195360/carla-morrison-oficial/t-shirt-bn-mujer">Comprar Ahora</a>
+                  <a className="btn-ghost-secondary" href="https://www.kichink.com/buy/1195360/carla-morrison-oficial/t-shirt-bn-mujer" target="_blank">Comprar Ahora</a>
                 </div>
               </div>
               <div className="row pt-5">
                 <div className="col text-right">
-                  <a className="btn btn-ghost-primary" href="https://www.kichink.com/stores/carla-morrison-oficial">
+                  <a className="btn btn-ghost-primary" href="https://www.kichink.com/stores/carla-morrison-oficial" target="_blank">
                       Ver mas →
                   </a>
                 </div>
               </div>
             </div>
           </section>
-
-
 
       </section>
     )
