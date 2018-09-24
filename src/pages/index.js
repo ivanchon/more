@@ -74,7 +74,7 @@ export default class IndexPage extends React.Component {
           </div>
         </section>*/}
 
-        <section className="container py-5" id="conciertos">
+        {/*<section className="container py-5" id="conciertos">
           <div className="row">
             <div className="col">
               <h2 className="h2-headers">
@@ -89,7 +89,7 @@ export default class IndexPage extends React.Component {
                 </Link>
             </div>
           </div>
-        </section>
+      </section>*/}
 
         <section id="videos" className="music-section">
           <div className="container pt-5">
@@ -127,9 +127,9 @@ export default class IndexPage extends React.Component {
               </div>
               <div className="row pt-5">
                 <div className="col text-right">
-                  <Link className="btn btn-ghost-primary" to="/bio">
+                  <a className="btn btn-ghost-primary" href="https://www.youtube.com/user/CarlaMorrisonMusic" target="_blank">
                     Ver mas →
-                  </Link>
+                  </a>
                 </div>
               </div>
           </div>
@@ -152,7 +152,7 @@ export default class IndexPage extends React.Component {
             <Music/>
             <div className="row">
               <div className="col text-right">
-                <Link className="btn btn-ghost-primary" to="/bio">
+                <Link className="btn btn-ghost-primary" to="/musica">
                   Ver mas →
                 </Link>
               </div>
@@ -170,7 +170,7 @@ export default class IndexPage extends React.Component {
             </div>
             <div className="row">
               <div className="col text-right">
-                <Link className="btn btn-ghost-primary" to="/bio">
+                <Link className="btn btn-ghost-primary" to="/covers">
                   Ver mas →
                 </Link>
               </div>
@@ -235,35 +235,35 @@ export default class IndexPage extends React.Component {
                   <h5 className="pt-3">Camiseta AS Desnudo</h5>
                   <p>T-shirt Mujer<br/>
                      $250.00</p>
-                  <button className="btn-ghost-secondary" href="https://www.kichink.com/buy/1587931/carla-morrison-oficial/playera-as-desnudo-mujer">Comprar Ahora</button>
+                  <a className="btn-ghost-secondary" href="https://www.kichink.com/buy/1587931/carla-morrison-oficial/playera-as-desnudo-mujer">Comprar Ahora</a>
                 </div>
                 <div className="col-6 col-md-3">
                   <img className="img-fluid" src={tieSwea} alt="Articulo Tienda" />
                   <h5 className="pt-3">Sudadera AS Desnudo</h5>
                   <p>Sudadera Unisex<br/>
                      $600.00</p>
-                  <button className="btn-ghost-secondary" href="https://www.kichink.com/buy/1588863/carla-morrison-oficial/sudadera-as-desnudo-unisex">Comprar Ahora</button>
+                  <a className="btn-ghost-secondary" href="https://www.kichink.com/buy/1588863/carla-morrison-oficial/sudadera-as-desnudo-unisex">Comprar Ahora</a>
                 </div>
                 <div className="col-6 col-md-3">
                   <img className="img-fluid" src={tieCup1} alt="Articulo Tienda" />
                   <h5 className="pt-3">Taza AS Desnudo</h5>
                   <p>Taza<br/>
                      $150.00</p>
-                  <button className="btn-ghost-secondary" href="https://www.kichink.com/buy/1580309/carla-morrison-oficial/taza-as-desnudo">Comprar Ahora</button>
+                  <a className="btn-ghost-secondary" href="https://www.kichink.com/buy/1580309/carla-morrison-oficial/taza-as-desnudo">Comprar Ahora</a>
                 </div>
                 <div className="col-6 col-md-3">
                   <img className="img-fluid" src={tieTee2} alt="Articulo Tienda" />
                   <h5 className="pt-3">Camiseta B&N</h5>
                   <p>Camiseta Mujer<br/>
                      $250.00</p>
-                  <button className="btn-ghost-secondary" href="https://www.kichink.com/buy/1195360/carla-morrison-oficial/t-shirt-bn-mujer">Comprar Ahora</button>
+                  <a className="btn-ghost-secondary" href="https://www.kichink.com/buy/1195360/carla-morrison-oficial/t-shirt-bn-mujer">Comprar Ahora</a>
                 </div>
               </div>
               <div className="row pt-5">
                 <div className="col text-right">
-                  <button className="btn btn-ghost-primary" href="https://www.kichink.com/stores/carla-morrison-oficial">
+                  <a className="btn btn-ghost-primary" href="https://www.kichink.com/stores/carla-morrison-oficial">
                       Ver mas →
-                  </button>
+                  </a>
                 </div>
               </div>
             </div>

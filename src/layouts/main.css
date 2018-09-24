@@ -27,16 +27,21 @@ body{
 
 /*HOME*/
 a.btn-ghost-primary, .btn-ghost-primary {
-    color: #FFF;
-    border: none;
-    text-transform: lowercase;
-    font-family: 'Courgette', cursive;
-    font-size: 20px;
-    font-weight: 200;
-    float: right;
-    background-color: transparent!important;
+  color: #FFF;
+  border: none;
+  text-transform: lowercase;
+  font-family: 'Courgette', cursive;
+  font-size: 20px;
+  font-weight: 200;
+  float: right;
+  background-color: transparent!important;
+  opacity: 0.8;
 }
 
+a.btn-ghost-primary:hover, .btn-ghost-primary:hover {
+  color: #fff;
+  opacity: 1;
+}
 
 
 
@@ -454,6 +459,7 @@ a.btn-ghost-secondary:hover,
   color: #FFF;
   border: 2px solid #FFF;
   transition: 1s;
+  text-decoration: none;
 }
 
 

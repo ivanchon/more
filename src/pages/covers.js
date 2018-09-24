@@ -49,10 +49,9 @@ export default class MusicPage extends React.Component {
               <h2 className="h2-headers pb-5">
                 Covers
               </h2>
-
             </div>
           </div>
-          <div className="row pb-5">
+          {/*<div className="row pb-5">
             <div className="col-md-5">
               <img className="img-fluid"
                 style={{ borderRadius: '5px' }}
@@ -63,10 +62,10 @@ export default class MusicPage extends React.Component {
               <h4>Acerca de</h4>
               <p>Aquí puedes encontrar todas las colaboraciones en las que he participado a lo largo de mi carrera, asi como tributos que me han invitado. Gracias a Dios todo esto ha sido orgánicamente, invitaciones de pura naturalidad y ganas de colaborar entre artistas que se entienden y comparten visiones y sueños. </p>
             </div>
-          </div>
+          </div>*/}
           <div className="row">
             <div className="col">
-              <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/1196005&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+              <iframe width="100%" height="550" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/1196005&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
             </div>
           </div>
         </div>
