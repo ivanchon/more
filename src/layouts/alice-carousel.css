@@ -27,7 +27,7 @@
   height: auto;
   box-sizing: border-box;
   overflow: hidden;
-  border: solid 1px rgba(70, 87, 152, 0.0); }
+  border: solid 1px rgba(70, 87, 152, 0.0)!important; }
 
 .alice-carousel__stage {
   position: relative;

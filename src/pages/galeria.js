@@ -105,9 +105,9 @@ import wpmc4 from '../img/wallpapers/A-Iphone5-5s.jpg'
 
 injectGlobal`
 
-  .alice-carousel__wrapper{
+  .alice-carousel__wrapper {
     max-height: 730px;
-    border: solid 1px rgba(70, 87, 152, .0);
+    border: solid 1px transparent;
 
     @media (min-width: 992px) and (max-width: 1200px) {
       max-height: 618px;
@@ -289,6 +289,36 @@ export default class GalleryPage2 extends React.Component {
               <div className="img-holder"><img className="img-fluid" src={cm18}/></div>
               <div className="img-holder"><img className="img-fluid" src={cm19}/></div>
               <div className="img-holder"><img className="img-fluid" src={cm20}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm21}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm22}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm23}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm24}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm25}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm26}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm27}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm28}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm29}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm30}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm31}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm32}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm33}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm34}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm35}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm36}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm37}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm38}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm39}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm40}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm41}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm42}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm43}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm44}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm45}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm46}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm47}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm48}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm49}/></div>
+              <div className="img-holder"><img className="img-fluid" src={cm50}/></div>
             </AliceCarousel>
             {/*<h3>Navigation</h3>
             <button onClick={() => this.Carousel._slidePrev()}>Prev button</button>
