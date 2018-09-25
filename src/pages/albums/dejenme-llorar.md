@@ -19,3140 +19,758 @@ aboutEn: |+
 songs:
   blurbs:
     - lyricsEn: |-
-        I was under rehabilitation
-
-
-
-        Looking for meaning in the world
-
-
-
-        things that I could not understand
-
-
-
-        lit my soul and turned off my mind
-
-
-
-
-
-
-
-        I had to fly very far
-
-
-
-        the sun no longer illuminated my splendor
-
-
-
-        things seemed very strange and the routine
-
-
-
-        became confusion and pain.
-
-
-
-
-
-
-
-        I had to learn to hold
-
-
-
-        my words even if it was on paper
-
-
-
-        things that I could not understand
-
-
-
-        took care of my soul and I was reborn again.
-
-
-
-
-
-
-
-        I had to fly very far
-
-
-
-        the sun no longer illuminated my splendor
-
-
-
-        things seemed very strange and the routine
-
-
-
-        became confusion and pain.
-
-
-
-
-
-
-
-        I had to fly very far
-
-
-
-        the sun no longer illuminated my splendor
+        I was under rehabilitation<br/>
+        Looking for meaning in the world<br/>
+        things that I could not understand<br/>
+        lit my soul and turned off my mind<br/>
+        I had to fly very far<br/>
+        the sun no longer illuminated my splendor<br/>
+        things seemed very strange and the routine<br/>
+        became confusion and pain.<br/>
+        I had to learn to hold<br/>
+        my words even if it was on paper<br/>
+        things that I could not understand<br/>
+        took care of my soul and I was reborn again.<br/>
+        I had to fly very far<br/>
+        the sun no longer illuminated my splendor<br/>
+        things seemed very strange and the routine<br/>
+        became confusion and pain.<br/>
+        I had to fly very far<br/>
+        the sun no longer illuminated my splendor<br/>
       lyricsEs: |-
-        Estuve bajo rehabilitación
-
-
-
-        buscando sentido al mundo
-
-
-
-        cosas que no lograba comprender
-
-
-
-        encendí mi alma y apague mi mente
-
-
-
-
-
-
-
-        Tuve que volar muy lejos
-
-
-
-        el sol ya no alumbraba mi esplendor
-
-
-
-        las cosas parecían, veras la rutina
-
-
-
-        se han convertido en confusión y en dolor
-
-
-
-
-
-
-
-        Tuve que aprender a sostener
-
-
-
-        mis palabras aunque fuera en un papel
-
-
-
-        cosas que no lograba comprender
-
-
-
-        cuidaron mi alma y volví a renacer
-
-
-
-
-
-
-
-        Tuve que volar muy lejos
-
-
-
-        el sol ya no alumbraba mi esplendor
-
-
-
-        las cosas parecían, veras la rutina
-
-
-
-        se convirtió en función y en amor
-
-
-
-
-
-
-
-        Tuve que volar muy lejos
-
-
-
-        el sol ya no alumbraba mi esplendor
+        Estuve bajo rehabilitación<br/>
+        buscando sentido al mundo<br/>
+        cosas que no lograba comprender<br/>
+        encendí mi alma y apague mi mente<br/>
+        Tuve que volar muy lejos<br/>
+        el sol ya no alumbraba mi esplendor<br/>
+        las cosas parecían, veras la rutina<br/>
+        se han convertido en confusión y en dolor<br/>
+        Tuve que aprender a sostener<br/>
+        mis palabras aunque fuera en un papel<br/>
+        cosas que no lograba comprender<br/>
+        cuidaron mi alma y volví a renacer<br/>
+        Tuve que volar muy lejos<br/>
+        el sol ya no alumbraba mi esplendor<br/>
+        las cosas parecían, veras la rutina<br/>
+        se convirtió en función y en amor<br/>
+        Tuve que volar muy lejos<br/>
+        el sol ya no alumbraba mi esplendor<br/>
       title: 1 - Apagué mi Mente
     - lyricsEn: |-
-        I love the taste of your kisses,
-
-
-
-        It scares me to feel that I need you.
-
-
-
-        I want to control my desires,
-
-
-
-        but your aroma incites my bones ...
-
-
-
-
-
-
-
-        And my skin starts to confuse
-
-
-
-        what your caresses want to tell me
-
-
-
-        to my body, in your body
-
-
-
-        this can not happen
-
-
-
-        I owe respect to someone else
-
-
-
-        These are your kisses in my kisses ...
-
-
-
-
-
-        I'm going to run away again
-
-
-
-        I do not want to hurt myself,
-
-
-
-        I am afraid very afraid
-
-
-
-        it's important it is, my heart no longer believes
-
-
-
-        It is dry and very dry.
-
-
-
-
-
-        Your questions feed my ego,
-
-
-
-        and I feel very important again.
-
-
-
-        I have been looking at you from afar
-
-
-
-        and I like our secret meetings
-
-
-
-
-
-
-
-        And my skin starts to confuse
-
-
-
-        what your caresses want to tell me
-
-
-
-        to my body, in your body
-
-
-
-        this can not happen
-
-
-
-        I owe respect to someone else
-
-
-
-        These are your kisses in my kisses ...
-
-
-
-
-
-        I'm going to run away again
-
-
-
-        I do not want to hurt myself,
-
-
-
-        I am afraid very afraid
-
-
-
-        it is important it is,
-
-
-
-        my heart no longer believes
-
-
-
-        it is dry and very dry ...
+        I love the taste of your kisses,<br/>
+        It scares me to feel that I need you.<br/>
+        I want to control my desires,<br/>
+        but your aroma incites my bones ...<br/>
+        And my skin starts to confuse<br/>
+        what your caresses want to tell me<br/>
+        to my body, in your body<br/>
+        this can not happen<br/>
+        I owe respect to someone else<br/>
+        These are your kisses in my kisses ...<br/>
+        I'm going to run away again<br/>
+        I do not want to hurt myself, <br/>
+        I am afraid very afraid<br/>
+        it's important it is, my heart no longer believes<br/>
+        It is dry and very dry.<br/>
+        Your questions feed my ego,<br/>
+        and I feel very important again.<br/>
+        I have been looking at you from afar<br/>
+        and I like our secret meetings<br/>
+        And my skin starts to confuse<br/>
+        what your caresses want to tell me<br/>
+        to my body, in your body<br/>
+        this can not happen<br/>
+        I owe respect to someone else<br/>
+        These are your kisses in my kisses ...<br/>
+        I'm going to run away again<br/>
+        I do not want to hurt myself, <br/>
+        I am afraid very afraid<br/>
+        it is important it is,<br/>
+        my heart no longer believes<br/>
+        it is dry and very dry ...<br/>
       lyricsEs: >-
-        Me encanta el sabor de tus besos, me asusta el sentir que te quiero.
-
-
-
-
-        Quiero controlar mis deseos, pero tu aroma incita mis besos.
-
-
-
-
-
-
-
-        Y mi piel Comienza a confundir lo que tus caricias quieren decir y a mi
-        cuerpo,
-
-
-
-
-        En tu cuerpo esto no puede suceder respeto a alguien le debo de tener
-
-
-
-
-        Son tus besos y mis besos, voy a fugarme otra vez no quiero herirme, no
-        se
-
-
-
-
-        Tengo miedo mucho miedo es importante lo es, mi corazón ya no cree esta
-
-
-
-
-        Seco ya muy seco.
-
-
-
-
-
-
-
-        Tus preguntas te alimentan tu ego, y me siento importante
-
-
-
-
-        De nuevo. Tengo rato mirándote de lejos me gusta los encuentros secretos
-
-
-
-
-
-
-
-        voy a fugarme otra vez no quiero herirme, no se
-
-
-
-
-        Tengo miedo mucho miedo es importante lo es, mi corazón ya no cree esta
-
-
-
-
-        Seco ya muy seco
+        Me encanta el sabor de tus besos, me asusta el sentir que te quiero.<br/>
+        Quiero controlar mis deseos, pero tu aroma incita mis besos.<br/>
+        Y mi piel Comienza a confundir lo que tus caricias quieren decir y a mi cuerpo,<br/>
+        En tu cuerpo esto no puede suceder respeto a alguien le debo de tener<br/>
+        Son tus besos y mis besos, voy a fugarme otra vez no quiero herirme, no se<br/>
+        Tengo miedo mucho miedo es importante lo es, mi corazón ya no cree esta<br/>
+        Seco ya muy seco.<br/>
+        Tus preguntas te alimentan tu ego, y me siento importante<br/>
+        De nuevo. Tengo rato mirándote de lejos me gusta los encuentros secretos<br/>
+        voy a fugarme otra vez no quiero herirme, no se<br/>
+        Tengo miedo mucho miedo es importante lo es, mi corazón ya no cree esta<br/>
+        Seco ya muy seco<br/>
       title: 2 - Me Encanta
     - lyricsEn: |-
-        I have days thinking of you
-
-
-
-        And I cant understand
-
-
-
-        Why were you so cruel?
-
-
-
-        I had no reason to suspect
-
-
-
-        everything pointed at you
-
-
-
-        and I did not want to look
-
-
-
-
-
-        It was so ironic
-
-
-
-        Confused reality
-
-
-
-        I dont know
-
-
-
-        My eyes could not see
-
-
-
-
-
-        It is not easy to forget yesterday
-
-
-
-        But I must leave, the memory and heal
-
-
-
-        so many answers I do not want to find!
-
-
-
-        all i want is to rip
-
-
-
-        all the questions i have
-
-
-
-        That hurt me
-
-
-
-        That hurt me
-
-
-
-        and keep hurting me!
-
-
-
-
-
-        And I keep trying to decipher
-
-
-
-        All the lies
-
-
-
-        That still makes me cry
-
-
-
-        It was a long time that you made me believe
-
-
-
-        That after the night, a dawn i would see
-
-
-
-
-
-
-
-
-
-        And the days passed
-
-
-
-        And the dawn wouldn’t appear
-
-
-
-        Because, my eyes did not want to see
-
-
-
-
-
-
-
-
-
-        It is not easy to forget yesterday
-
-
-
-        But I must leave, the memory and heal
-
-
-
-        so many answers I do not want to find!
-
-
-
-        all i want is to rip
-
-
-
-        all the questions i have
-
-
-
-        That hurt me
-
-
-
-        That hurt me
-
-
-
-        and keep hurting me!
+        I have days thinking of you<br/>
+        And I cant understand<br/>
+        Why were you so cruel?<br/>
+        I had no reason to suspect<br/>
+        everything pointed at you<br/>
+        and I did not want to look<br/>
+        It was so ironic<br/>
+        Confused reality<br/>
+        I dont know<br/>
+        My eyes could not see<br/>
+        It is not easy to forget yesterday<br/>
+        But I must leave, the memory and heal<br/>
+        so many answers I do not want to find!<br/>
+        all i want is to rip<br/>
+        all the questions i have<br/>
+        That hurt me<br/>
+        That hurt me<br/>
+        and keep hurting me!<br/>
+        And I keep trying to decipher<br/>
+        All the lies<br/>
+        That still makes me cry<br/>
+        It was a long time that you made me believe<br/>
+        That after the night, a dawn i would see<br/>
+        And the days passed<br/>
+        And the dawn wouldn’t appear<br/>
+        Because, my eyes did not want to see<br/>
+        It is not easy to forget yesterday<br/>
+        But I must leave, the memory and heal<br/>
+        so many answers I do not want to find!<br/>
+        all i want is to rip<br/>
+        all the questions i have<br/>
+        That hurt me<br/>
+        That hurt me<br/>
+        and keep hurting me!<br/>
       lyricsEs: |-
-        Tengo días pensando en ti
-
-
-
-        y no logro entender
-
-
-
-        ¿porque fuiste tan cruel?
-
-
-
-        no tenia motivos para sospechar
-
-
-
-        ¡Todos apuntaban!
-
-
-
-        yo no quise mirar
-
-
-
-
-
-
-
-        Era tanta ironía
-
-
-
-        realidad confundida
-
-
-
-        no se
-
-
-
-        mis ojos no podrían ver
-
-
-
-
-
-
-
-        No es fácil olvidar el ayer
-
-
-
-        pero debo dejar, el recuerdo y sanar
-
-
-
-        ya respuestas no quiero encontrar!
-
-
-
-        de mi quiero arrancar
-
-
-
-        todas las preguntas
-
-
-
-        que me duelen!
-
-
-
-        que me hieren!
-
-
-
-        que me duelen! oh no!
-
-
-
-
-
-
-
-        Sigo tratando de descifrar
-
-
-
-        todas las mentiras
-
-
-
-        que aun me hacen llorar
-
-
-
-        Fue mucho tiempo el que me hiciste creer
-
-
-
-        que después de la noche, podía amanecer
-
-
-
-
-
-
-
-        Y pasaron los días
-
-
-
-        y ya no amanecía
-
-
-
-        por que, mis ojos no querían ver!
+        Tengo días pensando en ti<br/>
+        y no logro entender<br/>
+        ¿porque fuiste tan cruel?<br/>
+        no tenia motivos para sospechar<br/>
+        ¡Todos apuntaban!<br/>
+        yo no quise mirar<br/><br/>
+
+        Era tanta ironía<br/>
+        realidad confundida<br/>
+        no se<br/>
+        mis ojos no podrían ver<br/><br/>
+
+        No es fácil olvidar el ayer<br/>
+        pero debo dejar, el recuerdo y sanar<br/>
+        ya respuestas no quiero encontrar!<br/>
+        de mi quiero arrancar<br/><br/>
+
+        todas las preguntas<br/>
+        que me duelen!<br/>
+        que me hieren!<br/>
+        que me duelen! oh no!<br/>
+        Sigo tratando de descifrar<br/>
+        todas las mentiras<br/>
+        que aun me hacen llorar<br/>
+        Fue mucho tiempo el que me hiciste creer<br/>
+        que después de la noche, podía amanecer<br/>
+        Y pasaron los días<br/>
+        y ya no amanecía<br/>
+        por que, mis ojos no querían ver!<br/>
       title: 3 - No Quise Mirar
     - lyricsEn: |-
-        This pain is so big
-
-
-
-        I can not even breathe
-
-
-
-        I'm looking without looking
-
-
-
-        my body is numb
-
-
-
-        my doubts bloom more
-
-
-
-        I can not look at anything ...
-
-
-
-
-
-        I'm going to walk the world without looking back
-
-
-
-        Erasing your look
-
-
-
-        I'm going to give you the distance
-
-
-
-        Although my soul hurts and Ill miss you in my days, days ...
-
-
-
-
-
-
-
-        The silence is so strong
-
-
-
-        it feels your absence
-
-
-
-        it's so hard to remember
-
-
-
-        I want so much to remedy this pain
-
-
-
-        This nightmare I swear I'll wake up ..
-
-
-
-
-
-
-
-        I'm going to walk the world without looking back
-
-
-
-        Erasing your look
-
-
-
-        I'm going to give you the distance
-
-
-
-        Although my soul hurts and Ill miss you in my days, days ...
+        This pain is so big<br/>
+        I can not even breathe<br/>
+        I'm looking without looking<br/>
+        my body is numb<br/>
+        my doubts bloom more<br/>
+        I can not look at anything ...<br/>
+        I'm going to walk the world without looking back<br/>
+        Erasing your look<br/>
+        I'm going to give you the distance<br/>
+        Although my soul hurts and Ill miss you in my days, days ...<br/>
+        The silence is so strong<br/>
+        it feels your absence<br/>
+        it's so hard to remember<br/>
+        I want so much to remedy this pain<br/>
+        This nightmare I swear I'll wake up...<br/>
+        I'm going to walk the world without looking back<br/>
+        Erasing your look<br/>
+        I'm going to give you the distance<br/>
+        Although my soul hurts and Ill miss you in my days, days ...<br/>
       lyricsEs: |-
-        Este dolor es tan grande
-
-
-
-        que me cuesta respirar
-
-
-
-        Estoy mirando sin mirar
-
-
-
-        Mi cuerpo se adormece
-
-
-
-        Y mis dudas florecen más
-
-
-
-        Nada puedo ya mirar
-
-
-
-        Voy a caminar por el mundo
-
-
-
-        sin mirar atrás
-
-
-
-        Borrando tu mirar
-
-
-
-        Voy a darte la distancia
-
-
-
-        Aunque a mi alma duela y me
-
-
-
-        hagas falta en mis días.
-
-
-
-        El silencio es tan fuerte que siente
-
-
-
-        tu ausencia es tan duro recordar
-
-
-
-        Deseo tanto remediar la pesadilla
-
-
-
-        juro que voy a despertar
-
-
-
-        Voy a caminar por el mundo
-
-
-
-        sin mirar atrás
-
-
-
-        Borrando tu mirar
-
-
-
-        Voy a darte la distancia
-
-
-
-        Aunque a mi alma duela
-
-
-
-        y me hagas falta en mis días
+        Este dolor es tan grande <br/>
+        que me cuesta respirar<br/>
+        Estoy mirando sin mirar<br/>
+        Mi cuerpo se adormece<br/>
+        Y mis dudas florecen más<br/>
+        Nada puedo ya mirar<br/>
+        Voy a caminar por el mundo <br/>
+        sin mirar atrás<br/>
+        Borrando tu mirar<br/>
+        Voy a darte la distancia<br/>
+        Aunque a mi alma duela y me <br/>
+        hagas falta en mis días.<br/>
+        El silencio es tan fuerte que siente <br/>
+        tu ausencia es tan duro recordar<br/>
+        Deseo tanto remediar la pesadilla <br/>
+        juro que voy a despertar<br/>
+        Voy a caminar por el mundo <br/>
+        sin mirar atrás<br/>
+        Borrando tu mirar<br/>
+        Voy a darte la distancia<br/>
+        Aunque a mi alma duela <br/>
+        y me hagas falta en mis días<br/>
       title: 4 - Duele
     - lyricsEn: |-
-        My thoughts belong to you
-
-
-
-        my body is still waiting for your lullaby
-
-
-
-        the further you go, the closer i get
-
-
-
-        When my soul thinks, yours gets alert
-
-
-
-        alert!
-
-
-
-
-
-
-
-        You avoid my presence
-
-
-
-        saying that it is malice!
-
-
-
-
-
-        Return to me I will take care of you
-
-
-
-        from everything bad
-
-
-
-        I'll catch the pure ..
-
-
-
-        in your heart I will deposit
-
-
-
-        All that love you need in your life.
-
-
-
-
-
-
-
-        I miss the moments talking in silence
-
-
-
-        the magic conjugated by our secrets
-
-
-
-        the spaces, the passions
-
-
-
-        your caresses without fears
-
-
-
-        your tranquility
-
-
-
-        your lessons ..
-
-
-
-
-
-
-
-        You are the muse of my verses
-
-
-
-        this connection penetrates the universe
-
-
-
-        my kisses connect your bones
-
-
-
-        the sparks of your soul are my complement
-
-
-
-        so complete ..
-
-
-
-
-
-        You avoid my presence
-
-
-
-        saying that it is malice!
-
-
-
-
-
-
-
-        Return to me I will take care of you
-
-
-
-        from everything bad
-
-
-
-        I'll catch the pure ..
-
-
-
-        in your heart I will deposit
-
-
-
-        All that love you need in your life.
+        My thoughts belong to you<br/>
+        my body is still waiting for your lullaby<br/>
+        the further you go, the closer i get<br/>
+        When my soul thinks, yours gets alert<br/>
+        alert!<br/>
+        You avoid my presence<br/>
+        saying that it is malice!<br/>
+        Return to me I will take care of you<br/>
+        from everything bad<br/>
+        I'll catch the pure ...<br/>
+        in your heart I will deposit<br/>
+        All that love you need in your life.<br/>
+        I miss the moments talking in silence<br/>
+        the magic conjugated by our secrets<br/>
+        the spaces, the passions<br/>
+        your caresses without fears<br/>
+        your tranquility<br/>
+        your lessons ...<br/>
+        You are the muse of my verses<br/>
+        this connection penetrates the universe<br/>
+        my kisses connect your bones<br/>
+        the sparks of your soul are my complement<br/>
+        so complete ...<br/>
+        You avoid my presence<br/>
+        saying that it is malice!<br/>
+        Return to me I will take care of you<br/>
+        from everything bad<br/>
+        I'll catch the pure ...<br/>
+        in your heart I will deposit<br/>
+        All that love you need in your life.<br/>
       lyricsEs: |-
-        Mis pensamientos siguen siendo tuyos
-
-
-
-        mi cuerpo sigue esperando tu arrullo
-
-
-
-        entre mas te alejas, me acercas
-
-
-
-        cuando mi alma piensa, la tuya se pone alerta
-
-
-
-        alerta!
-
-
-
-
-
-
-
-        Evitas mi presencia
-
-
-
-        diciendo que es maleza!
-
-
-
-
-
-
-
-        Regrésate a mi! yo te cuidare
-
-
-
-        de todo lo malo
-
-
-
-        lo bueno pescare
-
-
-
-        en tu corazón depositare
-
-
-
-        todo ese amor que necesitas tener
-
-
-
-
-
-
-
-        Extraño los momentos platicando en silencio
-
-
-
-        la magia conjugada por nuestros secretos!
-
-
-
-        los espacios, las pasiones
-
-
-
-        tus caricias sin temores
-
-
-
-        tu tranquilidad
-
-
-
-        tus lecciones
-
-
-
-
-
-
-
-        Eres el muso de mis versos
-
-
-
-        esta conexión penetra el universo
-
-
-
-        mis besos conectan tus besos
-
-
-
-        las chispas de tu alma son mi complemento!
-
-
-
-        tan completo
-
-
-
-
-
-
-
-        Evitas mi presencia
-
-
-
-        diciendo que es maleza!
+        Mis pensamientos siguen siendo tuyos<br/>
+        mi cuerpo sigue esperando tu arrullo<br/>
+        entre mas te alejas, me acercas<br/>
+        cuando mi alma piensa, la tuya se pone alerta<br/>
+        alerta!<br/>
+        Evitas mi presencia<br/>
+        diciendo que es maleza!<br/>
+        Regrésate a mi! yo te cuidare<br/>
+        de todo lo malo<br/>
+        lo bueno pescare<br/>
+        en tu corazón depositare<br/>
+        todo ese amor que necesitas tener<br/><br/>
+        Extraño los momentos platicando en silencio<br/>
+        la magia conjugada por nuestros secretos!<br/>
+        los espacios, las pasiones<br/>
+        tus caricias sin temores<br/>
+        tu tranquilidad<br/>
+        tus lecciones<br/><br/>
+        Eres el muso de mis versos<br/>
+        esta conexión penetra el universo<br/>
+        mis besos conectan tus besos<br/>
+        las chispas de tu alma son mi complemento!<br/>
+        tan completo<br/><br/>
+        Evitas mi presencia<br/>
+        diciendo que es maleza!<br/>
       title: 5 - Maleza
     - lyricsEn: |-
-        Today I woke up wanting to kiss you
-
-
-
-        I have a thirst to caress you
-
-
-
-        To entangle you, and not to let you go
-
-
-
-        You're so intoxicating, it's you, it's you ..
-
-
-
-
-
-
-
-        I want to contemplate you without counting the time
-
-
-
-        Draw you with my pure memories
-
-
-
-        In my mind, mark your lips, your kisses
-
-
-
-        Being here another time
-
-
-
-
-
-
-
-        Its you, you, you, you ...
-
-
-
-        It is you, you, you, you ...
-
-
-
-        It is you, it is you ..
-
-
-
-
-
-        I love seeing you, having you, hugging you
-
-
-
-        When I'm by your side
-
-
-
-        Everything good about me flourishes, it's you
-
-
-
-        That magnet of a precious energy
-
-
-
-
-
-
-
-        It is your soul that sends signals to my body
-
-
-
-        Because it keeps asking for that scent of you
-
-
-
-        That invites me to chase you..
-
-
-
-
-
-
-
-        Its you, you, you, you ...
-
-
-
-        It is you, you, you, you ...
-
-
-
-        It is you, it is you ..
-
-
-
-
-
-
-
-        We have different plans
-
-
-
-        But your always in my mind
-
-
-
-        Well my veins so subtly
-
-
-
-        They enjoy so much to love you
-
-
-
-        It's you, it's you
-
-
-
-        you you you…
-
-
-
-
-
-        Its you, you, you, you ...
-
-
-
-        It is you, you, you, you ...
-
-
-
-        It is you, it is you ..
+        Today I woke up wanting to kiss you<br/>
+        I have a thirst to caress you<br/>
+        To entangle you, and not to let you go<br/>
+        You're so intoxicating, it's you, it's you...<br/>
+        I want to contemplate you without counting the time<br/>
+        Draw you with my pure memories<br/>
+        In my mind, mark your lips, your kisses<br/>
+        Being here another time<br/><br/>
+        Its you, you, you, you...<br/>
+        It is you, you, you, you...<br/>
+        It is you, it is you...<br/><br/>
+        I love seeing you, having you, hugging you<br/>
+        When I'm by your side<br/>
+        Everything good about me flourishes, it's you<br/>
+        That magnet of a precious energy<br/><br/>
+        It is your soul that sends signals to my body<br/>
+        Because it keeps asking for that scent of you<br/>
+        That invites me to chase you...<br/><br/>
+        Its you, you, you, you...<br/>
+        It is you, you, you, you...<br/>
+        It is you, it is you...<br/><br/>
+        We have different plans<br/>
+        But your always in my mind<br/>
+        Well my veins so subtly<br/>
+        They enjoy so much to love you <br/>
+        It's you, it's you<br/>
+        you you you…<br/><br/>
+        Its you, you, you, you...<br/>
+        It is you, you, you, you...<br/>
+        It is you, it is you...<br/>
       lyricsEs: |-
-
-
-        Hoy desperté con ganas de besarte
-
-
-
-        Tengo una sed de acariciarte
-
-
-
-        Enredarme a ti y no soltarte
-
-
-
-        Eres tan embriagante
-
-
-
-        Eres tú
-
-
-
-
-
-
-
-        Quiero contemplarte sin contar el tiempo
-
-
-
-        Dibujarte con mis puros recuerdos
-
-
-
-        En mi mente marcarme tus labios,tus besos
-
-
-
-        Estar aquí otro momento
-
-
-
-        Eres tú
-
-
-
-
-
-
-
-        Me encanta verte, tenerte, abrazarte
-
-
-
-        Cuando estoy a lado de ti
-
-
-
-        Todo lo bueno de mí
-
-
-
-        Florece, eres tú,
-
-
-
-        Es el mal de una preciosa energía
-
-
-
-        Es tu alma que envía
-
-
-
-        Señales a mi cuerpo
-
-
-
-        Aunque este sintiendo este aroma de ti
-
-
-
-        Que me envía hace mucho
-
-
-
-        Eres tú
-
-
-
-
-
-
-
-        Tenemos planes diferentes
-
-
-
-        Pero tú siempre en mi mente
-
-
-
-        Pues mis venas tan sutilmente
-
-
-
-        Disfrutan tanto quererte
-
-
-
-        Eres tú
+        Hoy desperté con ganas de besarte<br/>
+        Tengo una sed de acariciarte<br/>
+        Enredarme a ti y no soltarte<br/>
+        Eres tan embriagante<br/>
+        Eres tú<br/><br/>
+        Quiero contemplarte sin contar el tiempo<br/>
+        Dibujarte con mis puros recuerdos<br/>
+        En mi mente marcarme tus labios,tus besos<br/>
+        Estar aquí otro momento<br/>
+        Eres tú<br/><br/>
+        Me encanta verte, tenerte, abrazarte<br/>
+        Cuando estoy a lado de ti<br/>
+        Todo lo bueno de mí<br/>
+        Florece, eres tú,<br/><br/>
+        Es el mal de una preciosa energía<br/>
+        Es tu alma que envía<br/>
+        Señales a mi cuerpo<br/><br/>
+        Aunque este sintiendo este aroma de ti<br/>
+        Que me envía hace mucho<br/>
+        Eres tú<br/><br/>
+        Tenemos planes diferentes<br/>
+        Pero tú siempre en mi mente<br/>
+        Pues mis venas tan sutilmente<br/>
+        Disfrutan tanto quererte<br/>
+        Eres tú<br/>
       title: 6 - Eres Tú
     - lyricsEn: |-
-        At what point did I lose
-
-
-
-        the control of my feelings
-
-
-
-        when did I decided
-
-
-
-        to accept your secrets
-
-
-
-
-
-        At what time did i let
-
-
-
-        get myself hurt me with all of this
-
-
-
-        when, please tell me, you do not see
-
-
-
-        that I lost consciousness
-
-
-
-
-
-
-
-        Already the madness got into my skin
-
-
-
-        the memories do not stop coming back
-
-
-
-        when I finally want to understand
-
-
-
-        my doubts visit my faith
-
-
-
-
-
-
-
-        How unfair your pride
-
-
-
-        tears my world apart
-
-
-
-        how unfair your pride
-
-
-
-        tears my world apart
-
-
-
-
-
-
-
-        At what timedid i delivered
-
-
-
-        the sum of all my kisses
-
-
-
-        in exchange
-
-
-
-        for a minute of your time
-
-
-
-
-
-
-
-        At what moment I emptied
-
-
-
-        my desire for your reunion
-
-
-
-        when, please tell me when it was
-
-
-
-        that I do not even remember
-
-
-
-
-
-
-
-        For you I want to regret all this
-
-
-
-        but my pulse no longer has that need
-
-
-
-        when I finally want to understand
-
-
-
-        my doubts visit my faith ..
-
-
-
-
-
-
-
-        How unfair your pride
-
-
-
-        tears my world apart
-
-
-
-        how unfair your pride
-
-
-
-        tears my world apart
+        At what point did I lose<br/>
+        the control of my feelings<br/>
+        when did I decided<br/>
+        to accept your secrets<br/><br/>
+        At what time did i let<br/>
+        get myself hurt me with all of this<br/>
+        when, please tell me, you do not see<br/>
+        that I lost consciousness<br/><br/>
+        Already the madness got into my skin<br/>
+        the memories do not stop coming back<br/>
+        when I finally want to understand<br/>
+        my doubts visit my faith<br/>
+        How unfair your pride<br/>
+        tears my world apart<br/>
+        how unfair your pride<br/>
+        tears my world apart<br/>
+        At what timedid i delivered<br/>
+        the sum of all my kisses<br/>
+        in exchange <br/>
+        for a minute of your time<br/><br/>
+        At what moment I emptied<br/>
+        my desire for your reunion<br/>
+        when, please tell me when it was<br/>
+        that I do not even remember<br/><br/>
+        For you I want to regret all this<br/>
+        but my pulse no longer has that need<br/>
+        when I finally want to understand<br/>
+        my doubts visit my faith...<br/><br/>
+        How unfair your pride<br/>
+        tears my world apart<br/>
+        how unfair your pride<br/>
+        tears my world apart<br/><br/>
       lyricsEs: |-
-        En que momento perdí
-
-
-
-        el control de mis sentimientos
-
-
-
-        cuando decidí
-
-
-
-        aceptar tus secretos
-
-
-
-
-
-
-
-        En que momento deje
-
-
-
-        de hacerme daño con todo esto
-
-
-
-        cuando dime, que no ves
-
-
-
-        que perdí el conocimiento
-
-
-
-
-
-
-
-        Y a la locura se metió a mi piel
-
-
-
-        los recuerdos no dejan de volver
-
-
-
-        cuando quiero por fin comprender
-
-
-
-        mis dudas visitan mi fe
-
-
-
-
-
-
-
-        Que injusto tu orgullo
-
-
-
-        desgarra a mi mundo
-
-
-
-        que injusto tu orgullo
-
-
-
-        desgarra a mi mundo
-
-
-
-
-
-
-
-        En que momento entregue
-
-
-
-        la suma de todos mis besos
-
-
-
-        y me intercambie
-
-
-
-        por un minuto de su tiempo
-
-
-
-
-
-
-
-        En que momento vacié
-
-
-
-        mis ganas por su reencuentro
-
-
-
-        cuando dime cuando fue
-
-
-
-        que yo ya ni me acuerdo
-
-
-
-
-
-
-
-        Por ti yo me quiero arrepentir
-
-
-
-        pero mi pulso ya no tiene ese fin
-
-
-
-        cuando quiero por fin comprender
-
-
-
-        mis dudas visitan mi fe
+        En que momento perdí<br/>
+        el control de mis sentimientos<br/>
+        cuando decidí<br/>
+        aceptar tus secretos<br/><br/>
+        En que momento deje<br/>
+        de hacerme daño con todo esto<br/>
+        cuando dime, que no ves<br/>
+        que perdí el conocimiento<br/><br/>
+        Y a la locura se metió a mi piel<br/>
+        los recuerdos no dejan de volver<br/>
+        cuando quiero por fin comprender<br/>
+        mis dudas visitan mi fe<br/><br/>
+        Que injusto tu orgullo<br/>
+        desgarra a mi mundo<br/>
+        que injusto tu orgullo<br/>
+        desgarra a mi mundo<br/><br/>
+        En que momento entregue<br/>
+        la suma de todos mis besos<br/>
+        y me intercambie<br/>
+        por un minuto de su tiempo<br/><br/>
+        En que momento vacié<br/>
+        mis ganas por su reencuentro<br/>
+        cuando dime cuando fue<br/>
+        que yo ya ni me acuerdo<br/><br/>
+        Por ti yo me quiero arrepentir<br/>
+        pero mi pulso ya no tiene ese fin<br/>
+        cuando quiero por fin comprender<br/>
+        mis dudas visitan mi fe<br/><br/>
       title: 7 - Tu Orgullo
     - lyricsEn: |-
-        Walking under the sun
-
-
-
-        looking for your hands,
-
-
-
-        They used to protect me and sustain me with so much love.
-
-
-
-
-
-        The routine beat us
-
-
-
-        Time faded us away
-
-
-
-        I forgot to value you, to reconquer you ...
-
-
-
-        we both stopped trying
-
-
-
-
-
-
-
-        I miss your lips
-
-
-
-        Running to your arms
-
-
-
-        Make myself into pieces
-
-
-
-        And glue you to me.
-
-
-
-
-
-
-
-        The Silence shouts
-
-
-
-        Revealing the error
-
-
-
-        How did it began?
-
-
-
-        Why did it end?
-
-
-
-        it just vanished.
-
-
-
-
-
-
-
-        I miss the years we shared with each other
-
-
-
-        Sleeping by your side and filling me with you
-
-
-
-
-
-        I miss your lips
-
-
-
-        Running to your arms
-
-
-
-        Make myself into pieces
-
-
-
-        And glue you to me.
+        Walking under the sun<br/>
+        looking for your hands,<br/>
+        They used to protect me and sustain me with so much love.<br/><br/>
+        The routine beat us<br/>
+        Time faded us away<br/>
+        I forgot to value you, to reconquer you...<br/>
+        we both stopped trying<br/><br/>
+        I miss your lips<br/>
+        Running to your arms<br/>
+        Make myself into pieces<br/>
+        And glue you to me.<br/><br/>
+        The Silence shouts<br/>
+        Revealing the error<br/>
+        How did it began?<br/>
+        Why did it end?<br/>
+        it just vanished.<br/><br/>
+        I miss the years we shared with each other<br/>
+        Sleeping by your side and filling me with you<br/>
+        I miss your lips<br/>
+        Running to your arms<br/>
+        Make myself into pieces<br/>
+        And glue you to me.<br/><br/>
       lyricsEs: |-
-        Camino bajo el sol
-
-
-
-        Buscando tu manos,
-
-
-
-        que solían protegerme y sostenerme con amor.
-
-
-
-
-
-
-
-        La rutina nos venció
-
-
-
-        El tiempo nos alejo
-
-
-
-        Olvide valorarte y reconquistarte?
-
-
-
-        Fuimos los dos.
-
-
-
-
-
-
-
-        Extraño tus labios
-
-
-
-        Correr a tus brazos
-
-
-
-        Hacerme en pedazos
-
-
-
-        Y pegarte a mí.
-
-
-
-
-
-
-
-        Grita el silencio
-
-
-
-        Revelando el error
-
-
-
-        ¿Cómo comenzó?
-
-
-
-        ¿Por qué terminó?
-
-
-
-        Se desvaneció.
-
-
-
-
-
-
-
-        Extraño los años que nos regalamos
-
-
-
-        Dormir a tu lado y llenarme de ti
-
-
-
-
-
-
-
-        Extraño tus labios
-
-
-
-        Correr a tus brazos
-
-
-
-        Hacerme en pedazos y llenarme de ti
+        Camino bajo el sol<br/>
+        Buscando tu manos,<br/>
+        que solían protegerme y sostenerme con amor.<br/><br/>
+        La rutina nos venció<br/>
+        El tiempo nos alejo<br/>
+        Olvide valorarte y reconquistarte?<br/>
+        Fuimos los dos.<br/><br/>
+        Extraño tus labios<br/>
+        Correr a tus brazos<br/>
+        Hacerme en pedazos<br/>
+        Y pegarte a mí.<br/><br/>
+        Grita el silencio<br/>
+        Revelando el error<br/>
+        ¿Cómo comenzó?<br/>
+        ¿Por qué terminó?<br/>
+        Se desvaneció.<br/><br/>
+        Extraño los años que nos regalamos<br/>
+        Dormir a tu lado y llenarme de ti<br/>
+        Extraño tus labios<br/>
+        Correr a tus brazos<br/>
+        Hacerme en pedazos y llenarme de ti<br/>
       title: 8 - Olvidé
     - lyricsEn: |-
-        I do not want to lose you
-
-
-
-        don’t want to let the distance devour our honey
-
-
-
-        and lose faith.
-
-
-
-
-
-        I do not want to have you
-
-
-
-        by thinking i can lose you again,
-
-
-
-        It hurts even on my skin.
-
-
-
-
-
-        Inside of me,
-
-
-
-        I have seeds of you
-
-
-
-        and without you
-
-
-
-        They may want to die ..
-
-
-
-
-
-        I want to sit down and cry
-
-
-
-        draw from inside a thousand things
-
-
-
-        that i want to say to you,
-
-
-
-        I feel so weak without you.
-
-
-
-
-
-        I want to keep my moral,
-
-
-
-        give you some kisses that maybe
-
-
-
-        ill have to steal
-
-
-
-        from your mouth, that is so mine
-
-
-
-        (mine, mine)
-
-
-
-
-
-        I dont want to lose you,
-
-
-
-        that our love can end, and you will want to love again
-
-
-
-        and taste someone else’s honey again…
-
-
-
-
-
-
-
-        I dont want to have you,
-
-
-
-        Because I love you so much, I start to understand
-
-
-
-        the intensity of my being.
-
-
-
-
-
-
-
-        Inside of me,
-
-
-
-        I have seeds of you
-
-
-
-        and without you
-
-
-
-        They may want to die.
-
-
-
-
-
-        I want to sit down and cry
-
-
-
-        draw from inside a thousand things
-
-
-
-        that i want to say to you,
-
-
-
-        I feel so weak without you.
-
-
-
-
-
-
-
-        I want to keep my moral,
-
-
-
-        give you some kisses that maybe
-
-
-
-        ill have to steal
-
-
-
-        from your mouth, that is so mine
-
-
-
-        (mine, mine)
+        I do not want to lose you<br/>
+        don’t want to let the distance devour our honey<br/>
+        and lose faith.<br/><br/>
+        I do not want to have you<br/>
+        by thinking i can lose you again,<br/>
+        It hurts even on my skin.<br/><br/>
+        Inside of me,<br/>
+        I have seeds of you<br/>
+        and without you<br/>
+        They may want to die...<br/><br/>
+        I want to sit down and cry<br/>
+        draw from inside a thousand things<br/>
+        that i want to say to you,<br/>
+        I feel so weak without you.<br/><br/>
+        I want to keep my moral,<br/>
+        give you some kisses that maybe<br/>
+        ill have to steal<br/>
+        from your mouth, that is so mine<br/>
+        (mine, mine)<br/>
+        I dont want to lose you,<br/>
+        that our love can end, and you will want to love again<br/>
+        and taste someone else’s honey again…<br/><br/>
+        I dont want to have you,<br/>
+        Because I love you so much, I start to understand<br/>
+        the intensity of my being.<br/><br/>
+        Inside of me,<br/>
+        I have seeds of you<br/>
+        and without you<br/>
+        They may want to die.<br/><br/>
+        I want to sit down and cry<br/>
+        draw from inside a thousand things<br/>
+        that i want to say to you,<br/>
+        I feel so weak without you.<br/><br/>
+        I want to keep my moral,<br/>
+        give you some kisses that maybe<br/>
+        ill have to steal<br/>
+        from your mouth, that is so mine<br/>
+        (mine, mine)<br/><br/>
       lyricsEs: |-
-        No te quiero perder
-
-
-
-        Que la distancia se devore nuestra miel
-
-
-
-        Y perdamos la fe.
-
-
-
-
-
-
-
-        No te quiero tener
-
-
-
-        Y cuando menos piense perderte otra vez,
-
-
-
-        Me duele hasta la piel.
-
-
-
-
-
-
-
-        Dentro de mí,
-
-
-
-        Semillas tengo de ti
-
-
-
-        Y sin ti
-
-
-
-        Pueden querer morir.
-
-
-
-
-
-
-
-        Quiero sentarme a llorar,
-
-
-
-        Sacar de adentro mil cosas
-
-
-
-        Que te quiero decir,
-
-
-
-        Me siento tan débil sin ti.
-
-
-
-
-
-
-
-        Quiero guardarme a la moral,
-
-
-
-        Darte unos besos que quizá
-
-
-
-        Tenga que robar
-
-
-
-        De tu boca, mía
-
-
-
-
-
-
-
-        No te quiero perder,
-
-
-
-        Que el amor se acabe y vuelvas a querer
-
-
-
-        Otro sabor a miel.
-
-
-
-
-
-
-
-        No te quiero tener,
-
-
-
-        Porque tanto te amor, comienzo a conocer
-
-
-
-        La intensidad de mi ser.
+        No te quiero perder<br/>
+        Que la distancia se devore nuestra miel<br/>
+        Y perdamos la fe.<br/><br/>
+        No te quiero tener<br/>
+        Y cuando menos piense perderte otra vez,<br/>
+        Me duele hasta la piel.<br/><br/>
+        Dentro de mí,<br/>
+        Semillas tengo de ti<br/>
+        Y sin ti<br/>
+        Pueden querer morir.<br/><br/>
+        Quiero sentarme a llorar,<br/>
+        Sacar de adentro mil cosas<br/>
+        Que te quiero decir,<br/>
+        Me siento tan débil sin ti.<br/><br/>
+        Quiero guardarme a la moral,<br/>
+        Darte unos besos que quizá<br/>
+        Tenga que robar<br/>
+        De tu boca, mía<br/><br/>
+
+        No te quiero perder,<br/>
+        Que el amor se acabe y vuelvas a querer<br/>
+        Otro sabor a miel.<br/><br/>
+        No te quiero tener,<br/>
+        Porque tanto te amor, comienzo a conocer<br/>
+        La intensidad de mi ser.<br/><br/>
       title: 9 - Hasta la Piel
     - lyricsEn: |-
-        I am pleased to love you
-
-
-
-        I enjoy caressing you
-
-
-
-        and putting you to sleep
-
-
-
-
-
-
-
-        it is chilling
-
-
-
-        to have you in front of me
-
-
-
-        and make you smile
-
-
-
-
-
-
-
-        I would give anything
-
-
-
-        for your so exquisite presence
-
-
-
-        and to always be here
-
-
-
-
-
-
-
-        and between all those things i mention
-
-
-
-        let me just Love You
-
-
-
-        surrender to me
-
-
-
-
-
-        I will not fail you
-
-
-
-        I want to grow old by yourside..
-
-
-
-
-
-
-
-        I want to give you a kiss
-
-
-
-        lose my time by your side
-
-
-
-        keep your secrets
-
-
-
-        take care of your moments
-
-
-
-        hug you,
-
-
-
-        wait for you and adore you
-
-
-
-        give you all my patience
-
-
-
-        your madness is my science
-
-
-
-
-
-
-
-        I enjoy, ... looking at you
-
-
-
-        every movement
-
-
-
-        a vice that I have
-
-
-
-        its a pleasure to value you
-
-
-
-        never forget you
-
-
-
-        give you all of my time
-
-
-
-
-
-
-
-        I will not fail you
-
-
-
-        I want to grow old by your side
-
-
-
-
-
-
-
-        I want to give you a kiss
-
-
-
-        lose my time by your side
-
-
-
-        keep your secrets
-
-
-
-        take care of your moments
-
-
-
-        hug you,
-
-
-
-        wait for you and adore you
-
-
-
-        give you all my patience
-
-
-
-        your madness is my science
+        I am pleased to love you<br/>
+        I enjoy caressing you<br/>
+        and putting you to sleep<br/><br/>
+
+        it is chilling<br/>
+        to have you in front of me<br/>
+        and make you smile<br/><br/>
+
+        I would give anything<br/>
+        for your so exquisite presence<br/>
+        and to always be here<br/><br/>
+
+        and between all those things i mention<br/>
+        let me just Love You<br/>
+        surrender to me<br/><br/>
+        I will not fail you<br/>
+        I want to grow old by yourside...<br/>
+        I want to give you a kiss<br/>
+        lose my time by your side<br/>
+        keep your secrets<br/>
+        take care of your moments<br/>
+        hug you,<br/>
+        wait for you and adore you<br/>
+        give you all my patience<br/>
+        your madness is my science<br/><br/>
+
+        I enjoy,... looking at you<br/>
+        every movement<br/>
+        a vice that I have<br/>
+        its a pleasure to value you<br/>
+        never forget you<br/><br/>
+
+        give you all of my time<br/>
+        I will not fail you<br/>
+        I want to grow old by your side<br/>
+
+
+        I want to give you a kiss<br/>
+        lose my time by your side<br/>
+        keep your secrets<br/>
+        take care of your moments<br/>
+        hug you,<br/><br/>
+
+        wait for you and adore you<br/>
+        give you all my patience<br/>
+        your madness is my science<br/><br/>
       lyricsEs: |-
-        Me complace amarte
-
-
-
-        disfruto acariciarte
-
-
-
-        y ponerte a dormir
-
-
-
-
-
-
-
-        es escalofriante
-
-
-
-        tenerte de frente
-
-
-
-        hacerte sonreír
-
-
-
-
-
-
-
-        daría cualquier cosa
-
-
-
-        por tan primorosa
-
-
-
-        por estar siempre aquí
-
-
-
-
-
-
-
-        entre todas esas cosas
-
-
-
-        déjame quererte
-
-
-
-        entrégate a mi
-
-
-
-
-
-
-
-        no te fallare
-
-
-
-        contigo yo quiero envejecer
-
-
-
-
-
-
-
-        quiero darte un beso
-
-
-
-        perder contigo mi tiempo
-
-
-
-        guardar tus secretos
-
-
-
-        cuidar tus momentos
-
-
-
-        abrazarte,
-
-
-
-        esperarte, adorarte
-
-
-
-        tenerte paciencia
-
-
-
-        tu locura es mi ciencia
-
-
-
-
-
-
-
-        disfruto,... mirarte
-
-
-
-        cada movimiento
-
-
-
-        vicio que tengo
-
-
-
-        un gusto valorarte
-
-
-
-        nunca olvidarte
-
-
-
-        entregarte mis tiempos
+        Me complace amarte<br/>
+        disfruto acariciarte<br/>
+        y ponerte a dormir<br/><br/>
+
+        es escalofriante<br/>
+        tenerte de frente<br/>
+        hacerte sonreír<br/><br/>
+
+        daría cualquier cosa<br/>
+        por tan primorosa<br/>
+        por estar siempre aquí<br/><br/>
+
+        entre todas esas cosas<br/>
+        déjame quererte<br/>
+        entrégate a mi<br/><br/>
+
+        no te fallare<br/>
+        contigo yo quiero envejecer<br/><br/>
+
+        quiero darte un beso<br/>
+        perder contigo mi tiempo<br/>
+        guardar tus secretos<br/>
+        cuidar tus momentos<br/>
+        abrazarte,<br/>
+        esperarte, adorarte<br/>
+        tenerte paciencia<br/>
+        tu locura es mi ciencia<br/>
+        disfruto...mirarte<br/>
+        cada movimiento<br/>
+        vicio que tengo<br/>
+        un gusto valorarte<br/>
+        nunca olvidarte<br/>
+        entregarte mis tiempos<br/>
       title: 10 - Disfruto
-    - lyricsEn: "I've been remembering the moments I gave you,\n\n\n\nhow many  you give me and why am I here,\n\n\n\nsitting on the floor thinking of you,\n\n\n\nthat I loved you so much, and that your love is necessary to me \n\n \n\n\n\nLet me cry I want to get it out of my chest,\n\n\n\nwith my tears shut down this fire that burns inside,\x7F\n\n\n\nLet me cry I want to say goodbye in silence,\n\n\n\nmake my mind reason that for this there is no remedy ....\n\n\n\n \n\n\n\nThey were such beautiful encounters ... loving each other without fear,\n\n\n\nyou were the night I was your dream, you were my storyteller,\n\n\n\nI'll forget you I swear, I'm sorry,\n\n\n\nYour love hurts me,\n\n\n\nand this can not be fixed anymore ..\n\n\n\n \n\n\n\nBut love like mine you wont be able to find,\n\n\n\nbecause this love bets even for me ...\n\n \n\n\n\nLet me cry I want to get it out of my chest,\n\n\n\nwith my tears shut down this fire that burns inside,\n\n\n\nLet me cry I want to say goodbye in silence,\n\n\n\nmake my mind reason that for this there is no remedy ...."
+    - lyricsEn: "I've been remembering the moments I gave you,<br/>how many  you give me and why am I here,<br/>sitting on the floor thinking of you,<br/>that I loved you so much, and that your love is necessary to me \n\n <br/>Let me cry I want to get it out of my chest,<br/>with my tears shut down this fire that burns inside,\x7F<br/>Let me cry I want to say goodbye in silence,<br/>make my mind reason that for this there is no remedy ....<br/> <br/>They were such beautiful encounters ... loving each other without fear,<br/>you were the night I was your dream, you were my storyteller,<br/>I'll forget you I swear, I'm sorry,<br/>Your love hurts me,<br/>and this can not be fixed anymore ..<br/> <br/>But love like mine you wont be able to find,<br/>because this love bets even for me ...\n\n <br/>Let me cry I want to get it out of my chest,<br/>with my tears shut down this fire that burns inside,<br/>Let me cry I want to say goodbye in silence,<br/>make my mind reason that for this there is no remedy ...."
       lyricsEs: |-
-        He estado recordando los momentos que te di,
+        He estado recordando los momentos que te di, <br/>
+        cuántos tu me diste y porque ahora estoy aquí, <br/>
+        sentada en el suelo pensando que te quiero, <br/>
+        que te quise tanto, y que tu amor me es necesario. <br/><br/>
 
 
-
-        cuántos tu me diste y porque ahora estoy aquí,
-
-
-
-        sentada en el suelo pensando que te quiero,
-
-
-
-        que te quise tanto, y que tu amor me es necesario.
-
-
-
-
-
-
-
-        Déjenme llorar quiero sacarlo de mi pecho,
-
-
-
-        con mi llanto apagar este fuego que arde adentro,
-
-
-
-        Déjenme llorar quiero despedirme en silencio,
-
-
-
-        hacer mi mente razonar que para esto no hay remedio.
-
-
-
-
-
-
-
-        Fueron tan bellos encuentros, amarnos sin miedo,
-
-
-
-        eres tu la noche y yo tu sueño, tu mi cuenta cuentos,
-
-
-
-        te olvidare te lo juro, lo siento,
-
-
-
-        tu amor me hace daño,
-
-
-
-        y esto no puedes ya arreglarlo,
-
-
-
-        Pero amor como el mío no hallarás por ahí,
-
-
-
-        porque este amor apuesta hasta por mi.
+        Déjenme llorar quiero sacarlo de mi pecho, <br/>
+        con mi llanto apagar este fuego que arde adentro, <br/>
+        Déjenme llorar quiero despedirme en silencio, <br/>
+        hacer mi mente razonar que para esto no hay remedio.<br/><br/>
+        Fueron tan bellos encuentros, amarnos sin miedo, <br/>
+        eres tu la noche y yo tu sueño, tu mi cuenta cuentos, <br/>
+        te olvidare te lo juro, lo siento,<br/> 
+        tu amor me hace daño, <br/>
+        y esto no puedes ya arreglarlo, <br/>
+        Pero amor como el mío no hallarás por ahí, <br/>
+        porque este amor apuesta hasta por mi.<br/>
       title: 11 - Déjenme Llorar
     - lyricsEn: |-
-        You left without saying goodbye,
+        You left without saying goodbye, <br/>
+        thinking only of you <br/>
+        And tell me what do I say to my heart? <br/>
+        If it does not understand the reason you left<br/>
+        and keeps asking for you, it's hard to tell the truth.<br/><br/>
 
-
-
-        thinking only of you
-
-
-
-        And tell me what do I say to my heart?
-
-
-
-        If it does not understand the reason you left
-
-
-
-        and keeps asking for you, it's hard to tell the truth.
-
-
-
-
-
-
-
-        I do not know what to say anymore,
-
-
-
-        I do not know what to feel anymore
-
-
-
-        all I want is to ask you, for a solution for this pain.
-
-
-
-
-
-
-
-        It bothers me when they ask for you
-
-
-
-        They realize that I am lost without you
-
-
-
-        i put makeup on all the ardor that your absence left me
-
-
-
-        and I pretend to live happily
-
-
-
-
-
-
-
-        I do not know what to say anymore,
-
-
-
-        I do not know what to feel anymore
-
-
-
-        all I want is to ask you, for a solution for this pain.
+        I do not know what to say anymore, <br/>
+        I do not know what to feel anymore<br/>
+        all I want is to ask you, for a solution for this pain.<br/><br/>
+        It bothers me when they ask for you <br/>
+        They realize that I am lost without you <br/>
+        i put makeup on all the ardor that your absence left me <br/>
+        and I pretend to live happily<br/>
+        I do not know what to say anymore, <br/>
+        I do not know what to feel anymore<br/>
+        all I want is to ask you, for a solution for this pain.<br/>
       lyricsEs: |-
-        Te fuiste sin despedir, pensando solamente en ti
+        Te fuiste sin despedir, pensando solamente en ti<br/>
+        Y ¿Qué le digo en mi corazón?<br/>
+        Si el no entiende de razón<br/>
+        Y pregunta por ti, es difícil mentir.<br/><br/>
 
+        Yo ya no se que decir,<br/>
+        Ya no se que sentir<br/>
+        Yo te quiero pedir una solución para este dolor<br/><br/>
 
+        Me molesta que me pregunten por ti<br/>
+        Se dan cuenta que me pierdo por ti<br/><br/>
 
-        Y ¿Qué le digo en mi corazón?
-
-
-
-        Si el no entiende de razón
-
-
-
-        Y pregunta por ti, es difícil mentir .
-
-
-
-
-
-
-
-        Yo ya no se que decir,
-
-
-
-        Ya no se que sentir
-
-
-
-        Yo te quiero pedir una solución para este dolor
-
-
-
-
-
-
-
-        Me molesta que me pregunten por ti
-
-
-
-        Se dan cuenta que me pierdo por ti
-
-
-
-
-
-
-
-        Les maquillo todo el ardor
-
-
-
-        que tu ausencia me dejó
-
-
-
-        y pretendo vivir de lo más feliz
+        Les maquillo todo el ardor<br/>
+        que tu ausencia me dejó<br/>
+        y pretendo vivir de lo más feliz<br/>
       title: 12 - Sin Despedir
     - lyricsEn: |-
-        Your silence, it hurts me
-
-
-
-        because it screams, like fire ...
-
-
-
-        You are cold as the wind
-
-
-
-        and it's hard for me to understand
-
-
-
-        Your way of wanting ...
-
-
-
-        Your way of wanting ...
-
-
-
-
-
-
-
-        Mostly, you watch me
-
-
-
-        with questions, successful
-
-
-
-        it projects your pleasure
-
-
-
-        the calm, of your movements
-
-
-
-        Your way of wanting ...
-
-
-
-        Your way of wanting ...
-
-
-
-
-
-
-
-        Your body language, expresses a lot
-
-
-
-        but on your lips I do not see the truth
-
-
-
-        my eyes will discover and I will contemplate
-
-
-
-        Every part of your being ...
-
-
-
-        Your way of wanting me ...
-
-
-
-
-
-
-
-        Your reasons dominate me
-
-
-
-        cautious, they walk
-
-
-
-        Your confidence amazes me
-
-
-
-        it's your magic my defeat ...
-
-
-
-        Your way of wanting ...
-
-
-
-        Your way of wanting ...
-
-
-
-
-
-
-
-        You are the guide, to my blindness
-
-
-
-        that helps me, to look out
-
-
-
-        your memory collapses, my deepest barriers
-
-
-
-        Your way of wanting ...
-
-
-
-        Your way of wanting ...
-
-
-
-
-
-
-
-        Your body language, expresses a lot
-
-
-
-        but on your lips I do not see the truth
-
-
-
-        my eyes will discover and I will contemplate
-
-
-
-        Every part of your being ...
-
-
-
-        Your way of wanting me ...
+        Your silence, it hurts me<br/>
+        because it screams, like fire...<br/>
+        You are cold as the wind<br/>
+        and it's hard for me to understand<br/>
+        Your way of wanting...<br/>
+        Your way of wanting...<br/><br/>
+
+        Mostly, you watch me<br/>
+        with questions, successful<br/>
+        it projects your pleasure<br/>
+
+        the calm, of your movements<br/>
+        Your way of wanting...<br/>
+        Your way of wanting...<br/><br/>
+
+        Your body language, expresses a lot<br/>
+        but on your lips I do not see the truth<br/>
+        my eyes will discover and I will contemplate<br/>
+        Every part of your being...<br/>
+        Your way of wanting me...<br/>
+
+        Your reasons dominate me<br/>
+        cautious, they walk<br/>
+        Your confidence amazes me<br/>
+        it's your magic my defeat...<br/>
+        Your way of wanting...<br/><br/>
+
+        Your way of wanting...<br/>
+        You are the guide, to my blindness<br/>
+        that helps me, to look out<br/><br/>
+
+        your memory collapses, my deepest barriers<br/>
+        Your way of wanting...<br/>
+        Your way of wanting...<br/> <br/>
+
+        Your body language, expresses a lot<br/>
+        but on your lips I do not see the truth<br/>
+        my eyes will discover and I will contemplate<br/>
+        Every part of your being...<br/>
+        Your way of wanting me...<br/><br/>
       lyricsEs: |-
-        Tu silencio me lastima
-
-
-
-        porque grita como el fuego.
-
-
-
-
-
-
-
-        Eres frío como el viento
-
-
-
-        y me cuesta entender
-
-
-
-        tu manera de querer,
-
-
-
-        tu manera de querer.
-
-
-
-
-
-
-
-        Mayormente me vigilas,
-
-
-
-        con preguntas asertivas
-
-
-
-        que proyectan tu placer
-
-
-
-        la calma de tu
-
-
-
-
-
-
-
-        Tu manera de querer,
-
-
-
-        tu manera de querer.
-
-
-
-
-
-
-
-        Tu lenguaje corporal habla de más,
-
-
-
-        y en tus labios no leo esa verdad.
-
-
-
-
-
-
-
-        Mis ojos descubriré y contemplaré
-
-
-
-        cada parte de tu ser.
-
-
-
-
-
-
-
-        Tu manera de querer.
-
-
-
-
-
-
-
-        Tus razones me dominan
-
-
-
-        cautelosas que encaminan
-
-
-
-        tu seguridad me asombra
-
-
-
-        es tu magia mi derrota.
-
-
-
-
-
-
-
-        Tu manera de querer,
-
-
-
-        tu manera de querer.
-
-
-
-
-
-
-
-        Eres la guía (eres la guía)
-
-
-
-        a mi ceguera (a mi ceguera)
-
-
-
-        que me ayuda (que me ayuda)
-
-
-
-        a mirar hacia afuera.
-
-
-
-
-
-
-
-        Tu recuerdo me derrumba
-
-
-
-        mis barreras más profundas,
-
-
-
-        tu manera de querer,
-
-
-
-        tu manera de querer.
+        Tu silencio me lastima<br/>
+        porque grita como el fuego.<br/><br/>
+
+        Eres frío como el viento<br/>
+        y me cuesta entender<br/>
+        tu manera de querer,<br/>
+        tu manera de querer.<br/><br/>
+
+        Mayormente me vigilas,<br/>
+        con preguntas asertivas<br/>
+        que proyectan tu placer<br/>
+        la calma de tu<br/>
+
+        Tu manera de querer,<br/>
+        tu manera de querer.<br/><br/>
+
+        Tu lenguaje corporal habla de más,<br/>
+        y en tus labios no leo esa verdad.<br/><br/>
+
+        Mis ojos descubriré y contemplaré<br/>
+        cada parte de tu ser.<br/><br/>
+
+        Tu manera de querer.<br/><br/>
+        Tus razones me dominan<br/>
+        cautelosas que encaminan<br/>
+        tu seguridad me asombra<br/>
+        es tu magia mi derrota.<br/><br/>
+
+        Tu manera de querer,<br/>
+        tu manera de querer.<br/><br/>
+
+        Eres la guía (eres la guía)<br/>
+        a mi ceguera (a mi ceguera)<br/>
+        que me ayuda (que me ayuda)<br/>
+        a mirar hacia afuera.<br/><br/>
+
+        Tu recuerdo me derrumba<br/>
+        mis barreras más profundas,<br/>
+        tu manera de querer,<br/>
+        tu manera de querer.<br/><br/>
       title: 13 -  Tu Manera de Querer
-    - lyricsEn: "I'm leaving \n\n\n\nI'm determined \n\n\n\nand it hurts to take t\x7Fhe exit \n\n\n\nI know\n\n\n\n I'll keep thinking about the ties \n\n\n\nwe wove, when we kissed yesterday\n\n\n\n \n\n\n\nToday I am leaving, saying goodbye \n\n\n\nhopefully the future will return you to me, my love\n\n\n\n \n\n\n\nIt hurts me so much to see us part ways, \n\n\n\nbut it may not be the end, \n\n\n\nI may come back here again and, \n\n\n\nwithout a doubt, we will be reunited again.\n\n\n\n \n\n\n\nI run! I pay my fare \n\n\n\nI get on the train and \n\n\n\nI hurry to you. \n\n \n\n\n\nYou're still standing there! \n\n\n\nYour eyes reflect the damage Im guilty of\n\n\n\n \n\n\n\nstill you can understand\n\n\n\nthat we both have things to solve\n\n\n\n \n\n\n\nIt hurts me so much to see us part ways, \n\n\n\nbut it may not be the end, \n\n\n\nI may come back here again and, \n\n\n\nwithout a doubt, we will be reunited again."
+    - lyricsEn: "I'm leaving<br/>I'm determined<br/>nand it hurts to take t\x7Fhe exit <br/>I know<br/> I'll keep thinking about the ties <br/>we wove, when we kissed yesterday<br/> <br/>Today I am leaving, saying goodbye <br/>hopefully the future will return you to me, my love<br/> <br/>It hurts me so much to see us part ways, <br/>but it may not be the end, <br/>I may come back here again and, <br/>without a doubt, we will be reunited again.<br/> <br/>I run! I pay my fare <br/>I get on the train and <br/>I hurry to you. \n\n <br/>You're still standing there! <br/>Your eyes reflect the damage Im guilty of<br/> <br/>still you can understand<br/>that we both have things to solve<br/> <br/>It hurts me so much to see us part ways, <br/>but it may not be the end, <br/>I may come back here again and, <br/>without a doubt, we will be reunited again."
       lyricsEs: |-
-
-
-        Pero que falta de respeto,
-
-
-
-        haces de mi lo que quieres
-
-
-
-        porque sabes que te espero
-
-
-
-        sabes que tú, tú me tienes.
-
-
-
-
-
-
-
-        Una cosa lleva a la otra
-
-
-
-        y vengo a ti con mis mieles
-
-
-
-        lo mejor de mi, tu dueño eres
-
-
-
-
-
-
-
-        Tus miradas agitan mi calma
-
-
-
-        me hacen sentir que me quieres,
-
-
-
-        eres un diamante brillante
-
-
-
-        que luce a mi, cuando quiere.
-
-
-
-
-
-
-
-        Esa cosa inalcanzable
-
-
-
-        que hace de mi una leve
-
-
-
-        obsesión de poder sostenerte.
-
-
-
-
-
-
-
-        Tu vienes y vas, me besas
-
-
-
-        y luego te olvidas
-
-
-
-        juegas con las mareas que viven en mi,
-
-
-
-        aquellas que te demuestran este sentir
-
-
-
-        y luego te vas por ahí, ya no se de ti
-
-
-
-        ¿como me desprendo yo de ti?
-
-
-
-        si cuando me rindo vuelves a mi
-
-
-
-
-
-
-
-        Luego viene la mañana
-
-
-
-        te pierdes de mi, de mi cama
-
-
-
-        eres tan moderno que mis caricias
-
-
-
-        ya son anticuadas
-
-
-
-        con versos te aviento besos
-
-
-
-        queriendo atrapar tus miradas
-
-
-
-        pero a ti te gustan las que te rechazan.
-
-
-
-
-
-
-
-        Tu vienes y vas
-
-
-
-        te alejas y luego regresas
-
-
-
-        juegas con las mareas
-
-
-
-        con las mareas que viven en mi,
-
-
-
-        aquellas que te demuestran este sentir
-
-
-
-        y luego te vas por ahí ya no se de ti
-
-
-
-        ¿Cómo me desprendo yo de ti?
-
-
-
-
-
-
-
-        Juegas con las mareas
-
-
-
-        con las mareas que viven en mi,
-
-
-
-        aquellas que te demuestran este sentir
-
-
-
-        y luego te vas por ahí ya no se de ti
-
-
-
-        ¿Cómo me desprendo yo de ti?
-
-
-
-        si cuando me rindo vuelves a mi
+        Pero que falta de respeto,<br/>
+        haces de mi lo que quieres<br/>
+        porque sabes que te espero<br/>
+        sabes que tú, tú me tienes.<br/><br/>
+
+        Una cosa lleva a la otra<br/>
+        y vengo a ti con mis mieles<br/>
+        lo mejor de mi, tu dueño eres<br/><br/>
+
+        Tus miradas agitan mi calma<br/>
+        me hacen sentir que me quieres,<br/>
+        eres un diamante brillante<br/>
+        que luce a mi, cuando quiere.<br/><br/>
+
+        Esa cosa inalcanzable<br/>
+        que hace de mi una leve<br/>
+        obsesión de poder sostenerte.<br/><br/>
+
+        Tu vienes y vas, me besas<br/>
+        y luego te olvidas<br/>
+        juegas con las mareas que viven en mi,<br/>
+        aquellas que te demuestran este sentir<br/>
+        y luego te vas por ahí, ya no se de ti<br/>
+        ¿como me desprendo yo de ti?<br/><br/>
+
+        si cuando me rindo vuelves a mi<br/>
+        Luego viene la mañana<br/>
+        te pierdes de mi, de mi cama<br/>
+        eres tan moderno que mis caricias<br/>
+        ya son anticuadas<br/>
+        con versos te aviento besos<br/>
+        queriendo atrapar tus miradas<br/>
+        pero a ti te gustan las que te rechazan.<br/><br/>
+
+        Tu vienes y vas<br/>
+        te alejas y luego regresas<br/>
+        juegas con las mareas<br/>
+        con las mareas que viven en mi,<br/>
+        aquellas que te demuestran este sentir<br/>
+        y luego te vas por ahí ya no se de ti<br/>
+        ¿Cómo me desprendo yo de ti?<br/><br/>
+
+        Juegas con las mareas<br/>
+        con las mareas que viven en mi,<br/>
+        aquellas que te demuestran este sentir<br/>
+        y luego te vas por ahí ya no se de ti<br/>
+        ¿Cómo me desprendo yo de ti?<br/>
+        si cuando me rindo vuelves a mi<br/><br/>
       title: 14 - Me Puede / Falta de Respeto
----
-
