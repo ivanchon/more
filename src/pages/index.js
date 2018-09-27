@@ -215,6 +215,13 @@ export default class IndexPage extends React.Component {
                   </div>
                 ))}
               </div>
+              <div className="row">
+              <div className="col text-right">
+                <Link className="btn btn-ghost-primary" to="/blog">
+                  Ver mas →
+                </Link>
+              </div>
+            </div>
             </div>
           </section>
 

@@ -1056,7 +1056,7 @@ songs:
         voy a fugarme otra vez no quiero herirme, no se<br/>
         Tengo miedo mucho miedo es importante lo es, mi corazón ya no cree esta<br/>
         Seco ya muy seco<br/><br/>
-      title: 22 - Me Encantas (Noyte Remix)
+      title: 22 - Me Encanta (Noyte Remix)
     - lyricsEn: Translation coming soon!
       lyricsEs: |-
         No te quiero perder<br/>
