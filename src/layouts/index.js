@@ -4,6 +4,7 @@ import Helmet from 'react-helmet'
 
 import NavbarMain from '../components/NavbarSP'
 import SpotPlayer from '../components/SpotPlayer'
+import SoundcloudPlayer from '../components/SoundcloudPlayer'
 import Footer from '../components/Footer'
 //import favicon from '../img/favicon.ico'
 
@@ -27,7 +28,7 @@ const TemplateWrapper = ({ children }) => (
     <div>{children()}</div>
 
     <div >
-      <SpotPlayer/>
+      <SoundcloudPlayer/>
     </div>
     <Footer />
   </div>

@@ -90,7 +90,49 @@ songs:
         y yo sigo parada a aquí <br/>
         yo sigo aquí<br/><br/>
       title: 1 - Yo Sigo Aquí
-    - lyricsEn: Translation coming soon!
+    - lyricsEn: 
+        I want to share my chair with you, <br/>
+        I want to see the sun rise and go down with you, <br/>
+        I want to walk and run by your side<br/>
+        I want to seek and find myself alone with you.<br/><br/>
+
+        I want to sleep and dream, caressing you, <br/>
+        I want to laugh and cry looking in to your little eyes, <br/>
+        I want to share my secrets and my sighs, <br/>
+        I want to learn to understand the world with you...<br/><br/> 
+
+        But there is one thing that I must say, <br/>
+        It is not easy, to be so far away! <br/>
+
+        Because you make me crazy <br/>
+        You fill my skin <br/>
+        Every part of your being <br/>
+        is food to my well being<br/>
+        I remember to breathe <br/>
+        And start trembling<br/>
+        Every step that you take<br/>
+        only affirms my love...<br/><br/>
+
+        I long to sleep in your eyes and in your senses, <br/>
+        I long to pour my love and whisper it in your ears,<br/>
+        I long to surrender my being and to fly with you, <br/>
+        I would love to share all of my life beside you... <br/><br/>
+
+        But there is one thing that I must say, <br/>
+        It is not easy, to be so far away! <br/>
+
+        Because you make me crazy <br/>
+        You fill my skin <br/>
+        Every part of your being <br/>
+        is food to my well being<br/>
+        I remember to breathe <br/>
+        And start trembling<br/>
+        Every step that you take<br/>
+        only affirms my love...<br/><br/>
+
+        Oh oh, <br/>
+        Oh, oh, oh, oh x 4<br/><br/>  
+
       lyricsEs: |-
         Quiero compartir mi silla... contigo, <br/>
         Quiero ver salir el sol... y despedirlo, <br/>
@@ -138,7 +180,28 @@ songs:
         Cada paso que das <br/>
         Afirmas mi amar.<br/>
       title: 2 - Compartir
-    - lyricsEn: Translation coming soon!
+    - lyricsEn: 
+        These tears of mine<br/>
+        these tears of mine<br/>
+        these tears of mine<br/>
+        these tears... of mine<br/><br/>
+
+        They come from the sea<br/> 
+        from ​​the immensity of everything <br/>
+        they cover the earth <br/>
+        they make everything work <br/>
+        their taste is salted and have a language for themselves <br/>
+        they come from within the deepest feeling<br/><br/>
+
+        These Tears of mine (x 4) <br/><br/>
+
+        They can express emotions, gratitude, love, melancholy<br/>
+        they are an infinite sea, can express hate and need <br/>
+        these tears run thru my cheeks <br/>
+        they have their own language, friends of my little heart... <br/><br/>
+
+        These Tears of mine (x 4) <br/><br/>
+
       lyricsEs: |-
         Estas lágrimas <br/>
         Ellas vienen del mar<br/>
@@ -162,7 +225,35 @@ songs:
         amigas de mi corazoncito<br/> 
         Estas lágrimas<br/><br/>
       title: 3 - Lágrimas
-    - lyricsEn: Translation coming soon!
+    - lyricsEn: 
+        Your silences are the waves of my internal sea<br/>
+        that shelter my moments of solitude <br/>
+        And I can not find words to describe <br/>
+        this emptiness that you fill and then you make sink... <br/><br/>
+
+        You terrify me <br/>
+        you simplify me<br/>
+        while we go in circles attached <br/>
+        you breathe me<br/>
+        you are my caress <br/>
+        my complete delight <br/>
+        you are pure good malice <br/>
+        you are pure good malice... <br/><br/>
+
+        And I search and find pieces of you <br/>
+        that translate to me “do not fear that do love you”<br/>
+        but I feel your silence shelter my thoughts<br/> 
+        that bring doubt that make me think to much... <br/><br/>
+
+        You terrify me <br/>
+        you simplify me<br/>
+        while we go in circles attached <br/>
+        you breathe me<br/>
+        you are my caress <br/>
+        my complete delight <br/>
+        you are pure good malice <br/>
+        you are pure good malice... <br/><br/>
+
       lyricsEs: |-
         Tus silencios<br/>
         son las olas de mi mar<br/>
@@ -187,7 +278,9 @@ songs:
         pero me siento con tu silencio a cobijar<br/>
         pensamientos que traen dudas que hacen pensar.<br/>
       title: 4 - Buena Malicia
-    - lyricsEn: Translation coming soon!
+    - lyricsEn: 
+
+
       lyricsEs: |-
         Porque te escondes<br/>
         si todavía te veo<br/>
