@@ -28,7 +28,7 @@ const TemplateWrapper = ({ children }) => (
     <div>{children()}</div>
 
     <div >
-      <SoundcloudPlayer/>
+      <SpotPlayer/>
     </div>
     <Footer />
   </div>
