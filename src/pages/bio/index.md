@@ -292,10 +292,181 @@ Aunado a ello, el 18 de junio del mismo año, _Forbes México_ publicó la lista
 
 40 JOSUELO (2011). “Vive Latino 2011: domingo”. Me Hace Ruido, 11 de abril. Disponibleen <https://goo.gl/4qjtmY> [última consulta: 16 de agosto de 2017].
 
+41 Talks Best Latin PopAlbum Nod”. Billboard, 5 de febrero. Disponible en <https://goo.gl/xZXcpG> [últimaconsulta: 16 de agosto de 2017].
+
+42 LIFEBOXSET (2013). “Reseña del Vive Latino 2013: sábado”. Lifeboxset, 17 de marzo.Disponible en <https://goo.gl/Wiu4Lv> [última consulta: 16 de agosto de 2017].
+
+43 LIFEBOXSET (2013). “Horarios, mapa y cartel oficiales del festival Vive Latino 2013”.Lifeboxset, 13 de marzo. Disponible en <https://goo.gl/gbXQdi> [última consulta: 16 deagosto de 2017].
+
+44 ME HACE RUIDO (2012). “Russian Red + Natalia Lafourcade + Carla Morrison + LidoPimienta @ Festival Viva la Canción, España”. Me Hace Ruido, 23 de abril. Disponible en<https://goo.gl/YEj4HY> [última consulta: 16 de agosto de 2017].
+
+45 ESCOBAR CRUZ, Nidia Stella (s.f.). “Inició el Festival Centro 2012”. Rock X México.Disponible en <https://goo.gl/HrgH9m> [última consulta: 16 de agosto de 2017].
+
+46 INDIE ROCKS (2012). “Pa'l Norte Rock Festival”. Indie Rocks, 30 de noviembre.Disponible en <https://goo.gl/qA1twr> [última consulta: 16 de agosto de 2017].
+
+47 ME HACE RUIDO (2012). “Cartel de Lollapalooza Chile 2013”. Me Hace Ruido, 30 deseptiembre. Disponible en <https://goo.gl/zQ6356> [última consulta: 16 de agosto de2017].
+
+48 BRANDLE, Lars (2013). “Intocable, Los Lobos, Carla Morrison Among Headliners forPachanga Latino Music Fest”. Billboard, 4 de abril. Disponible en <https://goo.gl/w5jjLX>[última consulta: 16 de agosto de 2017].
+
+49 AL BORDE NEWS (2012). “LAMC 2012 Full Line-Up, Includes Calle 13, Monica Lionheart,and others”. Al Borde, 31 de mayo. Disponible en <https://goo.gl/2eqzLW> [últimaconsulta: 16 de agosto de 2017].
+
+50 ZONA DE OBRAS (2013). “LAMC 2013”. Zona de Obras, 9 de julio. Disponible en <https://goo.gl/nbXTAF> [última consulta: 16 de agosto de 2017].
+
+51 Rainbows, CarlaMorrison & More”. Remezcla, 7 de marzo. Disponible en <https://goo.gl/E9t8ek> [últimaconsulta: 16 de agosto de 2017].
+
+52 CORE, Alixx (s.f.). “Carla Morrison con todos sus "pajaritos", en la jaula más imponente:Auditorio Nacional”. Vagabundos MX. Disponible en <https://goo.gl/5Z8Jo7> [últimaconsulta: 11 de agosto de 2017].
+
+53 DISCOGS (s.f.). “Juan Gabriel – Los Dúo 2”. Discogs. Disponible en <https://goo.gl/4ixrPz> [última consulta: 16 de agosto de 2017].
+
+54 DISCOGS (s.f.). “Los Ángeles Azules – Cómo Te Voy A Olvidar (¡Edición De SuperLujo!)”. Discogs. Disponible en <https://goo.gl/3PxM83> [última consulta: 16 de agosto de2017].
+
+55 MVS NOTICIAS (2013). “Presenta Leonel García nuevo álbum ‘Todas Mías. EdiciónDeluxe’”. MVS Noticias, 5 de noviembre. Disponible en <https://goo.gl/Znq7Xz> [últimaconsulta: 16 de agosto de 2017].
+
+56 WARP (2014). “Escucha ‘A Dónde Van Los Muertos’ unplugged de Kinky ft. CarlaMorrison”. Warp, 30 de septiembre. Disponible en <https://goo.gl/KAE1Ja> [últimaconsulta: 16 de agosto de 2017].
+
+57 ORTEGA, Giovanni (2015). “Ximena Sariñana colabora con Ana Torroja y CarlaMorrison”. Crónica, 22 de febrero. Disponible en <https://goo.gl/cvTnb5> [última consulta:16 de agosto de 2017].
+
+58 AL BORDE (2013). “Carla Morrison to launch Pan Dulce Productions”. Al Borde, 18 deabril. Disponible en <https://goo.gl/U3WyhH> [última consulta: 11 de agosto de 2017].
+
+59 GONZÁLEZ, Katy (2013). “Carla Morrison y Pan Dulce Productions ayudan a la músicaindie de América Latina”. Pulsobeat, 7 de agosto. Disponible en <https://goo.gl/SXLVRe>[última consulta: 11 de agosto de 2017].
+
+60 ZETA (2013). «Bien asesorada». Zeta, 26 de julio. Disponible en <https://goo.gl/zgf6ac>[última consulta: 16 de agosto de 2017]. 
+
+61 'Conceptual' and'Emotional' New Album”. Billboard, 28 de septiembre. Disponible en <https://goo.gl/72b7RX> [última consulta: 16 de agosto de 2017].
+
+62 20 MINUTOS (2015). “Carla Morrison es la primera mexicana que se escucha en Beats1”. 20 Minutos, 15 de septiembre. Disponible en <https://goo.gl/jQF9rz> [última consulta:16 de agosto de 2017].
+
+63 RECONOCE MX (s.f.) “‘Un beso’, de Carla Morrison”. Reconoce Mx. Disponible en<https://goo.gl/SGA5WL> [última consulta: 16 de agosto de 2017].
+
+64 CANALES, Mariana (2016). “Carla Morrison está en la lista de los nominados de los LatinGrammy 2016”. Grita Radio, 22 de septiembre. Disponible en <https://goo.gl/cP3Wh9>[última consulta: 17 de agosto de 2017].
+
+65 BARRERA, Juliana (2017). “Éstos son los nominados a Premio Lo Nuestro”. MundoHispánico. Disponible en <https://goo.gl/LFHS18> [última consulta: 16 de agosto de2017].
+
+66 RECORDING ACADEMY GRAMMY AWARDS (s.f.). “Northern Cree and Carla Morrisonperform ‘Cree Cuttin’ and ‘Un Beso’ at the 59th GRAMMY Awards Premiere Ceremony onFeb. 12, 2017, in Los Angeles”. Disponible en <https://goo.gl/M24tK9> [última consulta: 16de agosto de 2017].
+
+67 LATIN GRAMMY AWARDS (s.f.). “Latin Grammy Awards. Ganadores anteriores”. LatinGrammy Awards. Disponible en <https://goo.gl/K7npkA> [última consulta: 16 de agosto de2017].
+
+68 RATLIFF, Ben (2015). “Review: In Carla Morrison’s ‘Amor Supremo,’ Love and the Void”.The New York Times, 4 de noviembre. Disponible en <https://goo.gl/GNVHF6> [últimaconsulta: 16 de agosto de 2017].
+
+69 ROTHMAN, Joshua (2015). “Listen to Carla Morrison”. The New Yorker, 10 de diciembre. Disponible en <https://goo.gl/3huWWz> [última consulta: 16 de agosto de 2017]. 
+
+70 The Boston Globe, 12 denoviembre. Disponible en <https://goo.gl/cbpdGk> [última consulta: 16 de agosto de2017].
+
+71 DEUSNER, Stephen M. (2015). “Carla Morrison. Amor Supremo”. Pitchfork, 5 denoviembre. Disponible en <https://goo.gl/3kZBHa> [última consulta: 16 de agosto de2017].
+
+72 JOSUELO (2017). «Carla Morrison @ Teatro de la Ciudad Esperanza Iris». Me HaceRuido, 27 de febrero. Disponible en <https://goo.gl/CsRf7L> [última consulta: 16 de agostode 2017].
+
+73 MONTERREY ROCK (2016). “Carla Morrison: presente en Pal Norte”. Monterrey Rock, 10de abril. Disponible en <https://goo.gl/JefVqG> [última consulta: 16 de agosto de 2017].
+
+74 MARTÍNEZ, Ruy (2016). “Vive Latino 2016”. Indie Rocks, 25 de abril. Disponible en<https://goo.gl/duZm9z> [última consulta: 16 de agosto de 2017].
+
+75 HUITRÓN, Abraham (2016). “Coordenada 2016, el festival que puso a Guadalajara en lamira”. Sopitas, 23 de octubre. Disponible en <https://goo.gl/TQK92y> [última consulta: 16de agosto de 2017].
+
+76 ARELLANO GARCÍA, César (2016). “Carla Morrison y sus fans desafían al mal clima en elZócalo”. La Jornada, 20 de agosto. Disponible en <https://goo.gl/3vMmTa> [últimaconsulta: 16 de agosto de 2017].
+
+77 FLORES, Griselda (2016). “For Carla Morrison Performing at Coachella Was a DreamCome True”. Billboard, 16 de abril. Disponible en <https://goo.gl/HD5EDs> [últimaconsulta: 16 de agosto de 2017].
+
+78 MENDOZA, Erich (2016). “Ruido Fest Chicago: La dualidad entre lo viejo y lo que estápor venir en la música latina”. Noisey, 12 de julio. Disponible en <https://goo.gl/KTMZf7>[última consulta: 16 de agosto de 2017]. 
+
+ 79 CA 2016”. DifuzionMagazine, 7 de agosto. Disponible en <https://goo.gl/NvXKWZ> [última consulta: 16 deagosto de 2017].
+
+80 RECITAL. CL (2016). “Imágenes de Carla Morrison en Fiis 2016”. Recital.Cl, 5 denoviembre. Disponible en <https://goo.gl/Hij15b> [última consulta: 16 de agosto de 2017].
+
+81 EL UNIVERSAL (2016). “Rinden Homenaje a Soda Stereo en Festival de Buenos Aires”.El Universal, 12 de noviembre. Disponible en <https://goo.gl/nQcDxf> [última consulta: 16de agosto de 2017].
+
+82 JEREZ, Álex (2016). “DCODE Festival 2016”. Mondo Sonoro, 12 de septiembre.Disponible en <https://goo.gl/GVssNf> [última consulta: 16 de agosto de 2017].
+
+83 GUZMÁN, María Ángeles (2016). “Carla Morrison impregna Sevilla con su ‘AmorSupremo’”. Sevilla World, 7 de septiembre. Disponible en <https://goo.gl/VYTSo1> [últimaconsulta: 16 de agosto de 2017].
+
+84 BILBAO BBK LIVE (2017). “Bilbao BBK Live presenta su cartel por días y confirmadiecisiete nombres más”. Bilbao BBK Live, 16 de marzo. Disponible en <https://goo.gl/aqaoM2> [última consulta: 16 de agosto de 2017].
+
+85 CORPORACIÓN DE RADIO Y TELEVISIÓN ESPAÑOLA (RTVE) (2017). “Los sonidoslatinoamericanos protagonizan La Mar de Músicas”. RTVE, 13 de junio. Disponible en<https://goo.gl/nFBjE1> [última consulta: 16 de agosto de 2017].
+
+86 AMÉZQUITA, Ángel (2016). “Carla Morrison estrena ‘Vez Primera’ #VL16”. Indie Rocks, 6de abril. Disponible en <https://goo.gl/udS269> [última consulta: 16 de agosto de 2017].
+
+87 CARLA MORRISON MUSIC (2016). “Carla Morrison - Azúcar Morena (Official Video)”.YouTube. Disponible en <https://youtu.be/YxCNd7nknyQ> [última consulta: 16 de agostode 2017].
+
+88 CARLA MORRISON MUSIC (2016). “Carla Morrison - No Vuelvo Jamás (Official Video)”.YouTube. Disponible en <https://www.youtube.com/watch?v=uSkZKHtkEdc> [últimaconsulta: 16 de agosto de 2017]. 
+
+89 Video)”. YouTube.Disponible en <https://www.youtube.com/watch?v=ZKuUcErjS-A> [última consulta: 16 deagosto de 2017].
+
+90 ROSADO, Glenda (2017). “La cantante Carla Morrison nos habla de su música y de todolo que la inspira”. Vix. Disponible en <https://goo.gl/i8Ba2T> [última consulta: 11 de agostode 2017].
+
+91 DIFUZION ALTERNATIVA (2017). Documental de Carla Morrison en camino”. DifuzionAlternativa, 21 de enero. Disponible en <https://goo.gl/yQM1su> [última consulta: 16 deagosto de 2017].
+
+92 AL DÍA DALLAS (2016). “Carla Morrison habla sobre su disco de villancicos ‘La Niña delTambor’”. Al Día Dallas, 20 de diciembre. Disponible en <https://goo.gl/ZFCGRk> [últimaconsulta: 16 de agosto de 2017].
+
+93 CARLA MORRISON (2016). La Niña del Tambor [CD]. Ciudad de México, México: MorrisonProductions.
+
+94 CARLA MORRISON MUSIC (2017). “Carla Morrison - Te Regalo (Official Video)”. YouTube.Disponible en <https://goo.gl/x7CT8Y> [última consulta: 16 de agosto de 2017].
+
+95 ABE, John (2017). “Carla Morrison presenta Amor Supremo Desnudo”. Eter Magazine, 7de junio. Disponible en <https://goo.gl/LPejQU> [última consulta: 16 de agosto de 2017].
+
+96 ORTA, Marisol (2017). “Carla Morrison ‘se desnuda’ ante Amor Supremo”. Publímetro,10 de junio. Disponible en <https://goo.gl/HVJmc5> [última consulta: 16 de agosto de2017].
+
+97 MILENIO (2015). “Enrique Bunbury toca con amigos en MTV Unplugged”. Milenio, 1 deseptiembre. Disponible en <https://goo.gl/BWdqWN> [última consulta: 16 de agosto de2017].
+
+98 CANTOR-NAVAS, Judy (2016). “Carla Morrison 'Shines' Singing en Español onMacklemore & Ryan Lewis' New Album”. Billboard, 18 de febrero. Disponible en <https://goo.gl/dk8EJU> [última consulta: 11 de agosto de 2017]. 
+
+99 sonorizan una tristehistoria”. Rockadictos, 11 de febrero. Disponible en <https://goo.gl/YjTs59> [últimaconsulta: 16 de agosto de 2017].
+
+100 SITIO OFICIAL DE DANI MARTÍN (2017). “Dani Martín lanza ‘Que se mueran de envidia’,nuevo single a dúo con Carla Morrison, el 5 de mayo”. Disponible en <https://goo.gl/sXkMCa> [última consulta: 16 de agosto de 2017].
+
+101 EXPOSITO, Suzy (2018). “J Balvin’s Latin Pop Crusade”. Rolling Stone, 7 de mayo.Disponible en <https://www.rollingstone.com/music/music-latin/j-balvins-latin-popcrusade-201922/> [última consulta: 27 de julio de 2018].
+
+102 TECHNOLOGY, ENTERTAINMENT, DESIGN (TED) (2017). “TEDx Tlalpan. Theme: El Origen”.TED. Disponible en <https://goo.gl/FJ35kb> [última consulta: 16 de agosto de 2017].
+
+103 DE LA CRUZ POLANCO, Fabián (2017). “Carla Morrison prepara su debut comocineasta”. Filmeweb, 22 de mayo. Disponible en <https://goo.gl/b8zCTL> [última consulta:16 de agosto de 2017].
+
+104 INTERNATIONAL MOVIE DATABASE (IMDB) (2015). “Ana Maria in Novela Land (2015)”.IMDB. Disponible en <https://goo.gl/GUhTyo> [última consulta: 16 de agosto de 2017].
+
+105 MOLINA, Mary Angélica (2015). “Exclusive Clip: Songstress Carla Morrison TalksGetting Humble and Acting in Her First Film”. Remezcla, 9 de febrero. Disponible en<https://goo.gl/8Pf34q> [última consulta: 16 de agosto de 2017].
+
+106 SOUNDTRACK.NET (s.f.). “Ana María in Novela Land”. Soundtrack.Net. Disponible en<https://goo.gl/Eeqntt> [última consulta: 16 de agosto de 2017].
+
+107 FLORES, Griselda (2017). “Carla Morrison, Gaby Moreno & More on 'How to Be a LatinLover' Soundtrack: Exclusive”. Billboard, 4 de julio. Disponible en <https://goo.gl/2cTW4t>[última consulta: 16 de agosto de 2017].
+
+108 FLORES, Griselda (2017). “Carla Morrison's ‘Eres tu’ Featured on Guillermo del Toro'sNew Netflix Series”. Billboard, 6 de enero. Disponible en <https://goo.gl/Y3ZiNx> [últimaconsulta: 16 de agosto de 2017].
+
+109 Capítulo 02.#SoyMéxico”. Disponible en <https://www.youtube.com/watch?v=GCsmj_Ae7RU> [últimaconsulta: 27 de julio de 2018].
+
+110 FILTER MÉXICO (s.f.). “Banda de Turistas, Enjambre y Carla Morrison ayudan a Luz deVida”. Filter México. Disponible en <https://goo.gl/QRQTv6> [última consulta: 16 de agostode 2017].
+
+111 INFORMADOR.MX (s.f.). “Carla Morrison dona guitarra para ayudar a niños con cáncer”.Informador.Mx. Disponible en <https://goo.gl/t16TaK> [última consulta: 16 de agosto de2017].
+
+112 LA SALUD. (2011). “Cáncer de piel se duplica en la última década: FMD”. La Salud, 12de diciembre. Disponible en <https://goo.gl/VLe4HE> [última consulta: 16 de agosto de2017].
+
+113 PETA LATINO (s.f.). “Carla Morrison: Adopta, no compres”. PETA Latino. Disponible en<https://goo.gl/pyjWLm> [última consulta: 16 de agosto de 2017].
+
+114 STAFF ROLLING STONE MÉXICO (2012). “Natalia LaFourcade, Carla Morrison,Torreblanca, Vicente Gayo y más en el tema ‘Un Derecho de Nacimiento’”. Rolling Stone,28 de junio. Disponible en <https://goo.gl/j8tG5C> [última consulta: 16 de agosto de 2017].
+
+115 MORRISON, Carla (2017). “Carla Morrison: Love Letter to the LGBTQ Community”.Billboard, 1 de junio. Disponible en <https://goo.gl/HV2YPc> [última consulta: 16 deagosto de 2017].
+
+116 LUCARIO, Sandra (2016). “El compromiso de 'El Chivo' con la libertad de expresión”.Huffington Post, 10 de junio. Disponible en <https://goo.gl/V88v16> [última consulta: 16 deagosto de 2017].
+
+117 CHINEA, Rocío (2017). “Cuando Carla Morrison le dio una lección a sus haters”.Compra Moda Nacional, 7 de octubre. Disponible en <https://goo.gl/S8SMMD> [últimaconsulta: 16 de agosto de 2017].
+
+118 Trump at LatinGrammy’s". AXS, 22 de noviembre. Disponible en <https://goo.gl/7gnEfy> [última consulta:16 de agosto de 2017].
+
+119 AIDS HEALTHCARE FOUNDATION MÉXICO (AHF) (2017). “Embajadores musicales AHFMéxico: Música, compromiso y voz se suman para la prevención y detección del VIH”.Disponible en <https://goo.gl/qRQoCa> [última consulta: 26 de julio de 2018].
+
+120 SEDESO CDMX (2017). “Prevención del VIH con la Embajadora Musical AHF CarlaMorrison”. Disponible en <https://goo.gl/afWExQ> [última consulta: 26 de julio de 2018].
+
+121 HUERTA ORTIZ, César (2018). “La increíble e inspiradora vida de la triste CarlaMorrison”. El Universal, 4 de agosto. Disponible en <https://goo.gl/34f92z> [últimaconsulta: 16 de agosto de 2018].
+
+122 THE FEMALE QUOTIENT (2018). “The Female Quotient to Host the First Girls’ Lounge atthe 2018 Cannes Film Festival”. PR Newswire, 11 de mayo. Disponible en <https://goo.gl/oD31DQ> [última consulta: 19 de julio de 2018].
+
+123 THE FEMALE QUOTIENT (2018). “Cannes Lions 2018”. Disponible en <https://goo.gl/15p6Q4> [última consulta: 19 de julio de 2018].
+
+124 THE FEMALE QUOTIENT (2018). “The Girls' Lounge @ Cannes Lions 2018: CommunityWithout Borders - Music's Power To Unite Us”. Disponible en <https://goo.gl/g5xLs3>[última consulta: 19 de julio de 2018].
+
+125 FORBES (2018). “Las 30 promesas de los negocios Forbes”. Disponible en <https://goo.gl/WjmXPT> [última consulta: 19 de julio de 2018].
+
+126 FORBES (2018). “Se necesita afrontar los fracasos para triunfar: Carla Morrison”.Disponible en <https://goo.gl/JJ2w5G> [última consulta: 19 de julio de 2018].
+
+127 FORBES MÉXICO (2018). “30 Promesas de los Negocios Forbes”. Disponible en <https://goo.gl/UkrXbk> [última consulta: 19 de julio de 2018].
+
+128 FORBES (2018). “Lista. Las 100 Mujeres Poderosas Forbes en 2018”. Disponible en<https://goo.gl/GgjNG7> [última consulta: 19 de julio de 2018]. 
 
 
 
-
-
-
- 
