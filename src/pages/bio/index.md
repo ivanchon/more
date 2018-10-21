@@ -120,7 +120,7 @@ Aunado a ello, el 18 de junio del mismo año, _Forbes México_ publicó la lista
 
 **Premios y nominaciones**
 
-<table>
+<table class="table">
   <tbody>
     <tr>
       <th scope="col">A&ntilde;o</th>
