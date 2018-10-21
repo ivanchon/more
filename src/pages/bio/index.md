@@ -2,7 +2,7 @@
 templateKey: bio-page
 title: Biografia
 ---
-**Carla Patricia Morrison Flores **(Tecate, Baja California, 19 de Julio de 1986), más conocida como Carla Morrison, es una cantante y compositora mexicana independiente de pop alternativo, ganadora de tres premios Grammy Latino: dos por su álbum _Déjenme llorar_, el cual ha sido certificado en Platino, y uno por su canción “Vez primera”, del álbum _Amor supremo_. 
+**Carla Patricia Morrison Flores** (Tecate, Baja California, 19 de Julio de 1986), más conocida como Carla Morrison, es una cantante y compositora mexicana independiente de pop alternativo, ganadora de tres premios Grammy Latino: dos por su álbum _Déjenme llorar_, el cual ha sido certificado en Platino, y uno por su canción “Vez primera”, del álbum _Amor supremo_. 
 
 Carla Morrison es hija de dos padres mexicanos, Porfiria Flores e Hilario Morrison. Su padre, Hilario Morrison, antes apellidado Viera, obtuvo su apellido al ser adoptado por William Guy Morrison, nacido en California e hijo de una migrante inglesa llamada Laura Morrison.
 
@@ -18,7 +18,7 @@ Después de una corta, pero productiva, trayectoria junto a Babaluca, Carla opt�
 
 A principios de 2009, Carla Morrison lanzó su primer ep, titulado _Aprendiendo a aprender_, material que produjo en su totalidad de manera independiente en el estudio casero de Jordan Berailut en Tempe, Arizona. Tras corto tiempo, este trabajo logró captar la atención del público y de los medios, posicionando a Carla Morrison dentro de las propuestas más interesantes de la nueva escena mexicana y llevándola a tocar a gran parte de la República. El material contiene seis temas compuestos y producidos por ella misma, además de un tema adicional en el que reinterpretó la canción "Tragos de amargo licor" de Ramón Ayala. Los sencillos "Esta soledad" y "Lágrimas" fueron utilizados en la serie televisiva _Soy tu fan_.
 
-Más adelante, la cantante y compositora mexicana Natalia Lafourcade se ofreció a producir el siguiente ep de Carla Morrison y la invitó a ser su telonera en la presentación de su álbum _Hu hu hu _en el Teatro Fru Fru. Ésta fue su primera presentación oficial en la Ciudad de México y le abrió las puertas para conquistar al público de la ciudad. 
+Más adelante, la cantante y compositora mexicana Natalia Lafourcade se ofreció a producir el siguiente ep de Carla Morrison y la invitó a ser su telonera en la presentación de su álbum _Hu hu hu_ en el Teatro Fru Fru. Ésta fue su primera presentación oficial en la Ciudad de México y le abrió las puertas para conquistar al público de la ciudad. 
 
 Para 2010, Carla Morrison presentó su segundo ep titulado _Mientras tú dormías_,producido por Natalia Lafourcade. Este disco llevó a la cantautora a cosechar más éxitos: comenzó a presentarse en ciudades importantes de la República Mexicana y conquistó también algunos escenarios en Estados Unidos y Colombia. Cabe destacar que, con el ep_ Mientras tú dormías_, Carla Morrison fue nominada a un premio Grammy Latino en la categoría de Mejor Álbum de Música Alternativa. A su vez, dicho ep contribuyó a que se agotaran las entradas de una gran parte de sus presentaciones en escenarios como el Lunario del Auditorio Nacional, el Teatro Metropólitan y el Festival Vive Latino 2011.
 
@@ -425,7 +425,7 @@ Aunado a ello, el 18 de junio del mismo año, _Forbes México_ publicó la lista
 
 108 FLORES, Griselda (2017). “Carla Morrison's ‘Eres tu’ Featured on Guillermo del Toro'sNew Netflix Series”. Billboard, 6 de enero. Disponible en <https://goo.gl/Y3ZiNx> [últimaconsulta: 16 de agosto de 2017].
 
-109 Capítulo 02.#SoyMéxico”. Disponible en <https://www.youtube.com/watch?v=GCsmj_Ae7RU> [últimaconsulta: 27 de julio de 2018].
+109 Capítulo 02."#SoyMéxico”. Disponible en <https://www.youtube.com/watch?v=GCsmj_Ae7RU> [últimaconsulta: 27 de julio de 2018].
 
 110 FILTER MÉXICO (s.f.). “Banda de Turistas, Enjambre y Carla Morrison ayudan a Luz deVida”. Filter México. Disponible en <https://goo.gl/QRQTv6> [última consulta: 16 de agostode 2017].
 
