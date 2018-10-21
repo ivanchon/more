@@ -212,25 +212,25 @@ Aunado a ello, el 18 de junio del mismo año, _Forbes México_ publicó la lista
 
 **Referencias**
 
-1 Latin Grammy Awards,11 de agosto. Disponible en <https://goo.gl/18L2rV> [última consulta:11 de agosto de2017].
+<sup>1</sup> Latin Grammy Awards,11 de agosto. Disponible en <https://goo.gl/18L2rV> [última consulta:11 de agosto de2017].
 
-2 ASOCIACIÓN MEXICANA DE PRODUCTORES DE FONOGRAMAS Y VIDEOGRAMAS (AMPROFON).“Certificaciones de Carla Morrison”. Disponible en <https://goo.gl/Dh8WXP> [últimaconsulta: 11 de agosto de 2017].
+<sup>2</sup> ASOCIACIÓN MEXICANA DE PRODUCTORES DE FONOGRAMAS Y VIDEOGRAMAS (AMPROFON).“Certificaciones de Carla Morrison”. Disponible en <https://goo.gl/Dh8WXP> [últimaconsulta: 11 de agosto de 2017].
 
-3 VÁZQUEZ, Carlos H. (2013). “En el exilio el corazón. Entrevista con Carla Morrison”.Esquire, 15 de diciembre. Disponible en <https://goo.gl/qvZZXh> [última consulta: 11 deagosto de 2017].
+<sup>3</sup> VÁZQUEZ, Carlos H. (2013). “En el exilio el corazón. Entrevista con Carla Morrison”.Esquire, 15 de diciembre. Disponible en <https://goo.gl/qvZZXh> [última consulta: 11 deagosto de 2017].
 
-4 ROSADO, Glenda (2017). “La cantante Carla Morrison nos habla de su música y de todolo que la inspira”. Vix. Disponible en <https://goo.gl/qLenAr> [última consulta: 11 de agostode 2017].
+<sup>4</sup> ROSADO, Glenda (2017). “La cantante Carla Morrison nos habla de su música y de todolo que la inspira”. Vix. Disponible en <https://goo.gl/qLenAr> [última consulta: 11 de agostode 2017].
 
-5 VILLARREAL, Yezmin (2013). “Carla Morrison: ‘If I'd Have Followed the Rules, I'd Still NotBe Doing Anything’". Phoenix New Times, 22 de mayo. Disponible en <https://goo.gl/BtDxUP> [última consulta: 11 de agosto de 2017].
+<sup>5</sup> VILLARREAL, Yezmin (2013). “Carla Morrison: ‘If I'd Have Followed the Rules, I'd Still NotBe Doing Anything’". Phoenix New Times, 22 de mayo. Disponible en <https://goo.gl/BtDxUP> [última consulta: 11 de agosto de 2017].
 
-6 BALDERAS, Óscar (2015). “El feliz encanto de la reina de la tristeza”. El Universal, 1 denoviembre. Disponible en <https://goo.gl/wz4DdH> [última consulta: 11 de agosto de2017].
+<sup>6</sup> BALDERAS, Óscar (2015). “El feliz encanto de la reina de la tristeza”. El Universal, 1 denoviembre. Disponible en <https://goo.gl/wz4DdH> [última consulta: 11 de agosto de2017].
 
-7 BREYSSE, Emma (2008). “Babaluca Is Accumulating Passionate Fans by Sounding LikeNo One Else in Arizona”. Phoenix New Times, 4 de diciembre. Disponible en <https://goo.gl/KtEkt6> [última consulta: 11 de agosto de 2017].
+<sup>7</sup> BREYSSE, Emma (2008). “Babaluca Is Accumulating Passionate Fans by Sounding LikeNo One Else in Arizona”. Phoenix New Times, 4 de diciembre. Disponible en <https://goo.gl/KtEkt6> [última consulta: 11 de agosto de 2017].
 
-8 ME HACE RUIDO (2009). “Entrevista a Carla Morrison”. Me Hace Ruido, 25 de junio.Disponible en <https://goo.gl/S3x71W> [última consulta: 11 de agosto de 2017].
+<sup>8</sup> ME HACE RUIDO (2009). “Entrevista a Carla Morrison”. Me Hace Ruido, 25 de junio.Disponible en <https://goo.gl/S3x71W> [última consulta: 11 de agosto de 2017].
 
-9 GABRIELA, Hilda (2009). “Carla Morrison: Aprendiendo, a solas…". Al Borde, 10 de julio.Disponible en <https://goo.gl/bNJd2U> [última consulta: 11 de agosto de 2017].
+<sup>9</sup> GABRIELA, Hilda (2009). “Carla Morrison: Aprendiendo, a solas…". Al Borde, 10 de julio.Disponible en <https://goo.gl/bNJd2U> [última consulta: 11 de agosto de 2017].
 
-10 Me Hace Ruido, 25 de junio.Disponible en <https://goo.gl/sFfi5Z> [última consulta: 11 de agosto de 2017].
+<sup>10</sup> Me Hace Ruido, 25 de junio.Disponible en <https://goo.gl/sFfi5Z> [última consulta: 11 de agosto de 2017].
 
 11 ME HACE RUIDO (2009). “Entrevista a Carla Morrison”. Me Hace Ruido, 25 de junio.Disponible en <https://goo.gl/sFfi5Z> [última consulta: 11 de agosto de 2017].
 
