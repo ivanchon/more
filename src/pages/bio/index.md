@@ -100,9 +100,9 @@ Al finalizar la gira Amor Supremo, Carla Morrison decidió tomar un descanso ind
 
 Por otra parte, Carla Morrison ha seguido activa en temas sociales de importancia, como el empoderamiento de la mujer y el emprendimiento, a través de la impartición de pláticas. En dichas conferencias ha hablado sobre su desarrollo en la industria musical y sus experiencias como artista independiente. Destacan sus participaciones en el Festival Internacional de Creatividad de Cannes Lions, su participación en la “Forbes Master Class de 30 Mujeres de los Negocios”, así como su inclusión en la lista de “Las 100 mujeres más poderosas en México”. 
 
-Además, actualmente, Carla Morrison se encuentra trabajando en un documental que llevará el título _Todo pasa. _Bajo la producción de Olga Segura, dicho largometraje abordará la experiencia de la cantante como mujer y artista independiente en el medio de la industria musical, así como sus vivencias y los desafíos a los que se ha enfrentado como dueña de sus empresas Morrison Productions y Morrison Enterprises.<sup>121</sup>
+Además, actualmente, Carla Morrison se encuentra trabajando en un documental que llevará el título _Todo pasa_. Bajo la producción de Olga Segura, dicho largometraje abordará la experiencia de la cantante como mujer y artista independiente en el medio de la industria musical, así como sus vivencias y los desafíos a los que se ha enfrentado como dueña de sus empresas Morrison Productions y Morrison Enterprises.<sup>121</sup>
 
-Al día de hoy, Carla Morrison cuenta con más de 1.7 millones de seguidores en Facebook, 1.67 millones en Twitter y 689 mil en Instagram.
+Al día de hoy, Carla Morrison cuenta con más de 2.47 millones de suscriptores en You tube,  2.3 millones de oyentes mensuales en Spotify, más de 1.7 millones de seguidores en Facebook, 1.67  en Twitter y 733 mil en Instagram.
 
 **Festival Internacional de Creatividad de Cannes Lions**
 
