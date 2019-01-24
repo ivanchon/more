@@ -1,9 +1,13 @@
 ---
-templateKey: 'blog-post'
-title: 'Limonada con Jengibre Frozen'
+templateKey: blog-post
+title: Limonada con Jengibre Frozen
 date: 2018-02-18T15:04:10.000Z
 description: >-
-  Hola todos :) El año pasado me encontré mucho esta limonada en particular en diferentes lugares a donde andaba de gira a tocar mis canciones de mi disco Amor Supremo. No se si a ustedes les pase pero yo amo la limonada!! pero este tipo de limonada es muy rica...
+  Hola todos :) El año pasado me encontré mucho esta limonada en particular en
+  diferentes lugares a donde andaba de gira a tocar mis canciones de mi disco
+  Amor Supremo. No se si a ustedes les pase pero yo amo la limonada!! pero este
+  tipo de limonada es muy rica...
+image: /img/6ab39de9-a83b-4a27-b57a-55b0bcd825a0.jpg
 tags:
   - Mi vida sin azucar
 ---
