@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 title: ¿Que ha significado “Amor Supremo” en mi vida?
-date: 2017-02-13T13:06:00+01:00
+date: 2017-02-13T12:06:00.000Z
 description: Este disco comenzó como una búsqueda interior necesaria.
-image: /img/captura-de-pantalla-2017-02-20-131022.png
+image: /img/alco-amor-supremo-d.jpg
 tags:
   - Artista Independiente
 ---
