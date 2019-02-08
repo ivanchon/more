@@ -2,7 +2,7 @@
 templateKey: bio-page
 title: Biografia
 ---
-**Carla Patricia Morrison Flores** (Tecate, Baja California, 19 de Julio de 1986), más conocida como Carla Morrison, es una cantante y compositora mexicana independiente de pop alternativo, ganadora de tres premios Grammy Latino<sup>1</sup>: dos por su álbum _Déjenme llorar_, el cual ha sido certificado en Platino<sup>2</sup>, y uno por su canción “Vez primera”, del álbum _Amor supremo_. 
+**Carla Patricia Morrison Flores** (Tecate, Baja California, 19 de Julio de 1986), más conocida como Carla Morrison, es una cantante y compositora mexicana independiente de pop alternativo, ganadora de tres premios Grammy Latino<sup>1</sup>: dos por su álbum _Déjenme llorar_, el cual ha sido certificado en Platino<sup>2</sup>, y uno por su canción “Vez primera”, del álbum _Amor supremo_. En 2012
 
 Carla Morrison es hija de dos padres mexicanos, Porfiria Flores e Hilario Morrison. Su padre, Hilario Morrison, antes apellidado Viera, obtuvo su apellido al ser adoptado por William Guy Morrison, nacido en California e hijo de una migrante inglesa llamada Laura Morrison<sup>3</sup>.
 
