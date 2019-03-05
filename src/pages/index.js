@@ -95,6 +95,56 @@ export default class IndexPage extends React.Component {
               <div className="row">
                 <div className="col">
                   <h2 className="headers-h2">
+                    Conciertos
+                  </h2>
+                </div>
+              </div>
+              <div className="row" style={{borderBottom: '1px solid rgba(255,255,255,0.5)', marginBottom:'1em'}}>
+                <div className="col-12 col-md-3" style={{color: 'white'}}>
+                  <p><strong>APR 30</strong></p>
+                </div>
+                <div className="col-12 col-md-6 text-left" >
+                  <p>La Linea Festival - Music Room - Liverpool</p>
+                </div>
+                <div className="col-12 col-md-3 text-right">
+                  <a className="btn-ghost-secondary" href="https://www.bandsintown.com/e/1013883295-carla-morrison-at-liverpool-philharmonic" target="_blank">RSVP</a>
+                  <a className="btn-ghost-secondary" style={{marginLeft: '1em'}} href="https://www.comono.co.uk/live/carla-morrison-4/" target="_blank">Boletos</a>
+                </div>
+              </div>
+              <div className="row" style={{borderBottom: '1px solid rgba(255,255,255,0.5)', marginBottom:'1em'}}>
+                <div className="col-12 col-md-3" style={{color: 'white'}}>
+                  <p><strong>MAY 03</strong></p>
+                </div>
+                <div className="col-12 col-md-6 text-left" >
+                  <p>La Linea Festival - The Station - Bristol</p>
+                </div>
+                <div className="col-12 col-md-3 text-right">
+                  <a className="btn-ghost-secondary" href="https://www.bandsintown.com/e/1013617444-carla-morrison-at-the-station" target="_blank">RSVP</a>
+                  <a className="btn-ghost-secondary" style={{marginLeft: '1em'}} href="https://www.comono.co.uk/live/carla-morrison-3/" target="_blank">Boletos</a>
+                </div>
+              </div>
+              <div className="row">
+                <div className="col-12 col-md-3" style={{color: 'white'}}>
+                  <p><strong>MAY 05</strong></p>
+                </div>
+                <div className="col-12 col-md-6 text-left" >
+                  <p>La Linea Festival - EartH - London</p>
+                </div>
+                <div className="col-12 col-md-3 text-right">
+                  <a className="btn-ghost-secondary" href="https://www.bandsintown.com/e/1013567746-carla-morrison-at-london-earth" target="_blank">RSVP</a>
+                  <a className="btn-ghost-secondary" style={{marginLeft: '1em'}} href="https://www.comono.co.uk/live/carla-morrison-2/" target="_blank">Boletos</a>
+                </div>
+              </div>
+          </div>
+        </div>
+        </section>
+
+        <section id="videos" className="music-section">
+          <div className="container pt-5">
+            <div className="albums-block">
+              <div className="row">
+                <div className="col">
+                  <h2 className="headers-h2">
                     Videos
                   </h2>
                 </div>
