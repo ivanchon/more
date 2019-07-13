@@ -89,7 +89,7 @@ export default class IndexPage extends React.Component {
           </div>
       </section>*/}
 
-        <section id="videos" className="music-section">
+        {/*<section id="conciertos" className="music-section">
           <div className="container pt-5">
             <div className="albums-block">
               <div className="row">
@@ -137,7 +137,7 @@ export default class IndexPage extends React.Component {
               </div>
           </div>
         </div>
-        </section>
+    </section>*/}
 
         <section id="videos" className="music-section">
           <div className="container pt-5">
