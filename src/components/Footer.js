@@ -44,14 +44,14 @@ const Footer = () => (
             <img src={info} alt="Youtube"/>
           </span>
           <h4 className="title is-4">Fans</h4>
-          <a href="mailto:hola@carlamorrisonmusica.com">info@carlamorrisonmusica.com</a>
+          <a href="mailto:hola@carlamorrisonmusica.com">hola@carlamorrisonmusica.com</a>
         </div>
         <div className="col">
           <span className="icon">
             <img src={newspaper} alt="Youtube" />
           </span>
           <h4 className="title is-4">Prensa/Management</h4>
-          <a href="mailto:info@carlamorrisonmusica.com">info@carlamorrisonmusica.com</a>
+          <a href="mailto:carla@cosmica-artists.com">carla@cosmica-artists.com</a>
         </div>
       </div>
       <div className="row text-center pt-5">
@@ -139,7 +139,7 @@ const Footer = () => (
   <div className="container-fluid copyright">
     <div className="row text-center">
       <div className="col">
-          <p className="copyright">MORRISON PRODUCTIONS® México, 2018.</p>
+          <p className="copyright">MORRISON PRODUCTIONS® México, 2020.</p>
       </div>
     </div>
   </div>
